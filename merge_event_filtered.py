@@ -7,19 +7,10 @@ checks which stream URLs are online, and writes a merged playlist containing onl
 streams. The script is configurable via command-line arguments and contains sensible
 defaults.
 
-Features:
-- Configurable playlist directory, target files, output file, timeout, workers, retries.
-- Option to scan all .m3u/.m3u8 files in the directory or only specific files.
-- Deduplicates streams by URL while preserving the first seen EXTINF metadata.
-- Concurrently checks stream URLs using requests with retries and a HEAD-then-GET fallback.
-- Produces a clean #EXTM3U output file and optional offline-list file.
-
 Usage examples:
     python merge_event_filtered.py --playlist-dir playlists --all --output events_merged_filt.m3u
     python merge_event_filtered.py --playlist-dir playlists --targets events.m3u8,rctiplus.m3u --workers 40
-
 """
-
 from __future__ import annotations
 import os
 import re
@@ -113,8 +104,7 @@ def check_url_online(session: requests.Session, url: str, timeout: int) -> bool:
         if resp.status_code in (200, 206):
             # Try to read a byte to ensure it's serving content (don't hang)
             try:
-                chunk = next(resp.iter_content(chunk_size=64), None)
-                # chunk might be None for some endpoints but status 200 usually OK
+                _ = next(resp.iter_content(chunk_size=64), None)
                 return True
             except Exception:
                 return True
