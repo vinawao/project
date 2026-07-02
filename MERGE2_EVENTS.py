@@ -10,7 +10,7 @@ RCTI_FILE    = os.path.join(OUTPUT_DIR, "rctiplus.m3u")
 EVENT01_FILE = os.path.join(OUTPUT_DIR, "events.m3u8")
 EVENT02_FILE = os.path.join(OUTPUT_DIR, "liveeventfilter.m3u8")
 
-INDIHOME_FILE = "IndihomeTV.m3u"
+INDIHOME_FILE = "EVENTS2.m3u"
 
 
 def extract_rcti_streams():
