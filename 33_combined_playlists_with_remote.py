@@ -1,13 +1,14 @@
 import requests
 from datetime import datetime
 import re
+from urllib.parse import urlparse
 
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "https://project.denstv.workers.dev/playlists/tcl.m3u",
-    "https://project.denstv.workers.dev/playlists/liveeventsfilter.m3u",
-    "https://project.denstv.workers.dev/playlists/rctiplus.m3u"
+    "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/events.m3u8",
+    "https://project.denstv.workers.dev/playlists/rctiplus.m3u",
+    "https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u"    
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
@@ -52,67 +53,101 @@ def fetch_playlist(url):
         print(f"   ❌ Error: {type(e).__name__} - {str(e)}")
         return None
 
-def process_playlist(playlist_content, source_name, outfile):
-    """Process and write playlist content to output file"""
+def extract_channels(playlist_content):
+    """
+    Extract channels from playlist with proper M3U parsing.
+    Returns list of tuples: (extinf_line, channel_url, group_name)
+    """
+    channels = []
+    i = 0
+    
+    while i < len(playlist_content):
+        line = playlist_content[i].strip()
+        
+        # Skip empty lines and comments (except EXTINF)
+        if not line or (line.startswith('#') and not line.startswith('#EXTINF')):
+            i += 1
+            continue
+        
+        # Found a channel info line
+        if line.startswith('#EXTINF'):
+            extinf_line = line
+            group_name = "Ungrouped"
+            
+            # Extract group-title from EXTINF line
+            group_match = re.search(r'group-title="([^"]*)"', line)
+            if group_match:
+                group_title = group_match.group(1).strip()
+                # Handle nested groups - take first part before comma
+                group_name = group_title.split(',')[0].strip() if group_title else "Ungrouped"
+            
+            # Get the channel URL (next non-empty, non-comment line)
+            i += 1
+            while i < len(playlist_content):
+                next_line = playlist_content[i].strip()
+                if next_line and not next_line.startswith('#'):
+                    channels.append((extinf_line, next_line, group_name))
+                    i += 1
+                    break
+                i += 1
+        else:
+            i += 1
+    
+    return channels
+
+def process_playlist(playlist_content, source_name, outfile, all_urls_seen):
+    """
+    Process and write playlist content to output file.
+    Avoids duplicate channels across playlists.
+    """
     if not playlist_content:
         print(f"   ⚠️  Skipping {source_name}: No content")
         return False
     
-    # Create a dictionary to store groups and their channels
-    groups = {}
-    current_group = "Ungrouped"
-    channel_count = 0
+    channels = extract_channels(playlist_content)
     
-    # First pass: organize channels by their groups
-    i = 0
-    while i < len(playlist_content):
-        line = playlist_content[i]
-        
-        # Check if this is a group title line
-        if line.startswith("#EXTGRP:"):
-            current_group = line.split(':', 1)[1].strip()
-            i += 1
-            continue
-            
-        # Check if this is a channel info line
-        if line.startswith("#EXTINF"):
-            # Extract group-title if it exists
-            group_match = re.search(r'group-title="([^"]*)"', line)
-            if group_match:
-                current_group = group_match.group(1).split(',')[0].strip() or "Ungrouped"
-            
-            # Get the channel URL (next line)
-            if i + 1 < len(playlist_content) and not playlist_content[i+1].startswith('#'):
-                channel_url = playlist_content[i+1].strip()
-                if channel_url:  # Only add non-empty URLs
-                    if current_group not in groups:
-                        groups[current_group] = []
-                    groups[current_group].append((line, channel_url))
-                    channel_count += 1
-                i += 2
-                continue
-        
-        i += 1
-    
-    if not groups:
+    if not channels:
         print(f"   ⚠️  No valid channels found in {source_name}")
         return False
     
-    # Write the playlist header
+    # Organize by group and deduplicate URLs
+    groups = {}
+    added_count = 0
+    skipped_count = 0
+    
+    for extinf_line, channel_url, group_name in channels:
+        # Skip if we've seen this URL before (deduplication across playlists)
+        if channel_url in all_urls_seen:
+            skipped_count += 1
+            continue
+        
+        all_urls_seen.add(channel_url)
+        
+        if group_name not in groups:
+            groups[group_name] = []
+        groups[group_name].append((extinf_line, channel_url))
+        added_count += 1
+    
+    if not groups:
+        print(f"   ⚠️  No new channels to add from {source_name} (all duplicates)")
+        return False
+    
+    # Write playlist header for this source
     outfile.write(f'#PLAYLIST:x {source_name}\n')
     outfile.write(f'#EXTGRP:x {source_name}\n\n')
     
     # Write groups and their channels
-    for group, channels in groups.items():
-        outfile.write(f'#GROUP:{group}\n')
-        for channel_info, channel_url in channels:
-            outfile.write(f'{channel_info}\n')
+    for group, channels in sorted(groups.items()):
+        outfile.write(f'#EXTGRP:{group}\n')
+        for extinf_line, channel_url in channels:
+            outfile.write(f'{extinf_line}\n')
             outfile.write(f'{channel_url}\n')
         outfile.write('\n')
     
-    outfile.write('\n' + '='*50 + '\n\n')  # Separator between playlists
+    outfile.write('\n' + '='*60 + '\n\n')  # Separator between playlists
     
-    print(f"   ✅ Added {source_name}: {channel_count} channels, {len(groups)} groups")
+    dedup_msg = f" ({skipped_count} duplicates skipped)" if skipped_count > 0 else ""
+    print(f"   ✅ Added {source_name}: {added_count} new channels, {len(groups)} groups{dedup_msg}")
     return True
 
 def main():
@@ -120,12 +155,14 @@ def main():
     print(f"🚀 Starting to combine {len(PLAYLISTS)} playlists...\n")
     
     success_count = 0
+    all_urls_seen = set()  # Track all URLs to avoid duplicates
     
     try:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
             # Write header with EPG URL and timestamp
             outfile.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
-            outfile.write(f'# Generated on {datetime.utcnow().isoformat()} UTC\n\n')
+            outfile.write(f'# Generated on {datetime.utcnow().isoformat()} UTC\n')
+            outfile.write(f'# Combined from {len(PLAYLISTS)} playlists\n\n')
             
             # Process each playlist
             for idx, url in enumerate(PLAYLISTS, 1):
@@ -133,15 +170,16 @@ def main():
                 content = fetch_playlist(url)
                 if content:
                     source_name = get_playlist_name(url)
-                    if process_playlist(content, source_name, outfile):
+                    if process_playlist(content, source_name, outfile, all_urls_seen):
                         success_count += 1
                 print()  # Empty line for readability
         
-        print(f"\n{'='*60}")
+        print(f"\n{'='*70}")
         print(f"🎉 Success! Combined {success_count}/{len(PLAYLISTS)} playlists")
         print(f"📁 Output file: {OUTPUT_FILE}")
         print(f"📺 EPG URL: {EPG_URL}")
-        print(f"{'='*60}")
+        print(f"📊 Total unique channels: {len(all_urls_seen)}")
+        print(f"{'='*70}\n")
         
     except IOError as e:
         print(f"\n❌ Error writing to {OUTPUT_FILE}: {e}")
