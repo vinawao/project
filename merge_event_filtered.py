@@ -5,7 +5,7 @@ import concurrent.futures
 
 # Konfigurasi
 PLAYLIST_DIR = 'playlists'
-OUTPUT_FILE = 'merged.m3u'
+OUTPUT_FILE = 'events_merged.m3u'
 TIMEOUT = 5 # Waktu maksimal (detik) untuk menunggu respons server
 MAX_WORKERS = 20 # Jumlah thread paralel (sesuaikan dengan kebutuhan)
 
@@ -41,10 +41,7 @@ def main():
         return
 
     streams_to_check = []
-    # ... (sisa code di bawahnya tetap sama seperti sebelumnya)
 
-
-    streams_to_check = []
     
     # Membaca dan mem-parsing semua file M3U
     for file in playlist_files:
