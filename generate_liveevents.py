@@ -34,6 +34,7 @@ DEFAULT_HEADERS = {
 # Add your M3U URLs here
 SOURCES = [
     "https://github.com/doms9/iptv/raw/refs/heads/default/M3U8/events.m3u8",
+    "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
     "https://github.com/sm-monirulislam/SM-Live-TV/raw/refs/heads/main/World_Cup.m3u",
 ]
 
