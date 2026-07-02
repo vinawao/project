@@ -5,7 +5,7 @@ import re
 
 # ===== CONFIGURATION =====
 PLAYLISTS = [
-    "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/events.m3u8",
+    "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
     "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/rctiplus.m3u",
     "https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u"
 ]
