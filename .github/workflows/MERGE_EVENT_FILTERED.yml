@@ -45,7 +45,7 @@ jobs:
           echo "Directory structure:"
           ls -la playlists/ 2>/dev/null || echo "playlists/ is empty or doesn't exist"
 
-      - name: Run merge_event_filtered.py
+      - name: Run merge_event_filtered_refactored.py
         env:
           TZ: UTC
         run: |
