@@ -11,10 +11,10 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = [ "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz", 
-           "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz", 
-           "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" 
-          ]
+EPG_URL =  "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz", 
+ EPG_URL = "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz", 
+EPG_URL = "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" 
+          
 
 
 OUTPUT_DIR = Path("logo")
