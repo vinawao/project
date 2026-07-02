@@ -6,9 +6,9 @@ from urllib.parse import urlparse
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "https://project.denstv.workers.dev/playlists/tcl.m3u",
     "https://project.denstv.workers.dev/playlists/liveeventsfilter.m3u8",
-    "https://project.denstv.workers.dev/playlists/rctiplus.m3u"
+    "https://project.denstv.workers.dev/playlists/rctiplus.m3u",
+    "https://project.denstv.workers.dev/playlists/tcl.m3u"    
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
