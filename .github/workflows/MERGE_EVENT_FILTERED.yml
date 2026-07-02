@@ -1,103 +1,62 @@
-name: Merge Live Events Filtered
+name: Merge Playlists
 
 on:
-  schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch:
   push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/generate_liveevents.yml'
-      - 'merge_event_filtered.py'
-
-permissions:
-  contents: write
+    branches: [main]
+  schedule:
+    # setiap 40 menit (ubah sesuai kebutuhan)
+    - cron: '*/40 * * * *'
+  workflow_dispatch: {}
 
 concurrency:
-  group: git-write-lock
-  cancel-in-progress: false
+  group: merge-playlists
+  cancel-in-progress: true
 
 jobs:
-  build-playlists:
+  merge:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
-          cache: 'pip'
+          python-version: '3.11'
 
-      - name: Install Dependencies
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          mkdir -p playlists
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests urllib3; fi
 
-      - name: Generate Live Events
-        run: python generate_liveevents.py
-
-      - name: Commit and Push (Keep History Clean)
+      - name: Ensure playlists directory exists
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -d "playlists" ]; then echo "Warning: playlists/ directory not found"; fi
 
-          git add -A playlists/
+      - name: Run merge_event_filtered.py
+        env:
+          TZ: UTC
+        run: |
+          python merge_event_filtered.py --playlist-dir playlists --all --output events_merged_filt.m3u --offline-list offline.m3u --timeout 8 --workers 20 --retries 2
 
-          if git diff-index --quiet HEAD --; then
-            echo "No changes detected. Skipping commit."
-            exit 0
-          fi
+      - name: Upload merged playlist artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: events_merged_filt.m3u
+          path: events_merged_filt.m3u
 
-          LAST_AUTHOR=$(git log -1 --format='%ae')
-          BOT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
-          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
-          IS_AMEND=false
-
-          if [ "$LAST_AUTHOR" = "$BOT_EMAIL" ]; then
-            echo "Last commit by bot. Amending..."
-            git commit --amend --no-edit --date="$TIMESTAMP"
-            IS_AMEND=true
-          else
-            echo "Last commit by user. Creating new commit..."
-            git commit -m "Auto-Update $TIMESTAMP"
-          fi
-
-          for i in 1 2 3; do
-            echo "Syncing with remote (Attempt $i/3)..."
-            git fetch origin main
-
-            # NOTE: -Xtheirs sengaja dipilih supaya commit manual user di epgs/
-            # tidak ditimpa oleh hasil auto-generate kalau terjadi conflict.
-            if ! git rebase origin/main -Xtheirs; then
-              echo "Rebase failed. Aborting."
-              git rebase --abort
-              exit 1
-            fi
-
-            echo "Pushing changes..."
-            if [ "$IS_AMEND" = true ]; then
-              PUSH_CMD="git push origin main --force-with-lease"
-            else
-              PUSH_CMD="git push origin main"
-            fi
-
-            if $PUSH_CMD; then
-              echo "Push berhasil."
-              exit 0
-            fi
-
-            echo "Push ditolak, mencoba rebase ulang di iterasi berikutnya..."
-            sleep 2
-          done
-
-          echo "Push gagal setelah 3x percobaan."
-          exit 1
+      - name: Upload offline playlist artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: offline.m3u
+          path: offline.m3u
