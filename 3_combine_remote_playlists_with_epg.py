@@ -25,23 +25,43 @@ def get_playlist_name(url):
     return re.sub(r'(\.m3u8?|\.txt)?$', '', name, flags=re.IGNORECASE).strip() or 'Unnamed_Playlist'
 
 def fetch_playlist(url):
-    """Fetch playlist content from URL"""
+    """Fetch playlist content from URL with better error handling"""
     try:
-        response = requests.get(url, timeout=15)
+        print(f"   📡 Fetching from: {url}")
+        response = requests.get(url, timeout=15, allow_redirects=True)
         response.raise_for_status()
-        return response.text.splitlines()
+        
+        if not response.text:
+            print(f"   ⚠️  Warning: Empty response from {url}")
+            return None
+            
+        lines = response.text.splitlines()
+        print(f"   ✓ Retrieved {len(lines)} lines")
+        return lines
+        
+    except requests.exceptions.Timeout:
+        print(f"   ❌ Timeout: Request took too long for {url}")
+        return None
+    except requests.exceptions.HTTPError as e:
+        print(f"   ❌ HTTP Error ({e.response.status_code}): {url}")
+        return None
+    except requests.exceptions.ConnectionError:
+        print(f"   ❌ Connection Error: Cannot reach {url}")
+        return None
     except Exception as e:
-        print(f"❌ Failed to fetch {url}: {e}")
+        print(f"   ❌ Error: {type(e).__name__} - {str(e)}")
         return None
 
 def process_playlist(playlist_content, source_name, outfile):
     """Process and write playlist content to output file"""
     if not playlist_content:
-        return
+        print(f"   ⚠️  Skipping {source_name}: No content")
+        return False
     
     # Create a dictionary to store groups and their channels
     groups = {}
     current_group = "Ungrouped"
+    channel_count = 0
     
     # First pass: organize channels by their groups
     i = 0
@@ -63,14 +83,20 @@ def process_playlist(playlist_content, source_name, outfile):
             
             # Get the channel URL (next line)
             if i + 1 < len(playlist_content) and not playlist_content[i+1].startswith('#'):
-                channel_url = playlist_content[i+1]
-                if current_group not in groups:
-                    groups[current_group] = []
-                groups[current_group].append((line, channel_url))
+                channel_url = playlist_content[i+1].strip()
+                if channel_url:  # Only add non-empty URLs
+                    if current_group not in groups:
+                        groups[current_group] = []
+                    groups[current_group].append((line, channel_url))
+                    channel_count += 1
                 i += 2
                 continue
         
         i += 1
+    
+    if not groups:
+        print(f"   ⚠️  No valid channels found in {source_name}")
+        return False
     
     # Write the playlist header
     outfile.write(f'#PLAYLIST:x {source_name}\n')
@@ -85,27 +111,47 @@ def process_playlist(playlist_content, source_name, outfile):
         outfile.write('\n')
     
     outfile.write('\n' + '='*50 + '\n\n')  # Separator between playlists
+    
+    print(f"   ✅ Added {source_name}: {channel_count} channels, {len(groups)} groups")
+    return True
 
 def main():
     """Main function to combine playlists"""
-    print(f"🚀 Starting to combine {len(PLAYLISTS)} playlists...")
+    print(f"🚀 Starting to combine {len(PLAYLISTS)} playlists...\n")
     
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
-        # Write header with EPG URL and timestamp
-        outfile.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
-        outfile.write(f'# Generated on {datetime.utcnow().isoformat()} UTC\n\n')
+    success_count = 0
+    
+    try:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as outfile:
+            # Write header with EPG URL and timestamp
+            outfile.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
+            outfile.write(f'# Generated on {datetime.utcnow().isoformat()} UTC\n\n')
+            
+            # Process each playlist
+            for idx, url in enumerate(PLAYLISTS, 1):
+                print(f"[{idx}/{len(PLAYLISTS)}] 🔄 Processing: {url.split('/')[-1]}")
+                content = fetch_playlist(url)
+                if content:
+                    source_name = get_playlist_name(url)
+                    if process_playlist(content, source_name, outfile):
+                        success_count += 1
+                print()  # Empty line for readability
         
-        # Process each playlist
-        for url in PLAYLISTS:
-            print(f"🔄 Processing: {url}")
-            content = fetch_playlist(url)
-            if content:
-                source_name = get_playlist_name(url)
-                process_playlist(content, source_name, outfile)
-                print(f"✅ Added: {source_name} with groups")
+        print(f"\n{'='*60}")
+        print(f"🎉 Success! Combined {success_count}/{len(PLAYLISTS)} playlists")
+        print(f"📁 Output file: {OUTPUT_FILE}")
+        print(f"📺 EPG URL: {EPG_URL}")
+        print(f"{'='*60}")
+        
+    except IOError as e:
+        print(f"\n❌ Error writing to {OUTPUT_FILE}: {e}")
+        return False
+    except Exception as e:
+        print(f"\n❌ Unexpected error: {e}")
+        return False
     
-    print(f"\n🎉 Success! Combined playlist saved as '{OUTPUT_FILE}'")
-    print(f"📺 EPG URL: {EPG_URL}")
+    return success_count > 0
 
 if __name__ == "__main__":
-    main()
+    success = main()
+    exit(0 if success else 1)
