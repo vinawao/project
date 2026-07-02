@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 PLAYLISTS = [
     "https://project.denstv.workers.dev/playlists/liveeventsfilter.m3u8",
     "https://project.denstv.workers.dev/playlists/rctiplus.m3u",
-    "https://project.denstv.workers.dev/playlists/tcl.m3u"    
+    "https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u"    
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
