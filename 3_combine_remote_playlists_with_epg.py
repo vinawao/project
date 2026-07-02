@@ -14,7 +14,7 @@ PLAYLISTS = [
 EPG_URLS = [
     "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
     "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz",
-    "https://your-third-epg-url-here.xml.gz"  # Ganti dengan URL EPG ketiga Anda
+    "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"  # Ganti dengan URL EPG ketiga Anda
 ]
 
 # Gunakan EPG URL pertama sebagai default
