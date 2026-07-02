@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-07-02T04:12:42.466068 UTC
+# Generated on 2026-07-02T04:16:48.783750 UTC
 
 #PLAYLIST:x arena_sp
 #EXTGRP:x arena_sp
@@ -113,6 +113,40 @@ http://202.169.224.202:8800/udp/239.9.1.34:1234
 http://202.169.224.202:8800/udp/239.9.1.36:1234
 #EXTINF:-1,VTV HD
 http://202.169.224.202:8800/udp/239.9.1.39:1234
+
+
+==================================================
+
+#PLAYLIST:x fifa01.php
+#EXTGRP:x fifa01.php
+
+#GROUP:⚽ FIFA WORLD CUP 2026
+#EXTINF:-1 tvg-logo="000" group-title="⚽ FIFA WORLD CUP 2026", TSN 5 🇨🇦 CA     
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3HYPASK67VVUSL/6517/index.m3u8
+#EXTINF:0 tvg-id="SETANTA SPORTS 1 GE" group-title="⚽ FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" tvg-rec="0", SETANTA SPORTS 1 🇬🇪 GEORGIA *s1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:0 tvg-id="SETANTA SPORTS 1 GE" group-title="⚽ FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" tvg-rec="0", SETANTA SPORTS 2 🇬🇪 GEORGIA *s1
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:0 tvg-id="SETANTA SPORTS 1 GE" group-title="⚽ FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" tvg-rec="0", SETANTA SPORTS 1 🇬🇪 GEORGIA
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7169/index.m3u8
+#EXTINF:0 group-title="⚽ FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" tvg-rec="0", SETANTA SPORTS 2 🇬🇪 GEORGIA
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7168/index.m3u8
+#EXTINF:0 group-title="⚽ FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" tvg-rec="0", SETANTA SPORTS 3 🇬🇪 GEORGIA
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/2209/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3g0EMmgI2DMMWTOP1FY1mzsMM0EFFnAc2Z-fMv03m5aIpGGqwfb0PV4&s=10" group-title="⚽ FIFA WORLD CUP 2026", CAZE TV 🇧🇷 BR (HLS Cloud)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF: -1 tvg-chno="71.3" tvg-id="FS1.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="⚽ FIFA WORLD CUP 2026", FS 1 🇺🇸 US (HLS)
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
+#EXTINF:-1 tvg-id="TVP SPORT" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="⚽ FIFA WORLD CUP 2026",TVP Sport HD 🇵🇱 PL (HLS2)
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/2520/index.m3u8
+#EXTINF:-1 tvg-id="TVP SPORT" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp-2.png" group-title="⚽ FIFA WORLD CUP 2026",TVP 2 HD 🇵🇱 PL (HLS)
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7293/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021020435519473.jpg" group-title="⚽ FIFA WORLD CUP 2026",CCTV5 🇨🇳 CN (server2 a)
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021020435519473.jpg" group-title="⚽ FIFA WORLD CUP 2026",CCTV5 🇨🇳 CN (server2 b)
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPtXSvYjYoCk-uImxHrLdMefK9f8AHw6RKsVGNJG7LiSNxIiVE4Njmxw&s=10" group-title="⚽ FIFA WORLD CUP 2026",CCTV5+ Plus 🇨🇳 CN (server2)
+http://198.204.228.26/live/cctv5p.m3u8
 
 
 ==================================================
