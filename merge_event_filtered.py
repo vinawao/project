@@ -23,7 +23,7 @@ def check_stream(extinf_line, url):
 
 def main():
     # Tentukan nama file yang ingin diproses saja (tanpa path folder)
-    TARGET_PLAYLISTS = ['events.m3u', 'liveeventsfilter.m3u8', 'rctiplus.m3u']
+    TARGET_PLAYLISTS = ['events.m3u8', 'liveeventsfilter.m3u8', 'rctiplus.m3u']
     
     print(f"Memproses {len(TARGET_PLAYLISTS)} playlist yang ditentukan di folder '{PLAYLIST_DIR}/'...")
     
