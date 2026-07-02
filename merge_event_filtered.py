@@ -11,6 +11,11 @@ Usage examples:
     python merge_event_filtered.py --playlist-dir playlists --all --output events_merged_filt.m3u
     python merge_event_filtered.py --playlist-dir playlists --targets events.m3u8,rctiplus.m3u --workers 40
 """
+
+    python merge_event_filtered.py --playlist-dir playlists --all --output events_merged_filt.m3u
+    python merge_event_filtered.py --playlist-dir playlists --targets events.m3u8,liveeventsfilter.m3u8,rctiplus.m3u --workers 40
+
+
 from __future__ import annotations
 import os
 import re
