@@ -5,7 +5,7 @@ import concurrent.futures
 
 # Konfigurasi
 PLAYLIST_DIR = 'playlists'
-OUTPUT_FILE = 'events_merged.m3u'
+OUTPUT_FILE = 'events_merged_filt.m3u'
 TIMEOUT = 5 # Waktu maksimal (detik) untuk menunggu respons server
 MAX_WORKERS = 20 # Jumlah thread paralel (sesuaikan dengan kebutuhan)
 
