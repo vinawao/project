@@ -53,58 +53,83 @@ def fetch_playlist(url):
         print(f"   ❌ Error: {type(e).__name__} - {str(e)}")
         return None
 
-def extract_channels(playlist_content):
+def extract_channels_with_metadata(playlist_content):
     """
     Extract channels from playlist with proper M3U parsing.
-    Returns list of tuples: (extinf_line, channel_url, group_name)
+    PRESERVES ALL METADATA: EXTVLCOPT, tokens, referrer, origin, user-agent, etc.
+    Returns list of tuples: (metadata_lines, extinf_line, channel_url, group_name)
     """
     channels = []
     i = 0
     
     while i < len(playlist_content):
-        line = playlist_content[i].strip()
+        line = playlist_content[i]
+        line_stripped = line.strip()
         
-        # Skip empty lines and comments (except EXTINF)
-        if not line or (line.startswith('#') and not line.startswith('#EXTINF')):
+        # Skip empty lines and global comments
+        if not line_stripped or (line_stripped.startswith('#') and 
+                                 not line_stripped.startswith('#EXTINF') and 
+                                 not line_stripped.startswith('#EXTVLCOPT')):
             i += 1
             continue
         
-        # Found a channel info line
-        if line.startswith('#EXTINF'):
-            extinf_line = line
-            group_name = "Ungrouped"
+        # Collect ALL metadata lines (EXTVLCOPT, custom headers, etc) BEFORE #EXTINF
+        metadata_lines = []
+        while i < len(playlist_content):
+            current_line = playlist_content[i]
+            current_stripped = current_line.strip()
             
-            # Extract group-title from EXTINF line
-            group_match = re.search(r'group-title="([^"]*)"', line)
-            if group_match:
-                group_title = group_match.group(1).strip()
-                # Handle nested groups - take first part before comma
-                group_name = group_title.split(',')[0].strip() if group_title else "Ungrouped"
+            # Collect any #EXT* option lines that are NOT #EXTINF (those come later)
+            if current_stripped.startswith('#EXT') and not current_stripped.startswith('#EXTINF'):
+                metadata_lines.append(current_line)
+                i += 1
+                continue
             
-            # Get the channel URL (next non-empty, non-comment line)
-            i += 1
-            while i < len(playlist_content):
-                next_line = playlist_content[i].strip()
-                if next_line and not next_line.startswith('#'):
-                    channels.append((extinf_line, next_line, group_name))
+            break
+        
+        # Now we should have an EXTINF line (or something else if there was no metadata)
+        if i < len(playlist_content):
+            line = playlist_content[i]
+            line_stripped = line.strip()
+            
+            if line_stripped.startswith('#EXTINF'):
+                extinf_line = line
+                group_name = "Ungrouped"
+                
+                # Extract group-title from EXTINF line
+                group_match = re.search(r'group-title="([^"]*)"', line_stripped)
+                if group_match:
+                    group_title = group_match.group(1).strip()
+                    # Handle nested groups - take first part before comma
+                    group_name = group_title.split(',')[0].strip() if group_title else "Ungrouped"
+                
+                # Get the channel URL (next non-empty, non-comment line)
+                i += 1
+                while i < len(playlist_content):
+                    next_line = playlist_content[i]
+                    next_stripped = next_line.strip()
+                    if next_stripped and not next_stripped.startswith('#'):
+                        channels.append((metadata_lines, extinf_line, next_line, group_name))
+                        i += 1
+                        break
                     i += 1
-                    break
+            else:
                 i += 1
         else:
-            i += 1
+            break
     
     return channels
 
 def process_playlist(playlist_content, source_name, outfile, all_urls_seen):
     """
     Process and write playlist content to output file.
-    Avoids duplicate channels across playlists.
+    PRESERVES ALL METADATA and avoids duplicate channels across playlists.
     """
     if not playlist_content:
         print(f"   ⚠️  Skipping {source_name}: No content")
         return False
     
-    channels = extract_channels(playlist_content)
+    channels = extract_channels_with_metadata(playlist_content)
     
     if not channels:
         print(f"   ⚠️  No valid channels found in {source_name}")
@@ -115,17 +140,20 @@ def process_playlist(playlist_content, source_name, outfile, all_urls_seen):
     added_count = 0
     skipped_count = 0
     
-    for extinf_line, channel_url, group_name in channels:
+    for metadata_lines, extinf_line, channel_url, group_name in channels:
+        # Get clean URL for comparison (strip whitespace)
+        clean_url = channel_url.strip()
+        
         # Skip if we've seen this URL before (deduplication across playlists)
-        if channel_url in all_urls_seen:
+        if clean_url in all_urls_seen:
             skipped_count += 1
             continue
         
-        all_urls_seen.add(channel_url)
+        all_urls_seen.add(clean_url)
         
         if group_name not in groups:
             groups[group_name] = []
-        groups[group_name].append((extinf_line, channel_url))
+        groups[group_name].append((metadata_lines, extinf_line, channel_url))
         added_count += 1
     
     if not groups:
@@ -136,12 +164,19 @@ def process_playlist(playlist_content, source_name, outfile, all_urls_seen):
     outfile.write(f'#PLAYLIST:x {source_name}\n')
     outfile.write(f'#EXTGRP:x {source_name}\n\n')
     
-    # Write groups and their channels
+    # Write groups and their channels WITH ALL METADATA PRESERVED
     for group, channels in sorted(groups.items()):
         outfile.write(f'#EXTGRP:{group}\n')
-        for extinf_line, channel_url in channels:
-            outfile.write(f'{extinf_line}\n')
-            outfile.write(f'{channel_url}\n')
+        for metadata_lines, extinf_line, channel_url in channels:
+            # Write all metadata lines first (EXTVLCOPT with referrer, origin, user-agent, etc)
+            for metadata_line in metadata_lines:
+                outfile.write(metadata_line + '\n')
+            # Write EXTINF line
+            outfile.write(extinf_line + '\n')
+            # Write channel URL
+            outfile.write(channel_url)
+            if not channel_url.endswith('\n'):
+                outfile.write('\n')
         outfile.write('\n')
     
     outfile.write('\n' + '='*60 + '\n\n')  # Separator between playlists
@@ -179,6 +214,7 @@ def main():
         print(f"📁 Output file: {OUTPUT_FILE}")
         print(f"📺 EPG URL: {EPG_URL}")
         print(f"📊 Total unique channels: {len(all_urls_seen)}")
+        print(f"✨ All metadata preserved (EXTVLCOPT, tokens, referrers, etc)")
         print(f"{'='*70}\n")
         
     except IOError as e:
