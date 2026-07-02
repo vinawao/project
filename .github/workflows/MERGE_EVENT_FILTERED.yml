@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    # setiap 40 menit (ubah sesuai kebutuhan)
+    # Setiap 40 menit
     - cron: '*/40 * * * *'
   workflow_dispatch: {}
 
@@ -15,48 +15,88 @@ concurrency:
 jobs:
   merge:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests urllib3; fi
+          pip install -r requirements.txt
 
-      - name: Ensure playlists directory exists
+      - name: Validate environment
         run: |
-          if [ ! -d "playlists" ]; then echo "Warning: playlists/ directory not found"; fi
+          echo "Python version: $(python --version)"
+          echo "Pip version: $(pip --version)"
+          if [ ! -d "playlists" ]; then
+            echo "Warning: playlists/ directory not found"
+            mkdir -p playlists
+          fi
+          echo "Directory structure:"
+          ls -la playlists/ 2>/dev/null || echo "playlists/ is empty or doesn't exist"
 
       - name: Run merge_event_filtered.py
         env:
           TZ: UTC
         run: |
-          python merge_event_filtered.py --playlist-dir playlists --all --output events_merged_filt.m3u --offline-list offline.m3u --timeout 8 --workers 20 --retries 2
+          python merge_event_filtered.py \
+            --playlist-dir playlists \
+            --all \
+            --output events_merged_filt.m3u \
+            --offline-list offline.m3u \
+            --timeout 8 \
+            --workers 20 \
+            --retries 2 \
+            --verbose
 
-      - name: Upload merged playlist artifact
+      - name: Verify output files
+        if: always()
+        run: |
+          echo "=== Output Files Summary ==="
+          for file in events_merged_filt.m3u offline.m3u; do
+            if [ -f "$file" ]; then
+              lines=$(wc -l < "$file")
+              size=$(du -h "$file" | cut -f1)
+              echo "✓ $file - Size: $size, Lines: $lines"
+            else
+              echo "✗ $file - NOT FOUND"
+            fi
+          done
+
+      - name: Upload merged playlist
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: events_merged_filt.m3u
+          name: events-merged-filtered
           path: events_merged_filt.m3u
+          retention-days: 7
+          if-no-files-found: warn
 
-      - name: Upload offline playlist artifact
+      - name: Upload offline playlist
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: offline.m3u
+          name: offline-streams
           path: offline.m3u
+          retention-days: 7
+          if-no-files-found: warn
+
+      - name: Job Status
+        if: always()
+        run: |
+          if [ ${{ job.status }} == 'success' ]; then
+            echo "✓ Workflow completed successfully"
+          else
+            echo "✗ Workflow failed"
+            exit 1
+          fi
