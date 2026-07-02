@@ -10,11 +10,15 @@ PLAYLISTS = [
     "https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u"
 ]
 
-# EPG URL
-EPG_URL =  "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz", 
- EPG_URL = "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz", 
-EPG_URL = "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" 
-          
+# EPG URLs (multiple remote sources)
+EPG_URLS = [
+    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+    "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz",
+    "https://your-third-epg-url-here.xml.gz"  # Ganti dengan URL EPG ketiga Anda
+]
+
+# Gunakan EPG URL pertama sebagai default
+EPG_URL = EPG_URLS[0]
 
 
 OUTPUT_DIR = Path("logo")
