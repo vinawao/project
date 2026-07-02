@@ -5,9 +5,9 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "",
-    "",
-    "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/rctiplus.m3u"
+    "https://project.denstv.workers.dev/playlists/tcl.m3u",
+    "https://project.denstv.workers.dev/playlists/liveeventsfilter.m3u",
+    "https://project.denstv.workers.dev/playlists/rctiplus.m3u"
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
