@@ -6,7 +6,7 @@ import re
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
     "https://dplay-silk.vercel.app/m3u/arena_sp.m3u",
-    "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/events.m3u8",
+    "https://dplay-silk.vercel.app/fifa01.php",
     "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/rctiplus.m3u"
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
