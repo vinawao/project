@@ -1,20 +1,118 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-07-02T04:04:30.534203 UTC
+# Generated on 2026-07-02T04:12:42.466068 UTC
 
-#PLAYLIST:x liveeventsfilter
-#EXTGRP:x liveeventsfilter
+#PLAYLIST:x arena_sp
+#EXTGRP:x arena_sp
 
-
-==================================================
-
-#PLAYLIST:x events
-#EXTGRP:x events
-
-
-==================================================
-
-#PLAYLIST:x rctiplus
-#EXTGRP:x rctiplus
+#GROUP:-
+#EXTINF:-1 group-title="-",FTV
+http://143.244.62.109/federalna/index.m3u8
+#EXTINF:-1 group-title="-",RTS1 mcast
+http://143.244.62.109/rts1/index.m3u8
+#EXTINF:-1 group-title="-",HRT-TV2 HD
+http://143.244.62.109/hrt2/index.m3u8
+#EXTINF:-1,Arena Sport 1 Premium
+http://143.244.62.109:80/as1premium/index.m3u8
+#EXTINF:-1,Arena Sport 2 Premium
+http://143.244.62.109:80/as2premium/index.m3u8
+#EXTINF:-1,Arena Sport 3 Premium
+http://143.244.62.109:80/as3premium/index.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://143.244.62.109:80/as1hr/index.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://143.244.62.109:80/as2hr/index.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://143.244.62.109:80/as3hr/index.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://143.244.62.109:80/as4hr/index.m3u8
+#EXTINF:-1,Arena Sport 5 HD
+http://143.244.62.109:80/as5hr/index.m3u8
+#EXTINF:-1,Arena Sport 6 HD
+http://143.244.62.109:80/as6hr/index.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://143.244.62.109:80/as1/index.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://143.244.62.109:80/as2/index.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://143.244.62.109:80/as3/index.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://143.244.62.109:80/as4/index.m3u8
+#EXTINF:-1,Arena Sport 5 HD
+http://143.244.62.109:80/as5/index.m3u8
+#EXTINF:-1,Arena Sport 6 HD
+http://143.244.62.109:80/as6/index.m3u8
+#EXTINF:-1,Arena Sport 7 HD
+http://143.244.62.109:80/as7/index.m3u8
+#EXTINF:-1,Arena Sport 8 HD
+http://143.244.62.109:80/as8/index.m3u8
+#EXTINF:-1,Arena Sport 9 HD
+http://143.244.62.109:80/as9/index.m3u8
+#EXTINF:-1,Arena Sport 10 HD
+http://143.244.62.109:80/as10/index.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://143.244.62.109:80/as1bh/index.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://143.244.62.109:80/as2bh/index.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://143.244.62.109:80/as3bh/index.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://143.244.62.109:80/as4bh/index.m3u8
+#EXTINF:-1,ROCK ACTION
+http://202.169.224.202:8800/udp/239.9.1.1:1234
+#EXTINF:-1,HGTV
+http://202.169.224.202:8800/udp/239.9.1.3:1234
+#EXTINF:-1,TLC
+http://202.169.224.202:8800/udp/239.9.1.4:1234
+#EXTINF:-1,ASIAN FOOD NETWORK
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+#EXTINF:-1,DISCOVERY CHANNEL
+http://202.169.224.202:8800/udp/239.9.1.6:1234
+#EXTINF:-1,ANIMAL PLANET
+http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTINF:-1,ROCK ENTERTAINMENT
+http://202.169.224.202:8800/udp/239.9.1.8:1234
+#EXTINF:-1,CHAMPIONS TV 2 HD
+http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1,CHAMPIONS TV 3 HD
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+#EXTINF:-1,CITRA DRAMA
+http://202.169.224.202:8800/udp/239.9.1.12:1234
+#EXTINF:-1,CITRA BIOSKOP
+http://202.169.224.202:8800/udp/239.9.1.15:1234
+#EXTINF:-1,NICKELODEON
+http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1,NICK JR
+http://202.169.224.202:8800/udp/239.9.1.18:1234
+#EXTINF:-1,DREAMWORKS
+http://202.169.224.202:8800/udp/239.9.1.19:1234
+#EXTINF:-1,KIX
+http://202.169.224.202:8800/udp/239.9.1.21:1234
+#EXTINF:-1,GEM CCM TV
+http://202.169.224.202:8800/udp/239.9.1.22:1234
+#EXTINF:-1,CELESTIAL MOVIES
+http://202.169.224.202:8800/udp/239.9.1.23:1234
+#EXTINF:-1,INDOSIAR HD
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+#EXTINF:-1,HOREE TV
+http://H02.169.224.202:8800/udp/239.9.1.26:1234
+#EXTINF:-1,CITRA ENTERTAINMENT
+http://202.169.224.202:8800/udp/239.9.1.27:1234
+#EXTINF:-1,HIP HIP HOREEE
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+#EXTINF:-1,SCTV HD
+http://202.169.224.202:8800/udp/239.9.1.29:1234
+#EXTINF:-1,BBC EARTH
+http://202.169.224.202:8800/udp/239.9.1.30:1234
+#EXTINF:-1,BBC LIFESTYLE
+http://202.169.224.202:8800/udp/239.9.1.31:1234
+#EXTINF:-1,MOJI TV HD
+http://202.169.224.202:8800/udp/239.9.1.32:1234
+#EXTINF:-1,MNC TV HD
+http://202.169.224.202:8800/udp/239.9.1.34:1234
+#EXTINF:-1,IDX HD
+http://202.169.224.202:8800/udp/239.9.1.36:1234
+#EXTINF:-1,VTV HD
+http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 
 ==================================================
