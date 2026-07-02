@@ -49,7 +49,7 @@ jobs:
         env:
           TZ: UTC
         run: |
-          python merge_event_filtered.py \
+          python merge_event_filtered_refactored.py \
             --playlist-dir playlists \
             --all \
             --output events_merged_filt.m3u \
