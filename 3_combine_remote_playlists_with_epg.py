@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+from pathlib import Path
 import re
 
 # ===== CONFIGURATION =====
@@ -12,8 +13,11 @@ PLAYLISTS = [
 # EPG URL
 EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Output file
-OUTPUT_FILE = "3_combined_playlist.m3u"
+OUTPUT_DIR = Path("logo")
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+OUTPUT_FILE = OUTPUT_DIR / "3_combined_playlist.m3u"
+
 
 # ===== FUNCTIONS =====
 def get_playlist_name(url):
