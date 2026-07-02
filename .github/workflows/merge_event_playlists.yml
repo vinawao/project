@@ -1,0 +1,41 @@
+name: Merge and Filter M3U Event Playlists
+
+on:
+  schedule:
+    # Berjalan setiap hari pada pukul 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Memungkinkan eksekusi manual dari tab Actions
+
+jobs:
+  merge-playlists:
+    runs-on: ubuntu-latest
+    
+    # Memberikan akses agar GitHub Actions bisa melakukan commit & push
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run Merge and Filter Script
+        run: python merge_event_playlists.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Merged and filtered active M3U streams"
+          file_pattern: "merged.m3u"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
