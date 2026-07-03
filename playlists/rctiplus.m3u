@@ -1,53 +1,22 @@
 #EXTM3U
-
-
-
-#EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="#🇬🇧 TNT Sport 🇬🇧#",TNT Sports 1 🇬🇧
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_bts1/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.2" tvg-id="I1246.82451.schedulesdirect.org" tvg-name="TNT Sports 2"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" group-title="#🇬🇧 TNT Sport 🇬🇧#",TNT Sports 2 🇬🇧
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_bts2/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.3" tvg-name="TNT Sports 3"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" group-title="#🇬🇧 TNT Sport 🇬🇧#",TNT Sports 3 🇬🇧
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_bts3/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.4" tvg-name="TNT Sports 4"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" group-title="#🇬🇧 TNT Sport 🇬🇧#",TNT Sports 4 🇬🇧
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_bts4/index.m3u8
-
-
-
-
-
-# Generated: 2026-07-03 08:48:19
+# Generated: 2026-07-03 11:07:50
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783104498~hmac=b8121cfd799a78eba9571cef281c0a28be15355abcc6e540a13eb643135a3d38
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783112869~hmac=9c69c5a4443f08438d171e1edbe59e0f2a77ec4df06bb45b7294f88ead8e2519
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783104498~hmac=14df3584264bb44744e1ec982163aac58370efb5d0bd6d2e885a3182c51d3760
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783112869~hmac=1c2c53b40d5c4535da9a6fb008436d73fb94b16b1c84a20c54ad9f88132bd0c1
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783104499~hmac=e31fff931b8ec67966195993fbdc656a05dbf9ee803f99d5af31aed031ef6ff0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783112870~hmac=30bdc82d01b2102caeb0b06bf5f26945484b434daacf2696f2ee7d15c3bfb151
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783104499~hmac=3e1df55edd86bae4f80c971b4733d4cacac67213741932432583571cb7f5b7a2
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783112870~hmac=9d99db648c8952fe057a6d24cc8f52f063239a09bdbfa3d0ec166f6a6ce9bcb9
