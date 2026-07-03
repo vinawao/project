@@ -1,3 +1,4 @@
+# MOTOGP 
 
 
 #EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="MOTOGP",TNT Sports 1 UK
@@ -27,23 +28,21 @@ https://liveua.cdnfly.click/uk_bts4/index.m3u8
 
 
 
-#EXTINF:0 group-title="MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-OBtDr1Y4F3t-is_R6lonZVSfBQfng2QU7bbyqqiQA&s=10" tvg-rec="0",Go3 Sport 1 HD LATVIA
+#EXTINF:0 group-title="MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/960px-Go3_Sport.svg.png" tvg-rec="0",Go3 Sport 1 HD LATVIA
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 http://4os6vafy.ottclub.xyz/iptv/3HYPASK67VVUSL/18011/index.m3u8
 
-#EXTINF:0 group-title="MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-OBtDr1Y4F3t-is_R6lonZVSfBQfng2QU7bbyqqiQA&s=10" tvg-rec="0",Go3 Sport 2 HD LATVIA
+#EXTINF:0 group-title="MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/960px-Go3_Sport.svg.png" tvg-rec="0",Go3 Sport 2 HD LATVIA
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 http://4os6vafy.ottclub.xyz/iptv/3HYPASK67VVUSL/18012/index.m3u8
 
-
-
-#EXTINF:0 group-title="MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-OBtDr1Y4F3t-is_R6lonZVSfBQfng2QU7bbyqqiQA&s=10" tvg-rec="0",Go3 Sport Open HD LATVIA
+#EXTINF:0 group-title="MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/960px-Go3_Sport.svg.png" tvg-rec="0",Go3 Sport Open HD LATVIA
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
