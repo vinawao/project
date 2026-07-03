@@ -6,6 +6,7 @@ import re
 # ===== CONFIGURATION =====
 PLAYLISTS = [
     "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
+    "https://project.denstv.workers.dev/playlists/tntsports.txt",
     "https://raw.githubusercontent.com/vinawao/project/refs/heads/main/playlists/rctiplus.m3u",
     "https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u"
 ]
