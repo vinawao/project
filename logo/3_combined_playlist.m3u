@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-03T11:42:27.877156 UTC
+# Generated on 2026-07-03T12:15:06.010950 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -166,29 +166,74 @@ https://chatgpt.hereisman.net/playlist/52850/load-playlist
 #PLAYLIST: tntsports
 #EXTGRP: tntsports
 
-#EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="# TNT Sport #",TNT Sports 1 
+# MOTOGP 
+#EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="MOTOGP",TNT Sports 1 UK
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/uk_bts1/index.m3u8
 
-#EXTINF:-1 tvg-chno="77.2" tvg-id="I1246.82451.schedulesdirect.org" tvg-name="TNT Sports 2"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" group-title="# TNT Sport #",TNT Sports 2 
+#EXTINF:-1 tvg-chno="77.2" tvg-id="I1246.82451.schedulesdirect.org" tvg-name="TNT Sports 2"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" group-title="MOTOGP",TNT Sports 2 UK
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/uk_bts2/index.m3u8
 
-#EXTINF:-1 tvg-chno="77.3" tvg-name="TNT Sports 3"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" group-title="# TNT Sport #",TNT Sports 3 
+#EXTINF:-1 tvg-chno="77.3" tvg-name="TNT Sports 3"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" group-title="MOTOGP",TNT Sports 3 UK
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/uk_bts3/index.m3u8
 
-#EXTINF:-1 tvg-chno="77.4" tvg-name="TNT Sports 4"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" group-title="# TNT Sport #",TNT Sports 4 
+#EXTINF:-1 tvg-chno="77.4" tvg-name="TNT Sports 4"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" group-title="MOTOGP",TNT Sports 4 UK
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/uk_bts4/index.m3u8
+
+#EXTINF:0 group-title="MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/960px-Go3_Sport.svg.png" tvg-rec="0",Go3 Sport 1 HD LATVIA
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+http://4os6vafy.ottclub.xyz/iptv/3HYPASK67VVUSL/18011/index.m3u8
+
+#EXTINF:0 group-title="MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/960px-Go3_Sport.svg.png" tvg-rec="0",Go3 Sport 2 HD LATVIA
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+http://4os6vafy.ottclub.xyz/iptv/3HYPASK67VVUSL/18012/index.m3u8
+
+#EXTINF:0 group-title="MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/960px-Go3_Sport.svg.png" tvg-rec="0",Go3 Sport Open HD LATVIA
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+http://4os6vafy.ottclub.xyz/iptv/3HYPASK67VVUSL/18025/index.m3u8
+
+#EXTINF:0 tvg-id="Sport TV 4 PT" group-title="MOTOGP" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" tvg-rec="0", Sport TV 4 HD PORTUGAL
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+https://cors-proxy.rdpsell01.workers.dev/http://4os6vafy.ottclub.xyz/iptv/3HYPASK67VVUSL/31945/index.m3u8
+
+#EXTINF:0 tvg-rec="3" tvg-id="" tvg-name="ZIGGO 1" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="MOTOGP", ZIGGO SPORT 1 HD NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/2560/index.m3u8
+
+#EXTINF:0 tvg-rec="3 tvg-id="" tvg-name="ZIGGO 2" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="MOTOGP"", ZIGGO SPORT 2 NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/2561/index.m3u8
+
+#EXTINF:0 tvg-rec="3" tvg-id="" tvg-name="PRIMA 1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205121905" group-title="MOTOGP", PRIMA SPORT 1 HD RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7059/index.m3u8
+
+#EXTINF:0 tvg-rec="3" tvg-id="" tvg-name="PRIMA 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a9/Prima_Sport_2_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205122246" group-title="MOTOGP", PRIMA SPORT 2 HD RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 
 ============================================================
 
