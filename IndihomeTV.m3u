@@ -1,26 +1,26 @@
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-04 12:58:54
+# Updated: 2026-07-04 18:56:07
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783205933~hmac=e2f79d6d5384ad3e1e89dcbff7d69b5facff93c41a540b877c74abf58653a34e
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783227366~hmac=490546cad6193a862661fdd50f2cc9a95e09cc03df93413aa3a5f320e229b3be
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783205934~hmac=7b891e1f9b07736d6b1debc7503c5da078750b0867751a0ce32210201eeef512
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783227366~hmac=ee4f6dd785de7b6f3678413aaf8c713ca547987273f2d7384c132d3760c1744a
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783205934~hmac=e70985ec28e9d7720bbb63cbd6e889fe645f4968fffbb7b91502f8bd1c291091
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783227367~hmac=1696bc80e10e8a4193b5726f594c42656a72bac28da486ba6cf6e78aee5bbed8
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783205934~hmac=0428f9ad0c956c01f905fbfe6a59d0c66f1a1cfd79ce3c014ea8e7afc6d42526
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783227367~hmac=71ec282324f9267911a99d9c6951a04045be14356f0fcf17922ebac1e8822e5b
 
 # === END RCTI+ SECTION ===
