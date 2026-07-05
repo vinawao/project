@@ -1,26 +1,22 @@
-
-
-# === RCTI+ SECTION ===
-# Updated: 2026-07-05 00:13:24
+#EXTM3U
+# Generated: 2026-07-05 00:13:24
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783227366~hmac=490546cad6193a862661fdd50f2cc9a95e09cc03df93413aa3a5f320e229b3be
+https://myproxy.app/https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783246403~hmac=492b2239f19c2c9eb296817688a4c984074bd0b962a162dc7578e3879af43ba8
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783227366~hmac=ee4f6dd785de7b6f3678413aaf8c713ca547987273f2d7384c132d3760c1744a
+https://myproxy.app/https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783246403~hmac=bff7c43191471216b094c7c7485a34abfd054ac12bcfa23b52f37b1473c05562
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783227367~hmac=1696bc80e10e8a4193b5726f594c42656a72bac28da486ba6cf6e78aee5bbed8
+https://myproxy.app/https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783246404~hmac=29b27842d486f2808ffaa14d01505750fec326d8bbdab5774b5e1024c5ec380d
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783227367~hmac=71ec282324f9267911a99d9c6951a04045be14356f0fcf17922ebac1e8822e5b
-
-# === END RCTI+ SECTION ===
+https://myproxy.app/https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783246404~hmac=9b423964dec4070fed438f3a5c58312f98a1fbd8c5c2e5a7d105f5459e84a0ea
