@@ -14,7 +14,7 @@ USER_AGENT = 'Mozilla/5.0'
 API_KEY = 'jFFhGYfZzrEgaPIGmFOVttQzCNbvqJHb'
 BASE_URL = 'https://m.rctiplus.com'
 API_URL = 'https://toutatis.rctiplus.com/video/live/api/v1/live/{}/url'
-PROXY_PREFIX = "https://proxy-r.pages.dev/"
+PROXY_PREFIX = "https://proxy-r.denstv.workers.dev/"
 
 # Token fallback (expired, cuma buat darurat)
 FALLBACK_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOjAsInRva2VuIjoiMjM0OTM2NGE5ZTgzMjQ1NyIsInBsIjoibXdlYiIsImRldmljZV9pZCI6IjJkYmQwZDJiLWRjMTYtNGIwOS1iYTA1LWUwYjQzNzc5NDhkOSIsImx0eXBlIjoiIiwiaWF0IjoxNzcyMTU5NDMyfQ.F_CwnDc1Bpen9o7uJNTP1lCqwcHMbY48rZOftlRYLC0'
