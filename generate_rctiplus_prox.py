@@ -9,7 +9,7 @@ from datetime import datetime
 
 # ========== KONFIGURASI ==========
 OUTPUT_DIR = "playlists"
-OUTPUT_FILE = "rctiplus.m3u"
+OUTPUT_FILE = "rctiplus_prox.m3u"
 USER_AGENT = 'Mozilla/5.0'
 API_KEY = 'jFFhGYfZzrEgaPIGmFOVttQzCNbvqJHb'
 BASE_URL = 'https://m.rctiplus.com'
