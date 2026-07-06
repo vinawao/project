@@ -1,195 +1,201 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-06T09:06:05.878741 UTC
+# Generated on 2026-07-06T13:53:59.901521 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
 #EXTGRP: liveeventsfilter
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bulgarian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bulgarian Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[Cycling] Cycling Tour de France (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cycling] Cycling Tour de France (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/rarararaQQQQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bulgarian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bulgarian Feed (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=fq0wnvxdtq
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=fq0wnvxdtq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/fq0wnvxdtq.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Croatian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Croatian Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Croatian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Croatian Feed (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=hcicvcycw2
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=hcicvcycw2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/hcicvcycw2.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Dutch Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Dutch Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Dutch Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Dutch Feed (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=erl37sx1pg
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=erl37sx1pg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/erl37sx1pg.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] England vs Mexico (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] England vs Mexico (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
-#EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/US/NFLHD1/index.m3u8
-
-#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 1 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/esx51jdn9y.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 2 (STRMHUB)
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 2 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/yq97gcrutx.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 3 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 3 (STRMHUB)
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 3 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 3 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=01axyd1huy
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=01axyd1huy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/01axyd1huy.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 6 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 6 (STRMHUB)
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 6 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 6 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=0wgkujaqih
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=0wgkujaqih
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/0wgkujaqih.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | BBC (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | BBC (XYZSTRM)
+#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | BBC (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | BBC (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)
+#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://247v2.xyzstreams.st/?stream_id=foxwnyw&pro_id=sling&index-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FS1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FS1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FS1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FS1 (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/fs1-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/itv-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)
+#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://247.xyzstreams.st/?stream_id=itv1&pro_id=itv&index.mpd
 
-#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | TSN (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | TSN (XYZSTRM)
+#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | TSN (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | TSN (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed 1 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=thjmdciaen
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=thjmdciaen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/thjmdciaen.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 1 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=n8ilhjbzdh
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=n8ilhjbzdh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/n8ilhjbzdh.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 2 (STRMHUB)
+#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 2 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=abzkpknkkt
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=abzkpknkkt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/abzkpknkkt.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 3 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 3 (STRMHUB)
+#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 3 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 3 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=byunqmaemy
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=byunqmaemy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/byunqmaemy.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 4 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 4 (STRMHUB)
+#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 4 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 4 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zoojqh2zjh
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=zoojqh2zjh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/zoojqh2zjh.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Polish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Polish Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Polish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Polish Feed (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zpzdyd32sa
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=zpzdyd32sa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/zpzdyd32sa.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Serbian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Serbian Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Serbian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Serbian Feed (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=md47hloawt
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=md47hloawt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/md47hloawt.m3u8
 
-#EXTINF:-1 tvg-chno="83" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (XYZSTRM)
+#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="71" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 1 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ifibecaaqs
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=ifibecaaqs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/ifibecaaqs.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 2 (STRMHUB)
+#EXTINF:-1 tvg-chno="72" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 2 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=rfvtzlcu7e
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=rfvtzlcu7e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/rfvtzlcu7e.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Turkish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Turkish Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="75" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Turkish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Turkish Feed (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=vg3xdntclm
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=vg3xdntclm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/vg3xdntclm.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Los Angeles Dodgers vs San Diego Padres (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Los Angeles Dodgers vs San Diego Padres (FAWA)
+#EXTINF:-1 tvg-chno="92" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/GGGGFQQQQ.m3u8
+http://193.47.62.194/hls/vavavava.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Boston Red Sox (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Angels vs Boston Red Sox (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52988?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/52988?ad=111
+#EXTINF:-1 tvg-chno="93" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/52988/load-playlist
+http://193.47.62.194/hls/vavavavaq.m3u8
 
-#EXTINF:-1 tvg-chno="118" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs San Diego Padres (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs San Diego Padres (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52982?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/52982?ad=111
+#EXTINF:-1 tvg-chno="120" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies at Kansas City Royals | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Philadelphia Phillies at Kansas City Royals | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streams.center
+#EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/52982/load-playlist
+https://edgestream2.pro/hls/dazhfiach15.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[Nascar Cup Series] Nascar Cup Series 2026 - NASCAR Cup Series Race at Chicagoland (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Nascar Cup Series] Nascar Cup Series 2026 - NASCAR Cup Series Race at Chicagoland (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52925?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/52925?ad=111
+#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Portugal vs Spain (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Portugal vs Spain (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/52925/load-playlist
+https://customer-k7esp6o17le0nad2.cloudflarestream.com/c34b7f3384098527b73e7f3fc4559c14/manifest/video.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Mexico vs England, 2026 FIFA World Cup, Round of 16 (SPRTSPASS)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Mexico vs England, 2026 FIFA World Cup, Round of 16 (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.shop/soccer/fifa2026.html
-#EXTVLCOPT:http-origin=https://sportspass.shop/soccer/fifa2026.html
+#EXTINF:-1 tvg-chno="141" tvg-id="Live.Event.us" tvg-name="[Tennis Masters] Tennis Wimbledoner Court (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Tennis Masters] Tennis Wimbledoner Court (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2.m3u8
+http://193.47.62.41/hls/YFFFQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[World Championship] Mexico vs England (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Championship] Mexico vs England (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52984?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/52984?ad=111
+#EXTINF:-1 tvg-chno="142" tvg-id="Live.Event.us" tvg-name="[Tennis Masters] Tennis Wimbledont 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Tennis Masters] Tennis Wimbledont 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/52984/load-playlist
+http://193.47.62.41/hls/YFFFQQ.m3u8
+
+#EXTINF:-1 tvg-chno="143" tvg-id="Live.Event.us" tvg-name="[Tennis Masters] Tennis Wimbledont 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Tennis Masters] Tennis Wimbledont 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/YFFFQ.m3u8
 
 ============================================================
 
@@ -270,26 +276,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-07-06 02:07:50
+# Generated: 2026-07-06 09:55:10
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783339669~hmac=f522727630764d7eae2a944e3f0e3c485a3df010c4cb2a49cdb8d12079fea8de
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783367709~hmac=4fb14063738642bbfb8fa2bf0faf019767f8ab164406ba6cfc818e2599aa0ced
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783339669~hmac=372c698d8677f3bee34c647d3f9202d4ba0a83a1a67171632e80b1555bcbfbd3
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783367709~hmac=c03be663cf271b20abdc926f7984dae632671088ce09e4370332ad25d05e8e8c
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783339669~hmac=20ac7df7cbce0def6a04ebd65b857aa562aaa3973109f6029443d9f644b959c0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783367709~hmac=103197b0761163ac965392bf4722b7929e8d9504867f23f59541b39736178f36
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783339669~hmac=80c76d0fd4ae9dc511c82fd0c7fcd4b11f9924aa9a423e856101e741adf4f2b0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783367710~hmac=efff57dac8db9ec252c5e6da61b73907eae9160caef81960dbb9ca211cfeb5b3
 
 ============================================================
 
@@ -1130,26 +1136,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-06 03:39:43
+# Updated: 2026-07-06 10:25:06
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783345182~hmac=72ebb41553372a184d2d03a1c12f3d9bfaaaf3dde65d018da3708cd6e03cb71a
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783369506~hmac=76342f757bab84c86a92fe5ecb3c5244087c5701691f77829456f799679bcf09
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783345182~hmac=14f42a939050f4020ed8da08e72b33048547abf7379a04d01937aa4377cc0b37
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783369506~hmac=853c807785cedc6fb4241c6c07160ce1318a3729156f3b8eded2dd6d8c86c0e8
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783345183~hmac=6ce7552d535fc57b91bfe53fde4bb05f984bbf16255a8fdb15e8a068b9bcf6be
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783369506~hmac=db35078e93c03b909b7e09ce051c87c481c64b00fb25b01bce7dad274ef45e13
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783345183~hmac=e8831bac3e81a3f0f42485be0f753a23d0d8655c39fe6d3afea6e452f7f4bb92
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783369506~hmac=8a0dddfd360615d1aa4fbb2f37a22620c0da9c13edeb8dea0c5f333dfb64e034
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
