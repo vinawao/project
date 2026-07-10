@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-10T08:32:31.880566 UTC
+# Generated on 2026-07-10T12:04:44.997700 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -23,78 +23,6 @@ https://247v2.xyzstreams.st/?stream_id=foxwnyw&pro_id=sling&index-waUvqaAACr.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://247.xyzstreams.st/?stream_id=itv1&pro_id=itv&index.mpd
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA ISCO Championship (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA ISCO Championship (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/ddddv.m3u8
-
-#EXTINF:-1 tvg-chno="57" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs San Diego Padres (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Arizona Diamondbacks vs San Diego Padres (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb12.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs Pittsburgh Pirates (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Atlanta Braves vs Pittsburgh Pirates (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb.m3u8
-
-#EXTINF:-1 tvg-chno="63" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Chicago White Sox (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox vs Chicago White Sox (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb6.m3u8
-
-#EXTINF:-1 tvg-chno="66" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Brewers vs Cardinals (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=08OEVPrLjm2OFMQlVsGZIml5ytMJwria6wwXyRbfzJw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym%2F&expires=1783666844/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym/132.m3u8
-
-#EXTINF:-1 tvg-chno="68" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Minnesota Twins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Minnesota Twins (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb5.m3u8
-
-#EXTINF:-1 tvg-chno="70" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Colorado Rockies vs San Francisco Giants (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Colorado Rockies vs San Francisco Giants (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb13.m3u8
-
-#EXTINF:-1 tvg-chno="75" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Texas Rangers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Angels vs Texas Rangers (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb11.m3u8
-
-#EXTINF:-1 tvg-chno="77" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs St. Louis Cardinals (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Milwaukee Brewers vs St. Louis Cardinals (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb10.m3u8
-
-#EXTINF:-1 tvg-chno="78" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Tampa Bay Rays (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees vs Tampa Bay Rays (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb3.m3u8
-
-#EXTINF:-1 tvg-chno="79" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Cincinnati Reds (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Philadelphia Phillies vs Cincinnati Reds (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb9.m3u8
-
-#EXTINF:-1 tvg-chno="84" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Royals vs Mets (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Royals vs Mets (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=0gzfjciPlYQXIn1i7la6970B8992bGu-iw-kZb-FSKQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F&expires=1783666842/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy/109.m3u8
-
 #EXTINF:-1 tvg-chno="87" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Arizona Diamondbacks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Diego Padres vs Arizona Diamondbacks (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53145?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53145?ad=111
@@ -107,18 +35,6 @@ https://chatgpt.hereisman.net/playlist/53145/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53146/load-playlist
 
-#EXTINF:-1 tvg-chno="91" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Miami Marlins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners vs Miami Marlins (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/mlb8.m3u8
-
-#EXTINF:-1 tvg-chno="111" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Los Angeles Clippers vs Sacramento Kings (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Los Angeles Clippers vs Sacramento Kings (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/LLLLQQQQQQ.m3u8
-
 #EXTINF:-1 tvg-chno="119" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Los Angeles Clippers vs Sacramento Kings (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Los Angeles Clippers vs Sacramento Kings (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53150?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53150?ad=111
@@ -130,54 +46,6 @@ https://chatgpt.hereisman.net/playlist/53150/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53142?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53142/load-playlist
-
-#EXTINF:-1 tvg-chno="127" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Detroit Pistons vs Philadelphia 76ers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Detroit Pistons vs Philadelphia 76ers (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://tedesco.uniteesports.com/nba3.m3u8
-
-#EXTINF:-1 tvg-chno="128" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Golden State Warriors vs Dallas Mavericks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Golden State Warriors vs Dallas Mavericks (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://tedesco.uniteesports.com/nba.m3u8
-
-#EXTINF:-1 tvg-chno="130" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Sacramento Kings vs Los Angeles Clippers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Sacramento Kings vs Los Angeles Clippers (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://tedesco.formaturamaxi.com.br/nba.m3u8
-
-#EXTINF:-1 tvg-chno="131" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs Atlanta Hawks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] San Antonio Spurs vs Atlanta Hawks (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://tedesco.uniteesports.com/nba2.m3u8
-
-#EXTINF:-1 tvg-chno="137" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] France vs Morocco (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] France vs Morocco (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin2.formaturamaxi.com.br/tsn.m3u8
-
-#EXTINF:-1 tvg-chno="138" tvg-id="Live.Event.us" tvg-name="[TNA Wrestling] TNA Wrestling (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[TNA Wrestling] TNA Wrestling (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.59/hls/ummm.m3u8
-
-#EXTINF:-1 tvg-chno="140" tvg-id="Live.Event.us" tvg-name="[WNBA Basketball] Phoenix Mercury W vs Indiana Fever W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WNBA Basketball] Phoenix Mercury W vs Indiana Fever W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/LLLLQQQQ.m3u8
-
-#EXTINF:-1 tvg-chno="141" tvg-id="Live.Event.us" tvg-name="[WNBA Basketball] Portland Fire W vs Las Vegas Aces W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WNBA Basketball] Portland Fire W vs Las Vegas Aces W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/LLLLQQQQQ.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Phoenix Mercury vs Indiana Fever (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Phoenix Mercury vs Indiana Fever (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53148?ad=111
@@ -270,26 +138,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-07-10 01:53:27
+# Generated: 2026-07-10 09:18:03
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783684406~hmac=042e9097946bc4ecf6f7feb6010661c9304dfa4c3a4fdcdef2cd7673f85227bd
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783711082~hmac=07078109b6e0d97370738aa7bcc1c7b2998fa51af39be0a452e82586017f0ebd
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783684406~hmac=a8a541259f41748ec843761018646880dea24f24060fd7b4bdf9870021b6d46d
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783711082~hmac=3b5f1ec698fdf95d8b276b2c333c5581f19b94d0210ed6118fec4abe333f5c19
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783684407~hmac=f63199ca617996105ae8bcc9f60daa7239976c05acb1f7b5b18155fccb8ba474
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783711083~hmac=e57e943839882cdd2acc39957b35d28cb50e3856b81f811c9a9e9385da0659dd
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783684407~hmac=1952504cf4e0c97491200fafab9d87fceaff78f0730d22628b607295641a4a24
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783711083~hmac=2054880f75736c17d3fb77af5bd6fcc01f8685080d191ce2c6d33b1bf718622a
 
 ============================================================
 
@@ -1130,26 +998,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-10 03:27:06
+# Updated: 2026-07-10 09:37:40
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783690025~hmac=44df42f2a352becdefce9611e9ac6ce571396cb90e19111adb96b09aac85912f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783712259~hmac=6d41961375febf0dbe58adef63291f208246a711fea4b9dcc9c419972c68cfd6
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783690025~hmac=00d23ed9fe110cd68fdc43e2897ba6e399b97abd9a5eec8792676bfc2c77760b
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783712259~hmac=c76abc436dc5fff147cafb09530846b8b5f6eee97c2add39a3f444f316aa0a10
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783690025~hmac=05478fcae79b903ba2e987a7f979ef8674b6f402cdd8f77fb24feda75769850e
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783712259~hmac=da26544ad46f88c15066c9d4b16160b9993c711c795fc141a3fb7d2ec27e5336
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783690026~hmac=490431765e39dbc52004d19bd0af79beb93edece702b2fdc2c31702705674d9c
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783712260~hmac=1654ba3dfaf047be123b3d7745c76205531442528c0053be02a51eb948c6ad1c
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
