@@ -1,11 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+#======= World Cup BD ================
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee
 #====== Toffee World Cup ============
 http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=900&c=-2
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
 http://sm-monirul.top/fifa/play/toffee3.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Sports Channels",Toffee 2
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366103-0-0-22529c3f65969c7cdd810209a64927e6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope
 #====== Bioscope World Cup ============
 #https://bioscope-ultra.sm-monirulislam-exp.workers.dev/bioscope.m3u8
@@ -25,6 +26,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTl9XIh.png" ,Unite8
 http://103.165.93.31:8095/unt-s/video.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg", Caze TV Brazil 🇧🇷
