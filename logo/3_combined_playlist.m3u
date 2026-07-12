@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-12T11:19:55.390436 UTC
+# Generated on 2026-07-12T13:44:06.486539 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -41,12 +41,6 @@ https://247.xyzstreams.st/?stream_id=itv1&pro_id=itv&index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/TGGG.m3u8
 
-#EXTINF:-1 tvg-chno="95" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Baltimore Orioles vs Kansas City Royals (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Baltimore Orioles vs Kansas City Royals (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/LPLPLPQ.m3u8
-
 #EXTINF:-1 tvg-chno="129" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Arizona Diamondbacks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Arizona Diamondbacks (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53266?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53266?ad=111
@@ -82,12 +76,6 @@ https://chatgpt.hereisman.net/playlist/53272/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53271?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53271/load-playlist
-
-#EXTINF:-1 tvg-chno="192" tvg-id="Live.Event.us" tvg-name="[NRL] Manly Sea Eagles vs NQ Cowboys (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NRL] Manly Sea Eagles vs NQ Cowboys (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/ZIII.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] UFC 329: McGregor vs. Holloway 2 (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC] UFC 329: McGregor vs. Holloway 2 (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53257?ad=111
@@ -174,26 +162,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-07-12 07:58:41
+# Generated: 2026-07-12 12:55:06
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783879120~hmac=0fa7b40f134f0aed8ca6fe136259540e5e19b168fc65214d70150fa6f9ac8e26
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783896905~hmac=0e54e67cff36f2a781d78ebf4da7c5e680a531e0a361f737c2c149d398fa0ee7
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783879120~hmac=104236e7035505bd268991f550d92cf1095c5ecf83004d7aa25c48c3e25a6836
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783896905~hmac=a1d54122088a06570e70de3c520733d6b00de88e992766bcdc5d485140ec7ab3
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783879120~hmac=68ba3b64cc797675fbac8ad4944bd05ff2adff9b8b3548e61d9d953204331253
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783896906~hmac=7ecde558a470764a6743fa4ab1fa7a3bbbedddd23240eaeae50fb015b256e315
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783879120~hmac=95a700032839e68ad71a09fb61389925753aec7a99bcf49df15a0010d7d5b503
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783896906~hmac=b10e4328014a6a1e31dbeeafbba8ba91d64348784b0dec431aac81ac116a6151
 
 ============================================================
 
@@ -1034,26 +1022,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-12 08:20:17
+# Updated: 2026-07-12 13:22:00
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783880416~hmac=036c04e8829d0bfc4973556bed5bee48826aeb1aa6fd5087f89b25f678ddf88f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1783898519~hmac=0e8a9c59df35c7bbfdcda4faacb08457ba149a49ba4abddb7cbc8f0d21d9a409
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783880416~hmac=7fe2b9afcbff0407ea2e6e464016321fe8ba769fa07aefe4887cff1432c2bfe2
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1783898520~hmac=350c6cd9f445c23ced78b7e172f7dc8eaa0d7ae642a89a21243277cca00fcf53
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783880416~hmac=6376eb6ef17d2894f487dc98f4b98b50dc3105830eb48f05fc42d4fbae54670b
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1783898520~hmac=3bc2016d3a26582f2f96b4559b4ee90a41a000d4e9c6272ce5c1140b2750cd20
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783880417~hmac=213342c5945a58fd091fc000c257aa5c72462108d3549ec2cf8490815c5e0d54
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1783898520~hmac=37c05db6552297ab200ea3d2f958faae72a34861b949f01e3a47ef8f7ff5bbf5
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
