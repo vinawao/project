@@ -1,93 +1,117 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-14T11:37:22.277669 UTC
+# Generated on 2026-07-14T14:02:39.179339 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
 #EXTGRP: liveeventsfilter
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Home Run Derby 2026 (iSTRMEAST)" tvg-logo="https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp" group-title="Live Events",[MLB] Home Run Derby 2026 (iSTRMEAST)
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[China Super League] Zhejiang Professional vs Qingdao Hainiu (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[China Super League] Zhejiang Professional vs Qingdao Hainiu (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/afafafQQ.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Cricket] England vs India (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket] England vs India (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/zzzz.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Cycling] Cycling Tour de France (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cycling] Cycling Tour de France (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.42/hls/AUUUQQQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Cycling] Cycling Tour de France NL (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cycling] Cycling Tour de France NL (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.42/hls/AUUUQQQQ.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.194/hls/vavavava.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.194/hls/vavavavaq.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Home Run Derby 2026 (iSTRMEAST)" tvg-logo="https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp" group-title="Live Events",[MLB] Home Run Derby 2026 (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53337?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53337?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53337/load-playlist
 
-#EXTINF:-1 tvg-chno="21" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Atlanta Hawks vs Boston Celtics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Atlanta Hawks vs Boston Celtics | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
+#EXTINF:-1 tvg-chno="46" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] MLB vs All Star (WEBCAST)" tvg-logo="https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp" group-title="Live Events",[MLB] MLB vs All Star (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=JqqQIodhle5zJfpJWZ6By9NMd7_AMbsydMXsI0-Fkdw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFbM4vdifZl8TGeamBEQYOp%2F&expires=1784044818/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFbM4vdifZl8TGeamBEQYOp/135.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Chicago Bulls vs Utah Jazz | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Chicago Bulls vs Utah Jazz | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8
-
-#EXTINF:-1 tvg-chno="27" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Dallas Mavericks vs Memphis Grizzlies | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Dallas Mavericks vs Memphis Grizzlies | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Detroit Pistons vs New York Knicks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Detroit Pistons vs New York Knicks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream3.pro/hls/mlkijfezag65.m3u8
-
-#EXTINF:-1 tvg-chno="34" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Miami Heat vs Cleveland Cavaliers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Miami Heat vs Cleveland Cavaliers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="48" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Denver Nuggets vs Oklahoma City Thunder | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Denver Nuggets vs Oklahoma City Thunder | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream3.pro/hls/zeafwqvhfe69.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Milwaukee Bucks vs Phoenix Suns (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Milwaukee Bucks vs Phoenix Suns (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53344?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53344?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/53344/load-playlist
-
-#EXTINF:-1 tvg-chno="37" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Minnesota Timberwolves vs Portland Trail Blazers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Minnesota Timberwolves vs Portland Trail Blazers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="49" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] LA Clippers vs Los Angeles Lakers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] LA Clippers vs Los Angeles Lakers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8
+https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Phoenix Suns vs Milwaukee Bucks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Phoenix Suns vs Milwaukee Bucks | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="51" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Memphis Grizzlies vs Golden State Warriors | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Memphis Grizzlies vs Golden State Warriors | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8
+https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Portland Trail Blazers vs Minnesota Timberwolves (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Portland Trail Blazers vs Minnesota Timberwolves (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53346?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53346?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/53346/load-playlist
-
-#EXTINF:-1 tvg-chno="42" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Toronto Raptors vs Indiana Pacers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Toronto Raptors vs Indiana Pacers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="53" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Philadelphia 76ers vs Houston Rockets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Philadelphia 76ers vs Houston Rockets | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8
+https://edgestream2.pro/hls/mlkijfezag65.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Utah Jazz vs Chicago Bulls (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Utah Jazz vs Chicago Bulls (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53340?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53340?ad=111
+#EXTINF:-1 tvg-chno="55" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Sacramento Kings vs Brooklyn Nets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Sacramento Kings vs Brooklyn Nets | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/53340/load-playlist
+https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Minnesota Lynx vs Phoenix Mercury (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Minnesota Lynx vs Phoenix Mercury (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53339?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53339?ad=111
+#EXTINF:-1 tvg-chno="58" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Washington Wizards vs Chicago Bulls | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Washington Wizards vs Chicago Bulls | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/53339/load-playlist
+https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] Monday Night Raw (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WWE] Monday Night Raw (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53006?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53006?ad=111
+#EXTINF:-1 tvg-chno="61" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Bastad (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis ATP] Tennis ATP Bastad (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/53006/load-playlist
+http://193.47.62.44/hls/YDDDQ.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Gstaad (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis ATP] Tennis ATP Gstaad (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.44/hls/YDDD.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Portland Fire @ Connecticut Sun | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Portland Fire @ Connecticut Sun | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream3.pro/hls/ztyarueaghj71.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Washington Mystics @ Toronto Tempo | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Washington Mystics @ Toronto Tempo | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8
 
 ============================================================
 
@@ -168,26 +192,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-07-14 07:46:34
+# Generated: 2026-07-14 13:06:43
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784051193~hmac=bffa83fa5931a6857f725dc4d1febe912ac030bac882cfdbac4c0161b1168acc
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784070402~hmac=bb4c93daf8d47b7df11ee09a9780d3d62cdbf477150c71ddea6586d5ac7d0912
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784051193~hmac=9d5a3fb7b0ef9b09c3f81b4278635d047a40a8c04ec17def0fbc640fdfd49c9f
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784070402~hmac=3619b91346e06ee6d931098d64d27fc54f404c3df045d7ca599c5f643cace50b
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784051193~hmac=7c5dde0fd534caec8d75fdb9f02ac683c28953b65e77dbf1d3b51b6b293038d5
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784070403~hmac=62c400752ecb34af3c71e67b4c2d4ef8f1ea8363a94e10e1c4a39f4def28979b
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784051194~hmac=f4d90de78ea5caec173d4931d034614aa4ca4b9befb01dccc2d018c4ae7d31ed
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784070403~hmac=d43e64c1e2dbb7494d93c180a004e5388d1e0057bb707765416ab71c065e28c5
 
 ============================================================
 
@@ -1028,26 +1052,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-14 08:07:11
+# Updated: 2026-07-14 13:46:20
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784052430~hmac=8372ef1e7a5b642a7ac1c0cb37ec19cbcd6be028b2d4498567f4bbc1219f8358
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784072779~hmac=96fb36a6a9858a4d211597a00e3d37e8067298685d2e863be0621ba326cc00d5
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784052431~hmac=3c7451e1767c3d4792687eadfa5e6f57ab0ef26e6b0c1aec4643ee6cd90e4710
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784072779~hmac=315d1b0c4f3dc1aef6bb9b8764f2166e3fe2e9e4150e64515ff7d2f74af9e5a0
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784052431~hmac=99ff3678fb4ecb45b6a8288d3c563a73d9db266d855d6048f941aca73a10ed55
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784072779~hmac=495dae46b05ac13d6353c8c027a82c238b3b819e94d5f485a32a3da689e33d6f
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784052431~hmac=b7778c7180d244a43df45fb069fbf19ff7b9c873b53ebd7b31edebd9288aa35e
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784072780~hmac=75b5a4825a820af288ade1057e6e4494cfa1df570a0d8c10b8e61c957b44ae45
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
