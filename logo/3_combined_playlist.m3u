@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-20T08:12:32.932272 UTC
+# Generated on 2026-07-20T11:52:32.893486 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -53,18 +53,6 @@ https://247.xyzstreams.st/?stream_id=tsn1&pro_id=247misc&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://247.xyzstreams.st/?stream_id=tele&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Live.Event.us" tvg-name="[IndyCar] IndyCar Series Music City Grand Prix (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[IndyCar] IndyCar Series Music City Grand Prix (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/PPPPQQ.m3u8
-
-#EXTINF:-1 tvg-chno="99" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Memphis Grizzlies vs Golden State Warriors (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Memphis Grizzlies vs Golden State Warriors (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/OOOOQQ.m3u8
-
 #EXTINF:-1 tvg-chno="104" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Memphis Grizzlies vs Golden State Warriors (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Memphis Grizzlies vs Golden State Warriors (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53582?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53582?ad=111
@@ -95,23 +83,11 @@ https://hoofoot.ru/stream/NDQ5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53532/load-playlist
 
-#EXTINF:-1 tvg-chno="112" tvg-id="Live.Event.us" tvg-name="[Nascar Cup Series] Nascar Cup Series Window World 450 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Nascar Cup Series] Nascar Cup Series Window World 450 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/PPPPQQQ.m3u8
-
 #EXTINF:-1 tvg-chno="113" tvg-id="Live.Event.us" tvg-name="[National Rugby League] Gold Coast Titans vs Manly Sea Eagles | Sky Sport 1 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[National Rugby League] Gold Coast Titans vs Manly Sea Eagles | Sky Sport 1 NZ (HOOFUT)
 #EXTVLCOPT:http-referrer=https://hoofoot.ru
 #EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hoofoot.ru/stream/NTg4
-
-#EXTINF:-1 tvg-chno="114" tvg-id="Live.Event.us" tvg-name="[New Zealand NBL] Canterbury Rams vs Auckland Tuatara | Sky Sport 2 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[New Zealand NBL] Canterbury Rams vs Auckland Tuatara | Sky Sport 2 NZ (HOOFUT)
-#EXTVLCOPT:http-referrer=https://hoofoot.ru
-#EXTVLCOPT:http-origin=https://hoofoot.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://hoofoot.ru/stream/NTg5
 
 #EXTINF:-1 tvg-chno="115" tvg-id="Live.Event.us" tvg-name="[Peru Liga 1 Apertura] Alianza Lima vs Sport Huancayo (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Peru Liga 1 Apertura] Alianza Lima vs Sport Huancayo (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -198,26 +174,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-07-20 01:58:42
+# Generated: 2026-07-20 08:39:01
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784548721~hmac=e364e55a9512e5e495706bdd976eaf141a8781509f386514ae26aa98df6d7117
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784572740~hmac=fa70c28a4b91873bdf5552fb5f5902566f925eb621b67bccb833385ab7442879
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784548721~hmac=3614d09fa494c393c92fa111452a1af6b4dbad01fa30c0ff876b9297eac0f6b0
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784572741~hmac=4af7132252a675bc5475f6a191e79160469464319e4a6002c5ccbbd113fd4c25
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784548721~hmac=32f3d38ff1ba246c58feaa4be9623a26734f6ef2dd1d59d94a3b6f11e7c61a18
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784572741~hmac=eff1ef1854e541009d68aff03e968d86015ee9ed33f8ba534babcf7e687e4e5a
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784548722~hmac=610731220f5013e9a594c06d1df1f28befbcfd4f0dfb1751af5a6b03f5891664
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784572741~hmac=fb2398b9a551f3f705f207c67e1fbb2f0612e375c21076af6953ab7165824e97
 
 ============================================================
 
@@ -1138,26 +1114,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-20 03:18:03
+# Updated: 2026-07-20 09:15:43
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784553482~hmac=ed2dbb053de07bed16ac7e5ef382c29c2b6d98097dadd70117048b95a1a765d9
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1784574942~hmac=a5d42cb0a612370f5b74d10208194e2841a8191b59dd0eaebfedb27bca937cdf
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784553483~hmac=b9c444c8ce26ccd0de713818ca5237701ebed8420768dc116cceb88656129871
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1784574942~hmac=fbb3050f2b27c21baaa16b6c8676fbaf71ee4e099e8fd37f14fe3b73ac9c2356
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784553483~hmac=41a38ed653094b5dcc3d6a5f0a4d97f0849e80a349593aadb21a30ebbf7b8f57
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1784574943~hmac=0f021bd5351dfb33562d898f91b9a5dbcf4b9c71a8e81c5d17e66b69194fe498
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784553483~hmac=0ba83954685ef6a2cdb9189a15cae19593c1a81977312860ab126552147b5bb5
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1784574943~hmac=95099f12f4b613c14ec440c5ab386c5308d6abb19dbfb6e63f35339915bfc3f7
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
