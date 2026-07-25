@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-07-25T11:19:22.440919 UTC
+# Generated on 2026-07-25T13:51:34.082876 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -10,12 +10,6 @@
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.41/hls/beeeA.m3u8
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[AFL Aussie Rules] Hawthorn Hawks vs Essendon Bombers (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[AFL Aussie Rules] Hawthorn Hawks vs Essendon Bombers (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/beeeAAA.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Boxing] Demetrius Andrade vs Douglas Ataide (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Boxing] Demetrius Andrade vs Douglas Ataide (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/53729?ad=111
@@ -34,12 +28,6 @@ https://chatgpt.hereisman.net/playlist/53745/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53770?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53770/load-playlist
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Dep Cali vs Jaguares de Cordoba (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Dep Cali vs Jaguares de Cordoba (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/RARARAAQ.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-id="Racing.Dummy.us" tvg-name="[F1] Practice 1 | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[F1] Practice 1 | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -534,26 +522,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-07-25 07:49:59
+# Generated: 2026-07-25 12:59:49
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785001798~hmac=ae7714daf52d4fd5cec45c866e253eed59495853d5ff5c50310ff15d65b62df3
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785020388~hmac=58d239d569638b3c011cabe7430a71438b08eb0c42aa94f8634c2e25cee35b03
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785001799~hmac=575420d4db09e042dbbeafdb0206503cd430defd85e39c9e24e90b6d52ff5c93
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785020389~hmac=4e8ba20a017488d587edc39ae48a05eb6b203a533f9f225bf732dc64cf6758ae
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785001799~hmac=4d7dec54137403633283a540d00918c15414794b08aa3d0ee96b254f6ce9de95
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785020389~hmac=9584170b4bbf7a629243e73e0e716bcec8f745a7b662c3de202a28cceccb4104
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1785001799~hmac=43f038b3e38dd34db419428a541cfea4c99f6525a96e3b48ab9b3bbef75272f7
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1785020389~hmac=4dfdf190404a63b77ccb03b2732dbc8372623f4c257c5e7b0bc2a9594e45c946
 
 ============================================================
 
@@ -1474,26 +1462,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-07-25 08:08:03
+# Updated: 2026-07-25 13:28:50
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785002882~hmac=ef7294ace102d62a8eb5f2e32c61fa3637b8b2033b9d01f284372e27afc3f96f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785022129~hmac=ac584c3f44586dd4c9ec173cb6887fd07fa0e363ffead1ee684f2dcadbc35f6f
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785002882~hmac=0c15acb70b6e528440121827c99fc1c6d946318690b91748ec6fa5c3168877ae
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785022129~hmac=bf88a2140af61d96a9fe40edeeab4bb9f42a930141026407f2000069a3c8026e
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785002882~hmac=e0b27be9df8cb3ed35be1e466a79f5c0272853ebc46e86c7b6f951547ec2990e
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785022129~hmac=98983e41d5b567c67dd3283d24e3bf3125b42011242e84eaa4ed894f51cf349c
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1785002883~hmac=6f35f88bca072eb8e0d66a28c3ec83b581cc54fe8157d330173180a7f5cfc58f
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1785022130~hmac=4baa50f4cd6772eb4078019f8d76dab64660d347f673103bc1ca5ec6c7ea76f6
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
