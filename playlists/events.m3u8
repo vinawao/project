@@ -144,11 +144,6 @@ https://ftv.xyzstreams.st/MLBTVSDP/B0024/master.m3u8
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb630/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODYyMzkwNTU0OTY6Y2RubGl2ZXR2LnR2OmMzY2E2ZTg0ZDM5N2YxZjAuNTcwOWMxMWI3ZDAzNGUzZTJmMDQ3N2U5NDI4YzlhODVjNDY4Y2JlMmI1MjVhNWMzM2UzMWI2ZTNkM2U5MjYyYw
-#EXTINF:-1 tvg-chno="146" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Arizona Diamondbacks (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Diego Padres vs Arizona Diamondbacks (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-88894cb5.4587.website/6a75acba.dd28882ei5c3b601d.a518.4f8daf36/free.live.espn/master.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays at Chicago Cubs (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays at Chicago Cubs (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/bluejays.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/bluejays.html
@@ -174,11 +169,6 @@ https://ftv.xyzstreams.st/MLBTVPHI/B0022/master.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://ftv.xyzstreams.st/MLBTVWAS/B0018/master.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Carolina Panthers vs Arizona Cardinals (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Carolina Panthers vs Arizona Cardinals (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.191/hls/YFFFAAAAAAA.m3u8
 #EXTINF:-1 tvg-chno="165" tvg-id="NFL.Dummy.us" tvg-name="[NFL Preseason] Arizona Cardinals vs Carolina Panthers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL Preseason] Arizona Cardinals vs Carolina Panthers (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54281?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/54281?ad=111
