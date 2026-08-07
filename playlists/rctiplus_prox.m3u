@@ -1,12 +1,12 @@
 #EXTM3U
-# Generated: 2026-08-07 13:09:21
+# Generated: 2026-08-07 19:00:40
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786144160~hmac=9191f85c295e94183c7de4619421219c644cb8546308078a2c88a7a7c4b56023
+https://proxy-r.denstv.workers.dev/https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786165240~hmac=e97090b6e8382ee997b054916fd2cf00947bd37697d69b01caa7014034c54991
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786144161~hmac=4320a7d2767d011e731fa32fba49f5e4ce980fd6c514fe095a707247a516d233
+https://proxy-r.denstv.workers.dev/https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786165240~hmac=152cde76f27468867bc1451c51de1547f42d9eb795b5e2aad6d0ca366c415b37
