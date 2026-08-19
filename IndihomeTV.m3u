@@ -1,16 +1,16 @@
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-08-18 18:40:45
+# Updated: 2026-08-19 00:37:55
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787113286~hmac=1d30591b7978872537c41d2d6aec1eb857c6e66657d5c7d2f6ea8d95aa6dc476
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787135874~hmac=a0639d310e7fd9743bcc7ec73a5f8947983595e02ee432087a42e019ec1e95f7
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787113286~hmac=a51200b3513bb42a36e38cd63891541ff94672585679e4f2a3dc8acf1050e318
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787135875~hmac=06513310126c22bba401b0850720d386320212f9fbcb34176138906f159b3eb6
 
 # === END RCTI+ SECTION ===
