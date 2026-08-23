@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-08-23T11:26:37.609983 UTC
+# Generated on 2026-08-23T12:53:24.175111 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -136,12 +136,6 @@ https://chatgpt.hereisman.net/playlist/55051/load-playlist
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.41/hls/edddaAAAAAAAa.m3u8
-
-#EXTINF:-1 tvg-chno="77" tvg-id="Cricket.Dummy.us" tvg-name="[Cricket] Australia vs Bangladesh (FAWA)" tvg-logo="https://i.gyazo.com/f008a3e3b9e6b0187857985b6c44782b.png" group-title="Live Events",[Cricket] Australia vs Bangladesh (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.59/hls/DIIID.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Netherlands GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - Netherlands GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54937?ad=111
@@ -431,6 +425,12 @@ https://chatgpt.hereisman.net/playlist/55063/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55048/load-playlist
 
+#EXTINF:-1 tvg-chno="481" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Wuhan Open (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Wuhan Open (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.47/hls/vivivi.m3u8
+
 #EXTINF:-1 tvg-chno="496" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] UFC Fight Night: Hernandez vs. Rodrigues (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC] UFC Fight Night: Hernandez vs. Rodrigues (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55093?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55093?ad=111
@@ -564,21 +564,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-08-23 06:22:44
+# Generated: 2026-08-23 12:18:28
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787502163~hmac=75f05328f272b113c2891a71a319ddff8ad5215775a8fb640d7be06698ff752f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787523507~hmac=eff3435027389cf5eeaa1fbac4137e3fec01dfb20edefbc746fd337c7bc9e01b
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787502163~hmac=857d5996b2ef5dbaf78c62f32f320aa6c883e8dfef15da7aa1e6b371e3ee4804
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787523507~hmac=f5f9fb4ff37001c2e69394f6584f1eaec49fed09bb2010704e343e0e843617c5
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787523507~hmac=acd946c49da8f63ba4f797bee3c0e9d928da7fd8ae9acb98ceab35ede779a205
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787502164~hmac=48f684f0077a170b2ce293619903b4d0980f610bb65fad3cd6a6494b82beff08
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787523508~hmac=f2c0d060685a288330bfe22e448694da11152d92cf853c9d784006a4bc534b9a
 
 ============================================================
 
@@ -1559,21 +1564,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-08-23 06:45:11
+# Updated: 2026-08-23 12:43:42
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787503509~hmac=9fb8d791dc6360b29f0c1c787725f58e675be89c43dd802a2d9e48db8aa7c008
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787525021~hmac=b50b69a3818bf9bb34e13286012fab0a02a91585dde50e1d8b6d0fa39ce5af18
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787503510~hmac=387818a205aa7c0109d878b5a92d529747ee11cc65d60c77ca0dcae117990829
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787525021~hmac=35d369d3a2b4b03157bfa3fadf633965fbb1d48611e7b733b05fc2960148d32b
+
+#EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787525021~hmac=a0e6affa74eca538ae352d038401101402545bedead2d629f2df402becd1f98a
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787503510~hmac=f38778ca25968fc70383c7ed4b18d2a3ef92861a40464289427462afc6c90ab1
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787525022~hmac=22f70b329be7be940a38efcc9f3f7ad3ad9ade57298cba84299f9d83f73277b3
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
