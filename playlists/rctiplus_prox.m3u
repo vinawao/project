@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-08-23 18:32:49
+# Generated: 2026-08-24 01:25:49
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787545967~hmac=29109bd4f4d0cfe079e0827d1ed31fa2f69c0d675f0ede8d70558ba0b6f1f605
+https://proxy-r.denstv.workers.dev/https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787570748~hmac=69df23e0b9e3adabb194210b3b9a2a29df1e01bc5bd3a314b3b9e26d0bf13dec
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787545968~hmac=96483c6cd8429c2ebc6a01bb1e3c62b98b5359d0a285d3fa2ecd37617b466c4e
+https://proxy-r.denstv.workers.dev/https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787570748~hmac=2beb8a647b071edc719a5ce4db47457821d95319c850578ca4d63997c3c50f61
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787545968~hmac=7a97854614c8565523f6383d15781d23e328d8ea7919766225572cc7eadb14f3
+https://proxy-r.denstv.workers.dev/https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787570748~hmac=cacaf1ec4f1cedd932d776dc7e4745dd20be1a7689235b67011e6a8e31772b23
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787545968~hmac=4853ba492a6b2e3490cf0825621bbbfda223fc0b5bba213ee3daa8556b007785
+https://proxy-r.denstv.workers.dev/https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787570749~hmac=de3f086ea1687e5c05b18c9e7021806ce47c08f107813b2ef6cc39dd312a1768
