@@ -129,26 +129,11 @@ https://chatgpt.hereisman.net/playlist/55227/load-playlist
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5ce/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3ODc3MjIyMzQxMDc6Y2RubGl2ZXR2LnR2OmZiMTA2NDYwNWM1ZmFjNTIuYWE5NjE3Mzk5NTY3ZWJhYjRmMTk2NTE2ODJiZGVjZjBkMjg3NjkwZDRlNDAzODg5ZjMzYmZhMWI1MGMxZjFhMA
-#EXTINF:-1 tvg-chno="158" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs. Arizona Diamondbacks (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8l57dv1785918915.jpg" group-title="Live Events",[MLB] Chicago Cubs vs. Arizona Diamondbacks (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-08-25/chc-ari
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-08-25/chc-ari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/mlb/2026-08-25/chc-ari/playlist.m3u8?tk=QLJh15x_CXuCeDPsr6Zy5Q&e=1787751027
 #EXTINF:-1 tvg-chno="161" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Texas Rangers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago White Sox vs Texas Rangers (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55215?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55215?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55215/load-playlist
-#EXTINF:-1 tvg-chno="165" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs. San Francisco Giants (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nez1041785918911.jpg" group-title="Live Events",[MLB] Cincinnati Reds vs. San Francisco Giants (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-08-25/cin-sf
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-08-25/cin-sf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/mlb/2026-08-25/cin-sf/playlist.m3u8?tk=bHGTLlz9Amoh4PLfY9t_cw&e=1787751028
-#EXTINF:-1 tvg-chno="168" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs. Los Angeles Angels (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ui46i1785918916.jpg" group-title="Live Events",[MLB] Cleveland Guardians vs. Los Angeles Angels (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-08-25/cle-laa
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-08-25/cle-laa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/mlb/2026-08-25/cle-laa/playlist.m3u8?tk=QLJh15x_CXuCeDPsr6Zy5Q&e=1787751027
 #EXTINF:-1 tvg-chno="176" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Little League Baseball World Series (iSTRMEAST)" tvg-logo="https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp" group-title="Live Events",[MLB] Little League Baseball World Series (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54863?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/54863?ad=111
@@ -159,31 +144,6 @@ https://chatgpt.hereisman.net/playlist/54863/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55220?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55220/load-playlist
-#EXTINF:-1 tvg-chno="184" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Minnesota Twins vs Athletics (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Minnesota Twins vs Athletics (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5d7/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWQ3OjE3ODc3MjIyMzMzMDk6Y2RubGl2ZXR2LnR2OjQ5ODQ4MzE0NGMzMGZkYjYuOGMzZGRjZGE4Y2M2NGFhM2Y4ZDZmMDM0ZjExZWI1YTZiMmM1NjU2NjEzNWQ3NTFjMTFmOWRlNzg3Nzc0MThlMA
-#EXTINF:-1 tvg-chno="187" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Minnesota Twins vs. Athletics (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fe8g6n1785918912.jpg" group-title="Live Events",[MLB] Minnesota Twins vs. Athletics (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-08-25/min-ath
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-08-25/min-ath
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/mlb/2026-08-25/min-ath/playlist.m3u8?tk=QLJh15x_CXuCeDPsr6Zy5Q&e=1787751027
-#EXTINF:-1 tvg-chno="191" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Seattle Mariners (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Philadelphia Phillies vs Seattle Mariners (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20US&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb519/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE5OjE3ODc3MjIyMzAzOTE6Y2RubGl2ZXR2LnR2OjFlZjFjZWZmYzAyNDIyYWUuYzAwYjkwN2VmOTNhMjQyYmRlNDkzM2I1MDYzYmI5N2VhNTQzMDIwYWE3MWFhZmNmZTI4YjM5NTg1NmE3MjFmNw
-#EXTINF:-1 tvg-chno="194" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs. Seattle Mariners (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/9yeww01785918910.jpg" group-title="Live Events",[MLB] Philadelphia Phillies vs. Seattle Mariners (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-08-25/phi-sea
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-08-25/phi-sea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/mlb/2026-08-25/phi-sea/playlist.m3u8?tk=bHGTLlz9Amoh4PLfY9t_cw&e=1787751028
-#EXTINF:-1 tvg-chno="201" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh Pirates vs. San Diego Padres (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3hjmei1785918909.jpg" group-title="Live Events",[MLB] Pittsburgh Pirates vs. San Diego Padres (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-08-25/pit-sd
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-08-25/pit-sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/mlb/2026-08-25/pit-sd/playlist.m3u8?tk=bHGTLlz9Amoh4PLfY9t_cw&e=1787751028
 #EXTINF:-1 tvg-chno="211" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Pittsburgh Pirates (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Diego Padres vs Pittsburgh Pirates (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55226?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55226?ad=111
