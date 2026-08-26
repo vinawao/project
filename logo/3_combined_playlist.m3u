@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-08-26T05:40:03.157991 UTC
+# Generated on 2026-08-26T06:59:50.952197 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -227,12 +227,6 @@ https://chatgpt.hereisman.net/playlist/55231/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55225/load-playlist
 
-#EXTINF:-1 tvg-chno="234" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Wuhan Open (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Wuhan Open (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.47/hls/vivivi.m3u8
-
 #EXTINF:-1 tvg-chno="255" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Dallas Wings vs Portland Fire (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Dallas Wings vs Portland Fire (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55218?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55218?ad=111
@@ -244,12 +238,6 @@ https://chatgpt.hereisman.net/playlist/55218/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55230?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55230/load-playlist
-
-#EXTINF:-1 tvg-chno="266" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Washington Mystics vs. Phoenix Mercury (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/er47gw1651998449.jpg" group-title="Live Events",[WNBA] Washington Mystics vs. Phoenix Mercury (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=wnba/2026-08-25/wsh-phx
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=wnba/2026-08-25/wsh-phx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/wnba/2026-08-25/wsh-phx/playlist.m3u8?tk=bHGTLlz9Amoh4PLfY9t_cw&e=1787751028
 
 #EXTINF:-1 tvg-chno="267" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] NXT (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WWE] NXT (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55219?ad=111
@@ -336,26 +324,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-08-26 00:39:23
+# Generated: 2026-08-26 06:29:18
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787740762~hmac=b2df2425bbb056f44344eafd60ea914c4d46014b7eda86bb617765014db4bfef
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787761757~hmac=140da2f4f37246ddd44f97dc681cd16d4dcee6573c7f923ff5bd323851431379
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787740762~hmac=7f32424c5027e382eba4aaa1a8d332d706a721a3ad7aa586b369aac4744b7377
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787761757~hmac=9ee189d28e724b33e52c1813a72b9be2998751dc811858a5af132f929ceab972
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787740763~hmac=240005fca45501e97dc8653009206344734ad7064b8c63c5ba7c963cee759f90
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787761757~hmac=7538ea929cf52c9f19d499b9038ee86a150fa9ee5ebcb052af10170ef674a989
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787740763~hmac=aa31c74fa26049fb20210d8ebfc3e921d71b90ee01db461b6ecb2255c96dec24
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787761757~hmac=5b92c41d60a3a73d040913359bb080ef1d4977b348ccb039979f93a09517443c
 
 ============================================================
 
@@ -1328,26 +1316,26 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 # === RCTI+ SECTION ===
-# Updated: 2026-08-26 01:22:57
+# Updated: 2026-08-26 06:54:42
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787743376~hmac=4788d6ba219a7239f8a49ac653034dbba5f0de53452e635445ff5c2393edb4ec
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787763281~hmac=07bdfb4263d8f4eeb24375cc551a48b0b0df770ba755db0879b01cf2d2a509cc
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787743376~hmac=10b5903efe833702adc1b52a9cf0bb358d272f18d9778b6c09740e7924e3b7c6
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787763282~hmac=ac42e168b701ee35d968a34f4456b8d64674e78308156040de3b73af60058077
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787743377~hmac=95e6787c5601abc3d490cbdbb28031e9ddd5375351fe2a3523a7b3107094b368
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787763282~hmac=989344d12f02fe5870031988400467b09ef948e50f225c10038d4d9e6b8c7ab6
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787743377~hmac=91a7b08129dd0ea6b974fa427f7c2c6d85f73d53203c9559d0477624ad09631f
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787763282~hmac=9b9dbc5924edf341f595217c7c00789d18b0d926fa40f1dcf1463a7b20372e55
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
