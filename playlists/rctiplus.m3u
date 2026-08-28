@@ -1,17 +1,17 @@
 #EXTM3U
-# Generated: 2026-08-27 17:03:40
+# Generated: 2026-08-28 01:53:28
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787886219~hmac=60c0230e8c2607db5f7918d8c99c203d2766c95c0a298823607488bab6256504
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787918007~hmac=e19291792a2a9c74dcc7c959c89cfd4c776e4ebf88dccf8685624da8605bd03b
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787886219~hmac=f39fc641c327db36f1aad1f15008c1fa29b8b047add5fa6f3e68d21a5059232f
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787918008~hmac=2dc7a30690a91da9c9aa9f7679772c3cfbb42cec274d0238ca6ad365ee2c164a
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787886220~hmac=e1af552eb6fcc0cf4016053c94bbfc2cb63cbb0b6fb4ace5388e4a1c90f512ee
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787918008~hmac=526fc984f9c57f43e20af38691be3f97212a9919ad74b1e98d5c6544400fa766
