@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-09-14T13:50:21.297717 UTC
+# Generated on 2026-09-14T19:12:50.049555 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -246,26 +246,21 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-09-14 11:12:23
+# Generated: 2026-09-14 17:13:36
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789420342~hmac=342f6c8868e26dc262783140e149a5f15f3d8e4f140c4ec150e8f2ad8337c324
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789442014~hmac=6f8d157c76a620155f9c5f96fe346815c699b3b10dea5b90422aaad8872a7bf0
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789420342~hmac=6f2bdb823ac97d98837b6a2085e88df24bc455a5ed60ea88b32ef8a2a798f549
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789420343~hmac=92aea57eacabc9e5c58008e407dce59df5b88a312977acf01a7c8ddff1527391
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789442015~hmac=3126cc8f2979d41aa193bf4f7642c55e7ab3d55ac0e6049267704c186e4554d8
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789420343~hmac=4ed4974d9308e248b515f5ba638d5b90ea43d563ebc8f3613a228c5258fb6104
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789442016~hmac=eeda1ec69e5d8eb7f5ba3199048298203c45c859f11f2392d1b12f8bb459e5ce
 
 ============================================================
 
