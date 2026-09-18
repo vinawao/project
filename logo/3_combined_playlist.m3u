@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-09-18T07:18:43.412964 UTC
+# Generated on 2026-09-18T12:54:00.525516 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -89,36 +89,6 @@ https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/56578/load-playlist-multi
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Bucaramanga vs Ind Medellin (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Bucaramanga vs Ind Medellin (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.53/hls/FZZZ.m3u8
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo RJ vs Ind del Valle (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live Events",[Copa Libertadores] Flamengo RJ vs Ind del Valle (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.53/hls/FZZZAAAAA.m3u8
-
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Montevideo City vs Cienciano (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" group-title="Live Events",[Copa Sudamericana] Montevideo City vs Cienciano (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.53/hls/FZZZAAAA.m3u8
-
-#EXTINF:-1 tvg-chno="78" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Houston Astros vs Kansas City Royals (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Houston Astros vs Kansas City Royals (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.53/hls/VVVVDQ.m3u8
-
-#EXTINF:-1 tvg-chno="81" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Texas Rangers vs Boston Red Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Texas Rangers vs Boston Red Sox (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.53/hls/FZZZA.m3u8
-
 #EXTINF:-1 tvg-chno="84" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox at Texas Rangers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox at Texas Rangers (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/redsox.html
 #EXTVLCOPT:http-origin=https://edgesport.cfd/mlb/redsox.html
@@ -136,24 +106,6 @@ https://chatgpt.hereisman.net/playlist/56598/load-playlist
 #EXTVLCOPT:http-origin=https://edgesport.cfd/mlb/twins.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://duskbloom.s3.us-east-2.amazonaws.com/twins.m3u8
-
-#EXTINF:-1 tvg-chno="106" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Minnesota Twins vs. Los Angeles Angels (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/d8d5465b8eec2d83ee0ee4d3bd4ba356-thumbnail.jpg" group-title="Live Events",[MLB] Minnesota Twins vs. Los Angeles Angels (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-09-17/min-laa
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mlb/2026-09-17/min-laa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/min-laa/playlist.m3u8?tk=yvk9JYVZg330hmt7sTSl6A&e=1789738253
-
-#EXTINF:-1 tvg-chno="117" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Pittsburgh vs Syracuse (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Pittsburgh vs Syracuse (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.49/hls/HOOOQQQQAA.m3u8
-
-#EXTINF:-1 tvg-chno="121" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Buffalo Bills vs Detroit Lions 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Buffalo Bills vs Detroit Lions 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.58/hls/AAAA.m3u8
 
 #EXTINF:-1 tvg-chno="124" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buffalo Bills vs Detroit Lions (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Buffalo Bills vs Detroit Lions (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56587?ad=111
@@ -184,18 +136,6 @@ https://chatgpt.hereisman.net/playlist/56591/load-playlist
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/FOFOFO.m3u8
-
-#EXTINF:-1 tvg-chno="164" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Las Vegas Aces vs. Seattle Storm (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/c4654a309b60326c9092be81f5f63124-thumbnail.jpg" group-title="Live Events",[WNBA] Las Vegas Aces vs. Seattle Storm (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=wnba/2026-09-17/lv-sea
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=wnba/2026-09-17/lv-sea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/lv-sea/playlist.m3u8?tk=Qv4uDrF08ajjOBk3vOSx5w&e=1789738254
-
-#EXTINF:-1 tvg-chno="166" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Phoenix Mercury vs. Portland Fire (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/f14b406e4fadd166ea03767c1d8ba356-thumbnail.jpg" group-title="Live Events",[WNBA] Phoenix Mercury vs. Portland Fire (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=wnba/2026-09-17/phx-por
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=wnba/2026-09-17/phx-por
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/phx-por/playlist.m3u8?tk=yvk9JYVZg330hmt7sTSl6A&e=1789738253
 
 #EXTINF:-1 tvg-chno="169" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Portland Fire vs Phoenix Mercury (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Portland Fire vs Phoenix Mercury (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56600?ad=111
@@ -288,26 +228,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-09-18 02:06:57
+# Generated: 2026-09-18 10:13:41
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789733216~hmac=67afe40b8bc503d2e1161338953438bcc379b2431e91b65b6b65b058dae5a54f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789762420~hmac=4f4d6517ce31021b994218e1078bfbbe32921ff4ee938f9c1cb0e290af0c79dd
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789733217~hmac=52a838efd33c89f158d70da7f02884c50071fa177138c6b6513a43e0338b5d81
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789762421~hmac=0b150792a7cfaa8be1b381a19cb6223effd84a04e9864d5936f2b28404174254
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789733217~hmac=05332395a50dbafaa87146556bfc33acdaf329d45e77afa6e4d1535f378ff7c6
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789762421~hmac=ad42c350a62bec476bff822e69e18da8f73995f1251f3519230a32e878fe98ab
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789733217~hmac=bfdc91a082cbf5e1febd6d9819f4ab65fb384782bf3b38c392aaaf80c22f6b17
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789762421~hmac=e5227dccf0b7af4393af43a4f5d522af0dd8b8b59477ac0ecb9b0537cad80d66
 
 ============================================================
 
@@ -1175,26 +1115,26 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-18 03:39:42
+# Updated: 2026-09-18 10:45:16
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789738781~hmac=708cad7c525706ec76bdb04d0c6af0e75e5f293a8a7b960e46d8957742fa9dd2
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789764315~hmac=eacedf218ff5718ada406060d0030e631cd7232e1c6233a51f49c8dbaa7d926a
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789738781~hmac=c35554db6d05101d9fc2f219d61b1ca7eb8442c6bf61c9cd9ccae88811333fde
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789764315~hmac=c9cf1e72bc49982daf66d0fe17ce6e32c58ae25da5946161e654d99d821e8852
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789738781~hmac=2f55a5d99b77e4c5c9c73aefd7ce33e011027e0538a5a88c4a3492c80346ca1a
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789764315~hmac=a238a0a8b56c558952dd81a176a596cc890bbdbabc888a1b8554be9f531a11b4
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789738782~hmac=d401bdc11e7ada7d2215b3e56f82da62fb8fa5b8de1a6ac82bde666ed089f8a8
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789764315~hmac=b1f43b0482e3d4cf0511b9e3377ea376a91b6341d8b01c434d85753edc70952a
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
