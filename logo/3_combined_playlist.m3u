@@ -1,214 +1,159 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-09-24T09:51:02.740742 UTC
+# Generated on 2026-09-24T14:50:53.820718 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
 #EXTGRP: liveeventsfilter
 
-#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Arizona Diamondbacks vs. Colorado Rockies | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Arizona Diamondbacks vs. Colorado Rockies | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="1" tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="[AFL Aussie Rules] Geelong Cats W vs Hawthorn Hawks W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/afl.png" group-title="Live Events",[AFL Aussie Rules] Geelong Cats W vs Hawthorn Hawks W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/dzjhkfazbka26.m3u8
+http://193.47.62.59/hls/RRRRAa.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Chicago White Sox vs. Kansas City Royals | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Chicago White Sox vs. Kansas City Royals | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Africa Cup of Nations Qualification] Namibia vs Congo 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Africa Cup of Nations Qualification] Namibia vs Congo 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8
+http://193.47.62.55/hls/ELLLAA.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cincinnati Reds vs. Atlanta Braves | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Cincinnati Reds vs. Atlanta Braves | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Africa Cup of Nations Qualification] Namibia vs Congo 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Africa Cup of Nations Qualification] Namibia vs Congo 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/ijfnakfidch22.m3u8
+https://www.rtmpcdn.com/live/039a19f5-0fee-4e35-a534-e33fa11bb5cd.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cleveland Guardians vs. Boston Red Sox | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Cleveland Guardians vs. Boston Red Sox | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/jkzahzadach20.m3u8
-
-#EXTINF:-1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Houston Astros vs. Seattle Mariners | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Houston Astros vs. Seattle Mariners | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/hefbafbakx28.m3u8
-
-#EXTINF:-1 tvg-chno="8" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Los Angeles Angels vs. Athletics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Los Angeles Angels vs. Athletics | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/jzabfazkbf27.m3u8
-
-#EXTINF:-1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Miami Marlins vs. Chicago Cubs | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Miami Marlins vs. Chicago Cubs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/fskjanach24.m3u8
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Baseball.Dummy.us" tvg-name="[Baseball] Milwaukee Brewers vs. Philadelphia Phillies | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[Baseball] Milwaukee Brewers vs. Philadelphia Phillies | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/Czajafjihafch18.m3u8
-
-#EXTINF:-1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Minnesota Twins vs. San Francisco Giants | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Minnesota Twins vs. San Francisco Giants | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
-
-#EXTINF:-1 tvg-chno="12" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] New York Mets vs. Texas Rangers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] New York Mets vs. Texas Rangers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/kjhfzua25.m3u8
-
-#EXTINF:-1 tvg-chno="13" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] San Diego Padres vs. Los Angeles Dodgers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] San Diego Padres vs. Los Angeles Dodgers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8
-
-#EXTINF:-1 tvg-chno="14" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] St. Louis Cardinals vs. Pittsburgh Pirates | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] St. Louis Cardinals vs. Pittsburgh Pirates | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Arizona Diamondbacks vs. Colorado Rockies | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Arizona Diamondbacks vs. Colorado Rockies | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/bzagLHzach19.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays vs. New York Yankees | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays vs. New York Yankees | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="12" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Chicago White Sox vs. Kansas City Royals | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Chicago White Sox vs. Kansas City Royals | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cincinnati Reds vs. Atlanta Braves | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Cincinnati Reds vs. Atlanta Braves | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cleveland Guardians vs. Boston Red Sox | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Cleveland Guardians vs. Boston Red Sox | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ojzkajnach21.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Toronto Blue Jays vs. Baltimore Orioles | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Toronto Blue Jays vs. Baltimore Orioles | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="15" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Houston Astros vs. Athletics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Houston Astros vs. Athletics | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/kjhfzua25.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Los Angeles Angels vs. Seattle Mariners | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Los Angeles Angels vs. Seattle Mariners | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/fskjanach24.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Miami Marlins vs. Chicago Cubs | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Miami Marlins vs. Chicago Cubs | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Washington Nationals vs. Detroit Tigers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Washington Nationals vs. Detroit Tigers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="18" tvg-id="Baseball.Dummy.us" tvg-name="[Baseball] Milwaukee Brewers vs. Philadelphia Phillies | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[Baseball] Milwaukee Brewers vs. Philadelphia Phillies | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/jkzahzadach20.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] New York Mets vs. Texas Rangers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] New York Mets vs. Texas Rangers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] San Diego Padres vs. Los Angeles Dodgers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] San Diego Padres vs. Los Angeles Dodgers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/dzjhkfazbka26.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] St. Louis Cardinals vs. Pittsburgh Pirates | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] St. Louis Cardinals vs. Pittsburgh Pirates | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/dazhfiach15.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Atlanta Dream vs. New York Liberty | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Atlanta Dream vs. New York Liberty | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="22" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays vs. New York Yankees | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays vs. New York Yankees | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
+https://edgestream2.pro/hls/ijfnakfidch22.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Dallas Wings vs. Seattle Storm | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Dallas Wings vs. Seattle Storm | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="26" tvg-id="Live.Event.us" tvg-name="[Basketball NBL] Perth vs Adelaide (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Basketball NBL] Perth vs Adelaide (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/FUUUAa.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Chicago Sky vs. Washington Mystics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Chicago Sky vs. Washington Mystics | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ztyarueaghj71.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Racing.Dummy.us" tvg-name="[F1] Azerbaijan Grand Prix - Practice 1 | Main Feed (FUTBOLX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[F1] Azerbaijan Grand Prix - Practice 1 | Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="32" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Toronto Tempo vs. Connecticut Sun | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Toronto Tempo vs. Connecticut Sun | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.Dummy.us" tvg-name="[Cricket] England vs Sri Lanka (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" group-title="Live Events",[Cricket] England vs Sri Lanka (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/ELLLA.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.Dummy.us" tvg-name="[Cricket] South Africa vs Australia (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" group-title="Live Events",[Cricket] South Africa vs Australia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RRRRAX.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-id="Racing.Dummy.us" tvg-name="[F1] Azerbaijan Grand Prix - Practice 1 | Main Feed (FUTBOLX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[F1] Azerbaijan Grand Prix - Practice 1 | Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://sweden.futbol-x.top/sky/index.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Los Angeles Kings vs. Anaheim Ducks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[Hockey] Los Angeles Kings vs. Anaheim Ducks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="57" tvg-id="Racing.Dummy.us" tvg-name="[FIA Formula 2] FIA Formula 2 Azerbaijan (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[FIA Formula 2] FIA Formula 2 Azerbaijan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/wxdaztfhd62.m3u8
+http://193.47.62.44/hls/RRRR.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Minnesota Wild vs. Dallas Stars | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[Hockey] Minnesota Wild vs. Dallas Stars | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Uzbekistan vs Iran 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Uzbekistan vs Iran 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/gfhfgsqda61.m3u8
+http://193.47.62.55/hls/ELLLAAAA.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Toronto Maple Leafs vs. Ottawa Senators | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[Hockey] Toronto Maple Leafs vs. Ottawa Senators | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="77" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Uzbekistan vs Iran 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Friendly Match] Uzbekistan vs Iran 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf FedEx Open de France (FAWA)" tvg-logo="https://files.catbox.moe/0u2n4x.png" group-title="Live Events",[Golf] Golf FedEx Open de France (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/ELLLAAA.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Anaheim Ducks vs. San Jose Sharks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[Hockey] Anaheim Ducks vs. San Jose Sharks | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/cwxvbnfghq60.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Los Angeles Angels (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Athletics vs Los Angeles Angels (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56985?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56985/load-playlist
-
-#EXTINF:-1 tvg-chno="67" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox at Kansas City Royals (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago White Sox at Kansas City Royals (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/whitesox.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/whitesox.m3u8
-
-#EXTINF:-1 tvg-chno="69" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds at Atlanta Braves (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cincinnati Reds at Atlanta Braves (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/braves.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/braves.m3u8
-
-#EXTINF:-1 tvg-chno="71" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians at Boston Red Sox (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians at Boston Red Sox (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/redsox.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/redsox.m3u8
-
-#EXTINF:-1 tvg-chno="74" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Colorado Rockies vs Arizona Diamondbacks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Colorado Rockies vs Arizona Diamondbacks (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56982?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56982/load-playlist
-
-#EXTINF:-1 tvg-chno="81" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros at Seattle Mariners (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Houston Astros at Seattle Mariners (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/astros.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/astros.m3u8
-
-#EXTINF:-1 tvg-chno="86" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels at Athletics (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Angels at Athletics (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/angels.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/angels.m3u8
-
-#EXTINF:-1 tvg-chno="92" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs San Diego Padres (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs San Diego Padres (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56990?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56990/load-playlist
-
-#EXTINF:-1 tvg-chno="95" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Miami Marlins at Chicago Cubs (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Miami Marlins at Chicago Cubs (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/cubs.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/cubs.m3u8
-
-#EXTINF:-1 tvg-chno="97" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers at Philadelphia Phillies (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Milwaukee Brewers at Philadelphia Phillies (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/phillies.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/phillies.m3u8
-
-#EXTINF:-1 tvg-chno="100" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Mets at Texas Rangers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Mets at Texas Rangers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/rangers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/rangers.m3u8
-
-#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres at Los Angeles Dodgers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Diego Padres at Los Angeles Dodgers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/dodgers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/dodgers.m3u8
-
-#EXTINF:-1 tvg-chno="113" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Houston Astros (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners vs Houston Astros (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56986?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56986/load-playlist
-
-#EXTINF:-1 tvg-chno="114" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] St. Louis Cardinals at Pittsburgh Pirates (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] St. Louis Cardinals at Pittsburgh Pirates (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/cardinals.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/cardinals.m3u8
-
-#EXTINF:-1 tvg-chno="116" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay Rays at New York Yankees (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Tampa Bay Rays at New York Yankees (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/yankees.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/yankees.m3u8
-
-#EXTINF:-1 tvg-chno="119" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays at Baltimore Orioles (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays at Baltimore Orioles (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/mlb/bluejays.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportbroadcastix.s3.us-east-1.amazonaws.com/bluejays.m3u8
-
-#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Seattle Sounders FC vs Real Salt Lake (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live Events",[MLS] Seattle Sounders FC vs Real Salt Lake (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56984?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56984/load-playlist
-
-#EXTINF:-1 tvg-chno="135" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Preseason] Anaheim Ducks vs Los Angeles Kings (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Preseason] Anaheim Ducks vs Los Angeles Kings (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56989?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56989/load-playlist
-
-#EXTINF:-1 tvg-chno="154" tvg-id="Rugby.Dummy.us" tvg-name="[Rugby NZ NPC] Tasman vs Bay of Plenty (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Rugby NZ NPC] Tasman vs Bay of Plenty (FAWA)
+#EXTINF:-1 tvg-chno="94" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/ZAAAQq.m3u8
+http://193.47.62.194/hls/vavavava.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Seattle Storm vs Dallas Wings (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Seattle Storm vs Dallas Wings (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56988?ad=111
+#EXTINF:-1 tvg-chno="95" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56988/load-playlist
+http://193.47.62.194/hls/vavavavaq.m3u8
+
+#EXTINF:-1 tvg-chno="144" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Qatar Airways Azerbaijan Grand Prix — FP2 | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Racing] Qatar Airways Azerbaijan Grand Prix — FP2 | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8
+
+#EXTINF:-1 tvg-chno="145" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis WTA] Tennis WTA Billie Jean King Cup (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis WTA] Tennis WTA Billie Jean King Cup (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XAXAXADDD.m3u8
 
 ============================================================
 
@@ -289,26 +234,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-09-24 02:09:33
+# Generated: 2026-09-24 10:43:49
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790251771~hmac=7a51715b211a9c37f40b82d9ccdb04eadf12e58370566aa1c89fece5342aba0b
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790282628~hmac=9f3c569b24b1e4b323a2004a266a521e1dc9344e850ccaa98689fabd8f52549f
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790251772~hmac=b086f6d095025b88fe90b78d6e15b3d33b9253bdf5d81176b0736d9014c8f4ad
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790282628~hmac=81d0aa27b05cd6f3f16661a23f8bcfdb322505096b6f22ba3e8d8a6aeb6e1888
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790251772~hmac=c5bcfb900a022029a91da51be4231ca1fa547b7146c6b893bff1f74e21ead918
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790282628~hmac=9e5febd3589609d33aaf03d4d1d17d7a447e6d3a62f5cd2a38e46108735e9fc7
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790251772~hmac=8bf3700f38901b919c4c33b91e6e2dcd3abe304a8a95d3c929526100b9d497c1
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790282629~hmac=56a324ac4df05159276a3e264dee2e7fee785a8f426cebef5434a6d78a95bcf2
 
 ============================================================
 
@@ -414,7 +359,7 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd
+https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd?signature=OGQwYzY2YTMxNDEwMmRlYmM0N2IxMjQ5MDA3ZTA1Yzc=&time=77777777777&device_id=ORLriq4inJI_i2tDz8j9JtKd3FwD_o9h_ILaKxMoHALY-jYxiw
 
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_arirang.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -431,12 +376,6 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/ind
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
-
-#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cctv4.png",CCTV4
@@ -447,13 +386,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q0NUViA0/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q0NUViA0/manifest.mpd?signature=ZDRiZTZmMWRlMTZhMWVhMGY2YjEwNWM1MTRmNTg2NWM=&time=77777777777&device_id=PZXe4W17gqUReDZnq_sZe0FHmPxbqRQxPrZHwbxevBpj4eoBqw
 
 #EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="Entertainment" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4f477c14-5ec0-47d2-9665-925fe0056c64.png",Dunia Lain
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=ZDgxOGY4YTcxNzhiM2JiY2Y0OGViMDI0NmU3MDQyYmE=&time=77777777777&device_id=3qBPI-VMdGO_z7u0ST5cIt29gOWrt_ujQBduxIYWxaYbm3tSwA
 
 #EXTINF:-1 tvg-id="Entertainment.id@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png",Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -466,7 +405,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/IW5zZXJ0/manifest.mpd
+https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/330-aW5zZXJ0LWNoLXNjdGUzNQ/live.mpd?signature=MzM1NmY5NzkyZDc3MGI5YmNkNmIzZmYwZmM4OWVhYjc=&time=77777777777&device_id=oTUsDpAKOAeq_K-iY9vGfhiqWorUVlGQ4rLTsogqNAVNXXz3Qw
 
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kbsworld.png",KBS World
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -514,7 +453,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFY1IE1vbmRl/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFY1IE1vbmRl/manifest.mpd?signature=NmRiMzU5YmU1NzJkZmVmYTdjZWQwMzI4OGM0Yzc5NTY=&time=77777777777&device_id=nbKSE_8SeHwXLwpkAMc0nnbY3felv2OPFJMxXhvpdQg64UOalQ
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -527,7 +466,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/dHZOQ2hhbm5lbA/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/dHZOQ2hhbm5lbA/vx9-mdrmprt02/manifest.mpd?signature=MDY4YmM5YzViZDIyNzQ1YTFiYWQxZmI4MTk3MGNhNzc=&time=77777777777&device_id=6VROIJAXtLD9dsSdD-WDFRF-7Es2dRIRqfcj4BdFDaYkTC8j9A
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
 https://cdnbal1.indihometv.com/atm/DASH/tvn/tvn-avc1_2500000=7-3277707030000000.mpd
@@ -615,19 +554,19 @@ https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2F
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUVg/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUVg/manifest.mpd?signature=YjEzODZjNDI5NzEyOGE5ZmQ2NWIyMDA2ZWMxODA0Yzc=&time=77777777777&device_id=iW2H5zQ9_mnW9WJEF6Vm1W23rWHKVWNKUkyapUNnuPzi0Z3Nbg
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg",Cartoon TV Classic
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd?signature=MmEwMTI4NjBiZjVhNGMzMDgyZWI2NzY5OTgwNDU0Yzk=&time=77777777777&device_id=8mpgGoJ8ib8CYMRUTq1vweL87EXOxri3ra8USkf_dajut8vqAQ
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg",Cartoon TV Premium
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd?signature=ZThmZjkwMjZhYTc0MjgxNGY3NTNkOGZmN2ViMTU1MDE=&time=77777777777&device_id=DsAvLouE6aRFSfzgRbK9czP31LZMaBDET7IFwFF_G0hXblJNHQ
 
 #EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -652,7 +591,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgQW5haw/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgQW5haw/manifest.mpd?signature=YzFiMDczNTk5YzQ0YTAxM2U4ZDViODhmZWIzZDkwYzE=&time=77777777777&device_id=oqPcIJQPEgQxuPCsq77lFIwOcrQECY_B1ndbumvw1NNut3BBlg
 
 #EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -774,7 +713,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q29va2luZyBUVg/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q29va2luZyBUVg/vx9-mdrmprt02/manifest.mpd?signature=YjU5YWU2OGM5NDAxOWFlNGZkMGU0NzZjOGE3M2JmMjE=&time=77777777777&device_id=TC_u8NKDhiMwpzNPlHe64dngB-RQJDt6OVusFUG6KdDCzJSpEA
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://pic.dens.tv/tv_183x174/1701422013_square.jpg",Crema TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -800,13 +739,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h203/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RWF0IE4gR28/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RWF0IE4gR28/manifest.mpd?signature=MGUyMTVjMDkxNTY5ZGU5ZjA0NzZjZDA3MWVmNmRlZmI=&time=77777777777&device_id=rAptU2xp55VCpP8p62yYRFkJ79Wu7YWKx-CcTtXSaew6RGTA4g
 
 #EXTINF:-1 tvg-id="FashionTVAsia.fr@SD" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fashiontv.png",Fashion TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RmFzaGlvbiBUVg/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RmFzaGlvbiBUVg/manifest.mpd?signature=NDI2OTFlYzFhYTU1NzdkY2UxNzQzNjM1Y2JhYTVjYTk=&time=77777777777&device_id=K6fApj3euoa4Eu1vXgGoVIX0PYP55j26C1WM4rp1e3Am4ON9Jw
 
 #EXTINF:-1 tvg-id="OKTV.id@SD" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -833,7 +772,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=NGYzMTczZWZlM2RmZDk2YjBiNzgzZTY0MTViY2NmODk=&time=77777777777&device_id=AY6jRPCj-4G7-FyBTzdTQOtlgKJZUlBSKOwz6RX9v2OCe7nVog
 
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -853,7 +792,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=Njk1NzJlOTg0ZWRhOWVlY2Q5MTAwZDU3YWVhMWRjZmI=&time=77777777777&device_id=W-KYtX4FF-iyLDAnNbbhkMqVH8mjAloJqsGAM1KsONf05UCQIg
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png",Celestial Movies
 https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_2500000=7-3277707030000000.mpd
@@ -900,7 +839,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VGhyaWxs/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VGhyaWxs/manifest.mpd?signature=MjBiMGZkMzk5MGVmY2JiZDEyYzA1ZDA4M2ZlMDViZWY=&time=77777777777&device_id=1E44vSq6A0FLs3YH9luxpgZmK1MW5h2vOrLTzVu9HM34VMPLfw
 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
 https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
@@ -909,7 +848,7 @@ https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-32777070300
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFZOIE1vdmllcw/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZOIE1vdmllcw/vx9-mdrmprt02/manifest.mpd?signature=MmIwYWZmMTRiZjRmZjYwMjBiYmU5NDJmYmJmZmQ2YzU=&time=77777777777&device_id=zbMFA3Dd4u1yE1EiZW0DHsLpTN_UltV9neTFNNL0X9RvdI31MA
 
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png",tvN Movies
 https://cdnbal1.indihometv.com/atm/DASH/tvnmovies/tvnmovies-avc1_2500000=7-3277707030000000.mpd
@@ -983,7 +922,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd?signature=ZTdkN2QxZGQxMjY2OGVhMmM0NjQwMWMzZDFjOGY5YTY=&time=15255127377&device_id=Ph_5RAwuC5PzhVYHzIFHITU-RVhrTHO7XcIrKbzTTHRuDt9XzQ
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd?signature=ZTdkN2QxZGQxMjY2OGVhMmM0NjQwMWMzZDFjOGY5YTY=&time=77777777777&device_id=qlt27toOGNI8UMwutiaoZbIMArNXHoxU-iCpt-rB2kzSvN46PA
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -997,7 +936,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=ZmFlM2FmNDhiYmI3YzA3NmJmYWZlMDUyNDA1ZjBmZTE=&time=15255127437&device_id=6SAxtWNrChRLII0CwmAxnMEBHbM0tDz0hwuFGkP8CVWk6I-jPg
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=ZmFlM2FmNDhiYmI3YzA3NmJmYWZlMDUyNDA1ZjBmZTE=&time=77777777777&device_id=6SAxtWNrChRLII0CwmAxnMEBHbM0tDz0hwuFGkP8CVWk6I-jPg
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1014,7 +953,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QlRWIENoYW5uZWw/manifest.mpd?signature=NmVlZGMyMWY0ZGY5YmM4MDhmNzJmZmE0ZThlMzM3ZTU=&time=15255127566&device_id=VbtrEWJnR_w1Q6yZMlHS69rqpyRftUOtazxxC3Q5SXfEtsN6Qg
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QlRWIENoYW5uZWw/manifest.mpd?signature=NmVlZGMyMWY0ZGY5YmM4MDhmNzJmZmE0ZThlMzM3ZTU=&time=77777777777&device_id=VbtrEWJnR_w1Q6yZMlHS69rqpyRftUOtazxxC3Q5SXfEtsN6Qg
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
@@ -1023,13 +962,13 @@ https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-327
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=15255127611&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd?signature=ZTg3MDA5Yzg0MTZiMjA5ODRkMjU0YTg1YTFlMDIwY2U=&time=15255127627&device_id=VynxJ0R-jJuS-bDlYC8raLX1Ya28IkDvCxXZR2oIeB5e05wFyw
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd?signature=ZTg3MDA5Yzg0MTZiMjA5ODRkMjU0YTg1YTFlMDIwY2U=&time=77777777777&device_id=VynxJ0R-jJuS-bDlYC8raLX1Ya28IkDvCxXZR2oIeB5e05wFyw
 
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1042,7 +981,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=ZjcxYzJiYTg3OWIzMjA1MTkxMTUyYTk4MDA4MjM3OGE=&time=15255127656&device_id=j4Pn0bA1JE5hgQIWJO4wwmE4JhNUDJIw2nUbK8Q3Ea9z-6sEXw
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=ZjcxYzJiYTg3OWIzMjA1MTkxMTUyYTk4MDA4MjM3OGE=&time=77777777777&device_id=j4Pn0bA1JE5hgQIWJO4wwmE4JhNUDJIw2nUbK8Q3Ea9z-6sEXw
 
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1077,7 +1016,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd?signature=ZmZlNjA3NmQ2N2M1NTA4N2Y4MmFlMTBkNzAyOWE3NmE=&time=15255127751&device_id=4bkP2ViTbtSSEjPF7eOaRezbNtgxd3pwDEo3HCeYk4XmIoZavQ
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd?signature=ZmZlNjA3NmQ2N2M1NTA4N2Y4MmFlMTBkNzAyOWE3NmE=&time=77777777777&device_id=4bkP2ViTbtSSEjPF7eOaRezbNtgxd3pwDEo3HCeYk4XmIoZavQ
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
@@ -1105,7 +1044,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd?signature=M2M2YTVkMzExOGIxM2QyNzdlNzg0NTJhMGFjNDlmMDM=&time=15255130020&device_id=vVVl-OsEIAESnwrXX8zF8iBn3y5xneBw1poRRPk_xJbfNpIiHA
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd?signature=M2M2YTVkMzExOGIxM2QyNzdlNzg0NTJhMGFjNDlmMDM=&time=77777777777&device_id=vVVl-OsEIAESnwrXX8zF8iBn3y5xneBw1poRRPk_xJbfNpIiHA
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1132,7 +1071,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd?signature=YTBlZjQyODJkM2QxY2I1OTU0N2QxOTA3YzczODVlZDA=&time=15255130060&device_id=pUaPSjNRcG_ur2u0SBUcaA5Vk_FO91pWAHpKSpGSCqhj6tJEaA
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd?signature=YTBlZjQyODJkM2QxY2I1OTU0N2QxOTA3YzczODVlZDA=&time=77777777777&device_id=pUaPSjNRcG_ur2u0SBUcaA5Vk_FO91pWAHpKSpGSCqhj6tJEaA
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1149,7 +1088,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd?signature=ZWQzN2JkYmNhMDg0OWU2YTNiNzE0ZGY5MWViZmQxMWY=&time=15255130115&device_id=6npA1x_b6EnG1ZVyLRVG04pjL62Ur8d94Cp46w4pPDqUTd5jxA
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd?signature=ZWQzN2JkYmNhMDg0OWU2YTNiNzE0ZGY5MWViZmQxMWY=&time=77777777777&device_id=6npA1x_b6EnG1ZVyLRVG04pjL62Ur8d94Cp46w4pPDqUTd5jxA
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1162,7 +1101,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd?signature=YjE3NGI5OWFhZjNmZDBlOWE1N2RiZWUwMTQ4OTg4ZDg=&time=15255130150&device_id=2hyIVWh1ZOuGubXNJabMMoN24xymf4c2e8lxsuEH2pw50mIM6Q
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd?signature=YjE3NGI5OWFhZjNmZDBlOWE1N2RiZWUwMTQ4OTg4ZDg=&time=77777777777&device_id=2hyIVWh1ZOuGubXNJabMMoN24xymf4c2e8lxsuEH2pw50mIM6Q
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1205,7 +1144,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=15255130221&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
 
 #EXTINF:-1 tvg-id="RCTI.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1234,7 +1173,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/cnR2IENobmw/manifest.mpd?signature=M2NlNTU5YmFhM2Y4NjJjNWM3NjA1Y2ViMzhiYjYyMTQ=&time=15255130317&device_id=_Komi8PF0qn-wx7r-Q3_hbQs9uIE8XZPX4ju_XqqMpeFetD9TQ
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/cnR2IENobmw/manifest.mpd?signature=M2NlNTU5YmFhM2Y4NjJjNWM3NjA1Y2ViMzhiYjYyMTQ=&time=77777777777&device_id=_Komi8PF0qn-wx7r-Q3_hbQs9uIE8XZPX4ju_XqqMpeFetD9TQ
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
 https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
@@ -1250,7 +1189,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd?signature=ZmQ2YzU2MWU0NmQ1OGRmNjY4YzMzYTEzOWVlYzgxYjQ=&time=15255130347&device_id=7fzdziLjFH5se80gAXFK-bjJ2uXIey6bu4jPWp2sx41OUbwZDw
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd?signature=ZmQ2YzU2MWU0NmQ1OGRmNjY4YzMzYTEzOWVlYzgxYjQ=&time=77777777777&device_id=7fzdziLjFH5se80gAXFK-bjJ2uXIey6bu4jPWp2sx41OUbwZDw
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
@@ -1283,7 +1222,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd?signature=NzVjNmUwMjZhZWQ2MTViYjEwOGJkNGE4M2YzMjMyYjQ=&time=15255130407&device_id=zG_jRjT9si_JjdpeEfQpt6wyziM__VMUTpm0-VNjgoG4mWHJbQ
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd?signature=NzVjNmUwMjZhZWQ2MTViYjEwOGJkNGE4M2YzMjMyYjQ=&time=77777777777&device_id=zG_jRjT9si_JjdpeEfQpt6wyziM__VMUTpm0-VNjgoG4mWHJbQ
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1296,7 +1235,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd?signature=ZGQ2YmE4NGVhMmJiOGIzODQ4NGZkZmJhZDcyN2I4NDE=&time=15255130432&device_id=7IXVvzSbNJ39Hp_b0mAgbbOBp5XFfn0vNSN6RhA_ZEuaryTJog
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd?signature=ZGQ2YmE4NGVhMmJiOGIzODQ4NGZkZmJhZDcyN2I4NDE=&time=77777777777&device_id=7IXVvzSbNJ39Hp_b0mAgbbOBp5XFfn0vNSN6RhA_ZEuaryTJog
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1313,7 +1252,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd?signature=MWQxNDgxM2ZlMWRkMDU3N2U4ZTFkZDllY2M5YjEyYTM=&time=15255130507&device_id=Dz5tY5nP9bziI0KILdMHmQVYDHEcuGbHsgD-eLsZXyGjlCbqsQ
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd?signature=MWQxNDgxM2ZlMWRkMDU3N2U4ZTFkZDllY2M5YjEyYTM=&time=77777777777&device_id=Dz5tY5nP9bziI0KILdMHmQVYDHEcuGbHsgD-eLsZXyGjlCbqsQ
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
@@ -1330,26 +1269,26 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-24 03:37:04
+# Updated: 2026-09-24 11:18:47
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790257023~hmac=eb0806bc9567d9b16bb0714afc2788cb4b49df3e97bb1400bd4366e68e834b05
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790284726~hmac=a2a39e4ab725cde2cefcbfed3d5807a84e5defef5b1bdcef143be428ecd97aec
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790257023~hmac=7faadbcab44552b5f49cbb6800bbcbd3c5ad25d52edeb520d411844efa2231de
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790284726~hmac=e005c7f1c77ec6108b51e236bdf78b29dab4e239e5b406b886c68540ebc0abc2
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790257024~hmac=380d819e02b327a8b666658f440584fa46d4fef66e8a2641f5c06abe95b7cad6
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790284726~hmac=c5313fd59cabd6ee5519955ab9392e151aed83426aec819082cd5d9330ec7a05
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790257024~hmac=91f3fb60eda13823418fed828c910a86d1b7e16e5e70114aa44e1fc435e2c712
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790284727~hmac=2a21f48b66671945cd0788fb2c8a6132cb2a4ed12399dec71b3a7289c91bdcee
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
