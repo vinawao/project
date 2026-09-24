@@ -1,26 +1,21 @@
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-24 11:20:17
+# Updated: 2026-09-24 16:06:47
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790282628~hmac=9f3c569b24b1e4b323a2004a266a521e1dc9344e850ccaa98689fabd8f52549f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790302006~hmac=77aa8e594f0ca8b9a366eddb41c28895d54205a4f42b00aeecc1d97855e2261c
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790282628~hmac=81d0aa27b05cd6f3f16661a23f8bcfdb322505096b6f22ba3e8d8a6aeb6e1888
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790282628~hmac=9e5febd3589609d33aaf03d4d1d17d7a447e6d3a62f5cd2a38e46108735e9fc7
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790302006~hmac=63dd8ebe322b0ecb30394542934c12f804ba9f59204a233ea03b9fae90e94f47
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790282629~hmac=56a324ac4df05159276a3e264dee2e7fee785a8f426cebef5434a6d78a95bcf2
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790302007~hmac=0dc2e626f5fae5d0269ca04829b4eb4b631799a2049fc7218a7758ad0f5751c9
 
 # === END RCTI+ SECTION ===
