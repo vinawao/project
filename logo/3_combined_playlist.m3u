@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-09-29T05:27:18.122722 UTC
+# Generated on 2026-09-29T12:37:08.482247 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -10,112 +10,47 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Guatemala vs El Salvador (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Live Events",[CONCACAF Nations League] Guatemala vs El Salvador (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/YBBBAaaa.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Armenia vs. Montenegro | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Armenia vs. Montenegro | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Armenia vs. Montenegro | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Armenia vs. Montenegro | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Georgia vs. Ukraine | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Georgia vs. Ukraine | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Latvia vs. Cyprus | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Latvia vs. Cyprus | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Latvia vs. Cyprus | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Latvia vs. Cyprus | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Northern Ireland vs. Hungary | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Northern Ireland vs. Hungary | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/griogoehvn2.m3u8
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Romania vs. Bosnia-Herzegovina | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Romania vs. Bosnia-Herzegovina | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/sqdahach1ax.m3u8
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Sky Sports Golf (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Live Events",[Golf] Sky Sports Golf (DAMITV)
+#EXTINF:-1 tvg-chno="29" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Sky Sports Golf (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Live Events",[Golf] Sky Sports Golf (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sky-sports-golf-29059
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=zftBrCoW__3GcoBySGZKtA&e=1790685537
 
-#EXTINF:-1 tvg-chno="108" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Chicago Bears vs Philadelphia Eagles 1 ESPN (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Chicago Bears vs Philadelphia Eagles 1 ESPN (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/ZGGG.m3u8
-
-#EXTINF:-1 tvg-chno="109" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Chicago Bears vs Philadelphia Eagles 2 TSN (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Chicago Bears vs Philadelphia Eagles 2 TSN (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/ZGGGA.m3u8
-
-#EXTINF:-1 tvg-chno="110" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Chicago Bears vs Philadelphia Eagles 3 SKY (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Chicago Bears vs Philadelphia Eagles 3 SKY (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/ZGGGAA.m3u8
-
-#EXTINF:-1 tvg-chno="112" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chicago Bears vs Philadelphia Eagles (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Chicago Bears vs Philadelphia Eagles (REED)
-#EXTVLCOPT:http-referrer=https://reedstreams.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bootkit.b-cdn.net/admin2.formaturamaxi.com.br/nfl.m3u8
-
-#EXTINF:-1 tvg-chno="114" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chicago Bears vs Philadelphia Eagles (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Chicago Bears vs Philadelphia Eagles (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57344?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/57344/load-playlist
-
-#EXTINF:-1 tvg-chno="123" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Eagles @ Bears | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Eagles @ Bears | Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="112" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Eagles @ Bears | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Eagles @ Bears | Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://you.futbol-tv.online/eag/index.m3u8
 
-#EXTINF:-1 tvg-chno="127" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Live Events",[NFL] NFL Network (DAMITV)
+#EXTINF:-1 tvg-chno="116" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Live Events",[NFL] NFL Network (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=zftBrCoW__3GcoBySGZKtA&e=1790685537
 
-#EXTINF:-1 tvg-chno="128" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles at Chicago Bears (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5aecf8caed5645f1ad6a74f8e5111202-thumbnail.jpg" group-title="Live Events",[NFL] Philadelphia Eagles at Chicago Bears (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl/2026-09-28/phi-chi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nfl/2026-09-28/phi-chi/playlist.m3u8?tk=zftBrCoW__3GcoBySGZKtA&e=1790685537
-
-#EXTINF:-1 tvg-chno="129" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles at Chicago Bears (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Philadelphia Eagles at Chicago Bears (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cfd/nfl/eagles.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://storage.googleapis.com/noscopeninja/france/manifest.m3u8
-
-#EXTINF:-1 tvg-chno="131" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles vs Chicago Bears (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Philadelphia Eagles vs Chicago Bears (OVO)
+#EXTINF:-1 tvg-chno="117" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles vs Chicago Bears (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Philadelphia Eagles vs Chicago Bears (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/philadelphia-eagles-vs-chicago-bears/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
 
-#EXTINF:-1 tvg-chno="144" tvg-id="Live.Event.us" tvg-name="[Sports] Sweden vs Poland (OVO)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Sports] Sweden vs Poland (OVO)
+#EXTINF:-1 tvg-chno="130" tvg-id="Live.Event.us" tvg-name="[Sports] Sweden vs Poland (OVO)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Sports] Sweden vs Poland (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/sweden-vs-poland/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
 
-#EXTINF:-1 tvg-chno="145" tvg-id="Live.Event.us" tvg-name="[Sports] Turkey vs Italy (OVO)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Sports] Turkey vs Italy (OVO)
+#EXTINF:-1 tvg-chno="131" tvg-id="Live.Event.us" tvg-name="[Sports] Turkey vs Italy (OVO)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Sports] Turkey vs Italy (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/turkey-vs-italy/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application2
 
-#EXTINF:-1 tvg-chno="168" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE Wrestling] WWE Monday Night RAW (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[WWE Wrestling] WWE Monday Night RAW (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/YBBBAaaaqqq.m3u8
-
-#EXTINF:-1 tvg-chno="169" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] Monday Night RAW (iSTRMEAST)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[WWE] Monday Night RAW (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54800?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/54800/load-playlist
-
-#EXTINF:-1 tvg-chno="170" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE: Monday Night RAW | Main Feed (FUTBOLX)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[WWE] WWE: Monday Night RAW | Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="156" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE: Monday Night RAW | Main Feed (FUTBOLX)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[WWE] WWE: Monday Night RAW | Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://you.futbol-tv.online/wwe/index.m3u8
@@ -199,26 +134,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-09-29 03:13:40
+# Generated: 2026-09-29 11:46:55
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790687618~hmac=0d5e3e8d4c557748ea2a52844ac1f27fa85c1f2e646ab4e7686d042eb2cc0ef0
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790718410~hmac=a74eaa721871fa8299c8f1b1cecd04e5ed9bb20fd06821a4e73d1c0d531f41a9
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790687619~hmac=947da2348a0ab8196c5ec0d0c3ee094a385dbe4fa6c198597b78da5de397bac6
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790718411~hmac=1d66d0b2f96d4cc52ed43ff29d657b493974742dda0596dd8f2d10d6d0bb6360
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790687619~hmac=6ca17b18a7cefe4469c06b4a9ccc3dc09005039642d019c9eddb07214c876dc0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790718414~hmac=c9ff42c6713728b5e4657fd210318b3b072c696e78ec391969e4616915ed44f0
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790687620~hmac=5394288d4484338ae862765e54cd19474821323e3c5bab4b25a38650beff2a1b
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790718415~hmac=5186ff7a77456a13cc0c811a49c04ab62356a2faae9619eed397cda52bc77baf
 
 ============================================================
 
@@ -978,10 +913,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/QU5UVg/manifest.mpd?signature=ZTdkN2QxZGQxMjY2OGVhMmM0NjQwMWMzZDFjOGY5YTY=&time=77777777777&device_id=qlt27toOGNI8UMwutiaoZbIMArNXHoxU-iCpt-rB2kzSvN46PA
 
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
-
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
@@ -1037,11 +968,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=ZjcxYzJiYTg3OWIzMjA1MTkxMTUyYTk4MDA4MjM3OGE=&time=77777777777&device_id=j4Pn0bA1JE5hgQIWJO4wwmE4JhNUDJIw2nUbK8Q3Ea9z-6sEXw
 
-#EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png",GTV World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1075,10 +1001,6 @@ https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
-
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1088,11 +1010,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -1157,11 +1074,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/TU5DVFY/manifest.mpd?signature=YjE3NGI5OWFhZjNmZDBlOWE1N2RiZWUwMTQ4OTg4ZDg=&time=77777777777&device_id=2hyIVWh1ZOuGubXNJabMMoN24xymf4c2e8lxsuEH2pw50mIM6Q
 
-#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-m.png",MNCTV World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1199,11 +1111,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
-
-#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png",RCTI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1247,10 +1154,6 @@ https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
@@ -1323,26 +1226,26 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-29 04:44:16
+# Updated: 2026-09-29 12:20:49
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790693055~hmac=64aea0d79d70602a2a85a04437305b7b7f715cc2af82d7268a03d314c9af406f
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790720442~hmac=bd58bb6c8de2e000d86bab1401d4a94f924e437c45a0d69e5edc85944e56750c
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790693055~hmac=e0dc86996cd5c6dfe4fd953aaef5b8988919ec4517d57b14cd322a90ee3d33cf
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790720442~hmac=5e63ae52429f05262867ec6f9bb22e550752eb16172e95ccf52589de82e7bb06
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790693055~hmac=fa1c74a3e274357db5d9be05c8ad41da91bdf16300b62da0a567658d5fce7149
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790720445~hmac=a6ae6dd350a3d732c1418bcc9e4a1ca6255d9fb943bd6a775307c48314756648
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790693056~hmac=94f935d720d031bff42a535d903d6cbf51b272c0575f108e4daac236858ed71b
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790720449~hmac=972553c1b6f2eb34e13b3ff085b2d2b4631b9b9fa4f767e62da6b9d15a22af5c
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
