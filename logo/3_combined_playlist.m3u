@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-10-04T09:34:47.472872 UTC
+# Generated on 2026-10-04T15:15:09.352796 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
@@ -20,70 +20,15 @@ https://edgestream2.pro/hls/eyrennte44.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hezfnezkfzk45.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball NBL] South East Melbourne vs Illawarra Hawks (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[Basketball NBL] South East Melbourne vs Illawarra Hawks (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/ZQQQ.m3u8
-
-#EXTINF:-1 tvg-chno="111" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Jose Luis Russell Regalado vs Rene Calixto (iSTRMEAST)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Boxing] Jose Luis Russell Regalado vs Rene Calixto (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57455?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/57455/load-playlist
-
 #EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Finland vs. Albania | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Finland vs. Albania | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57392?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/57392/load-playlist
-
-#EXTINF:-1 tvg-chno="211" tvg-id="Soccer.Dummy.us" tvg-name="[Japan J League] Vegalta Sendai vs Iwata (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2199.png" group-title="Live Events",[Japan J League] Vegalta Sendai vs Iwata (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/ZQQQAAAA.m3u8
-
 #EXTINF:-1 tvg-chno="306" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves at Los Angeles Dodgers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Atlanta Braves at Los Angeles Dodgers (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.click/mlb/dodgers.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://storage.googleapis.com/buoyantsong/phillies/manifest.m3u8
-
-#EXTINF:-1 tvg-chno="315" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres at Milwaukee Brewers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Diego Padres at Milwaukee Brewers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/mlb/padres.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/yankees.m3u8
-
-#EXTINF:-1 tvg-chno="331" tvg-id="Racing.Dummy.us" tvg-name="[MotoGP] MotoGP Grand Prix of Japan (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png" group-title="Live Events",[MotoGP] MotoGP Grand Prix of Japan (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/duuuAAAAAA.m3u8
-
-#EXTINF:-1 tvg-chno="349" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Arizona State vs Baylor (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Arizona State vs Baylor (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/ZFFFQQQQQ.m3u8
-
-#EXTINF:-1 tvg-chno="350" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Arizona vs Cincinnati Bearcats (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Arizona vs Cincinnati Bearcats (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/UWWWA.m3u8
-
-#EXTINF:-1 tvg-chno="361" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] San Diego State vs Texas State Bobcats (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] San Diego State vs Texas State Bobcats (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/OVVVAA.m3u8
-
-#EXTINF:-1 tvg-chno="363" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] South Florida vs Temple (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] South Florida vs Temple (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/UWWWAAA.m3u8
-
-#EXTINF:-1 tvg-chno="367" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Washington State vs Fresno State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Washington State vs Fresno State (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/jnnnaaaaaaa.m3u8
 
 #EXTINF:-1 tvg-chno="368" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Arizona State vs Baylor (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Arizona State vs Baylor (REED)
 #EXTVLCOPT:http-referrer=https://reedstreams.link
@@ -170,80 +115,20 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/135a7e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2f9295fb-591a-487e-9ddd-b19d42f45878/master.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Calgary Flames at Vancouver Canucks (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Calgary Flames at Vancouver Canucks (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/flames.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/flames.m3u8
-
-#EXTINF:-1 tvg-chno="428" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Carolina Hurricanes at Philadelphia Flyers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Carolina Hurricanes at Philadelphia Flyers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/flyers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/flyers.m3u8
-
-#EXTINF:-1 tvg-chno="430" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Chicago Blackhawks at Buffalo Sabres (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Chicago Blackhawks at Buffalo Sabres (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/sabres.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/sabres.m3u8
-
 #EXTINF:-1 tvg-chno="432" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Colorado Avalanche vs St. Louis Blues (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Colorado Avalanche vs St. Louis Blues (REED)
 #EXTVLCOPT:http-referrer=https://reedstreams.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://tedesco.formaturamaxi.com.br/nhl11.m3u8
-
-#EXTINF:-1 tvg-chno="439" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Los Angeles Kings at San Jose Sharks (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Los Angeles Kings at San Jose Sharks (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/sharks.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/sharks.m3u8
-
-#EXTINF:-1 tvg-chno="444" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Montreal Canadiens at Pittsburgh Penguins (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Montreal Canadiens at Pittsburgh Penguins (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/penguins.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/penguins.m3u8
-
-#EXTINF:-1 tvg-chno="448" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Ottawa Senators at Toronto Maple Leafs (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Ottawa Senators at Toronto Maple Leafs (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/leafs.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/leafs.m3u8
 
 #EXTINF:-1 tvg-chno="451" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks vs Los Angeles Kings (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks vs Los Angeles Kings (REED)
 #EXTVLCOPT:http-referrer=https://reedstreams.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://admin2.formaturamaxi.com.br/nhl13.m3u8
 
-#EXTINF:-1 tvg-chno="454" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Seattle Kraken at Edmonton Oilers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Seattle Kraken at Edmonton Oilers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/oilers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/oilers.m3u8
-
-#EXTINF:-1 tvg-chno="456" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] St. Louis Blues at Colorado Avalanche (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] St. Louis Blues at Colorado Avalanche (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/avalanche.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/avalanche.m3u8
-
-#EXTINF:-1 tvg-chno="461" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Utah Mammoth at Columbus Blue Jackets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Utah Mammoth at Columbus Blue Jackets (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/bluejackets.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/bluejackets.m3u8
-
-#EXTINF:-1 tvg-chno="466" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Washington Capitals at Tampa Bay Lightning (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Washington Capitals at Tampa Bay Lightning (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nhl/lightning.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://digitalnoodle.s3.us-east-1.amazonaws.com/lightning.m3u8
-
-#EXTINF:-1 tvg-chno="485" tvg-id="Rugby.Dummy.us" tvg-name="[Rugby NZ NPC] Taranaki vs Wellington (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Rugby NZ NPC] Taranaki vs Wellington (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/GNNNNaq.m3u8
-
 #EXTINF:-1 tvg-chno="488" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Beijing (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis ATP] Tennis ATP Beijing (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.55/hls/NUUUQ.m3u8
-
-#EXTINF:-1 tvg-chno="489" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Tokyo (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis ATP] Tennis ATP Tokyo (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/NUUUQQ.m3u8
 
 #EXTINF:-1 tvg-chno="490" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis WTA] Tennis WTA Beijing (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis WTA] Tennis WTA Beijing (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -329,26 +214,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-10-04 03:21:04
+# Generated: 2026-10-04 11:29:46
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1791120063~hmac=625055adcc60d881ef80c8762dbadb099be5677cec4b1ed077ad2d082438d584
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1791149384~hmac=edb941053feddd3e3e96b5ebb7c60be62d1291180d28651ac131d33d8f56af98
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791120063~hmac=720a477d8eccd291391e38c15bf18994aa5c174432f02021e8f63c5a629b5891
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791149385~hmac=3eabc6be2fcf15c533cb3ca9c8eb4a940033e386a4744964072347e1d6bb7be6
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1791120064~hmac=f853f7a82b3a77700ab4120c5afe4e61a1ed61fe909c2b52cdec57596bb9ced5
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1791149385~hmac=1d30dbbe2de645a97ebfb9c592da8559b4a4f68758a3519f4df7e3e8b3f08f65
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1791120064~hmac=32f46fc2b422aff1688ade4548ea2650cd02be89811a2f44c4a3eb7517026541
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1791149385~hmac=391fc7542a7cb3e07532b18c23ee76713b6a7ac3650e8023b26c734c15bac58c
 
 ============================================================
 
@@ -1421,26 +1306,26 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-04 04:46:26
+# Updated: 2026-10-04 11:56:13
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1791125185~hmac=1ca9231456eb48079fb11cdac11a2f4a2f0c73e788bb66392704f37c32d28d38
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1791150972~hmac=ffb6b2a79017e1b8f7579db99a9f2024e3dc609e7755bbcf6536e1aa429098b1
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791125185~hmac=7192f6c54ffc53d35fb978cd37c96fecbe37915bed419e229206865ece891d05
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791150973~hmac=06cfa56804b1382644a277f3c5e45d98a92c246c9a44be16baa40a8bf24e8df7
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1791125186~hmac=2b7680cb142aa9cee47a5fa22cba98187b1f2385b2e938dd4db31e0fd617c01a
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1791150973~hmac=825ecce691bd37ecc3ea76961c13ec27dc90dba1bde3535b161d451f865fb45d
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1791125186~hmac=8e858f90d951ab2979e3a848188ec3981539bcad497ebfac35a94876279456c0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1791150973~hmac=b04160c5911f8a9ef47502d087c515e9b80ed7234a4951d02609b8ca3f8f311c
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
