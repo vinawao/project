@@ -1,22 +1,17 @@
 #EXTM3U
-# Generated: 2026-10-10 11:33:28
+# Generated: 2026-10-10 16:34:09
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791642807-7a83c5e3beac6386251c31b36f5f25b3-0-55f889f5d8bdfd5e555b312cd1a4e1e0
+https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791660847-94788b74d965fdab2a1519b7b7a9f9f3-0-47bec14d281ea7b13d8b6124db75e0ce
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791642807-0bb7ab46f8d0bad284485f394bd70be4-0-bd8272501aa0ba00b0922ec6d04006d9
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi.m3u8?auth_key=1791642807-480fd7828d0e291b9a86e86df659b5d3-0-03eb9f1c1e265eb52bdebe56c596abfc
+https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791660848-3fdce724595f168ca4dbc87b5a67a107-0-3006398667b77f0a2ebc401de99e9f98
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791642808-18f0989e87f6ffeb0af80daa7ffdf322-0-eda0ae7bd28c0408d077b100e7cab19f
+https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791660848-d4521eff3ab73d910663c0d47b8797c6-0-c292f30d00c59843e50749a238b137db
