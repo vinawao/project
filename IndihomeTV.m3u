@@ -1,21 +1,26 @@
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-10 16:34:09
+# Updated: 2026-10-10 20:51:25
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791660847-94788b74d965fdab2a1519b7b7a9f9f3-0-47bec14d281ea7b13d8b6124db75e0ce
+https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791676283-dc689b7616eb1de2bdd74d77507ed320-0-e9e515e4dfa782cc97479b0e377f3468
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791660848-3fdce724595f168ca4dbc87b5a67a107-0-3006398667b77f0a2ebc401de99e9f98
+https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791676284-c7f943dcb3fb0528663234c4eee21c3d-0-ddd397d79b31f17c00799ab7dbeaa0c4
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi.m3u8?auth_key=1791676284-d4f0ce3c822a15c34a79fb168e7f86e5-0-35e12dbc1eb9fa0270da4f8b0e192ab5
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791660848-d4521eff3ab73d910663c0d47b8797c6-0-c292f30d00c59843e50749a238b137db
+https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791676284-1a798a1c461a724d8b6230a8436cc4be-0-cf860c3ca63f6e43fd8a2b37bb6f1e83
 
 # === END RCTI+ SECTION ===
