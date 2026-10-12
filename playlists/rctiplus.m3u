@@ -1,22 +1,17 @@
 #EXTM3U
-# Generated: 2026-10-12 03:13:10
+# Generated: 2026-10-12 13:51:00
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791785589-ec9c72ccaf39f414edfe79a7a0d351ed-0-4d9e27d512badf95f2e4651b77256503
+https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791823858-c7b9b7993370e97d8c7d25834bcc7d90-0-af99b49502f25ef64fec2e059cee5542
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791785589-398f392a5fb1d34ef3322ed5f6bbdf83-0-ceb42905745b34f54839d21b4ca5fd34
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi.m3u8?auth_key=1791785589-83dc34fb68dd3fd7316fea59e48c4527-0-639c898b5ad17d84280c12879bc3a25a
+https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791823858-b74931fa7e4c0f678d0ba25f2195de3e-0-9eae55895b707b3a1ea8e5285bf0187b
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791785590-86f2ad204e2f777be662bb56b32852ca-0-ff0fce1b3e1e8954c3c52d80545cc6af
+https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791823860-f52710cdc3a89af53ecd8ab5dfa65bf2-0-d7b248f11e64f72d0364cfb57d4050b1
