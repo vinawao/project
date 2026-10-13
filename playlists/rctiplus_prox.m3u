@@ -1,17 +1,22 @@
 #EXTM3U
-# Generated: 2026-10-12 14:47:10
+# Generated: 2026-10-13 00:18:22
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791827228-d528d5f7217e55967e53ec21c95eda97-0-bf34810674548d3ac96d83d0d94af160
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791861501-a573dec4cbdbe5b838376e0ee526a9c8-0-ba263645cfb12e6b166e55fa3b469f79
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791827229-7c851f758f0db60ec5edd4e9b72cb1c3-0-142ce86b1b6aa90f2f1e8355910f5a75
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791861502-423ff9f4205c4965f4b9717d8fedfc7f-0-08853934a6ee8b2e3e3d21c58bd522a2
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi.m3u8?auth_key=1791861502-e97403a89ac5ab5853b5a1d4c63985c7-0-501bd9b0a5e19909892865d58d5f59da
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791827229-d62847e4d3b6f841f24473ea196d2f04-0-31f0a22cbd280da52bd1016e229e9540
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791861502-d576a9a074fefdbf5aeb4391ea49ffb1-0-737c9c5bc16f674f07b4fc0899e91ae5
