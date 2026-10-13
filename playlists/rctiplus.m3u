@@ -1,22 +1,17 @@
 #EXTM3U
-# Generated: 2026-10-13 04:48:46
+# Generated: 2026-10-13 13:08:56
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791877725-dc3ba5902404625ffee8aee7582066d8-0-5dbb0631d32d1092f17b5812bf4481a3
+https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791907735-c5b0c77ed4b1be519318c9f1b5cff3d9-0-7ce2523bfd73410efde99a27cb627061
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791877725-5e1ce7cc832bd7bc8ad97a7dfb9048ff-0-4d68952191920dabda5fa84b8063149d
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi.m3u8?auth_key=1791877726-0f47d819dfd4d8418cecb68e16512e1b-0-ae855c116d1292faacf59248a25bb98b
+https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791907735-dddfd76ae8fe3639d83d437c3e8f8bfb-0-4ca6771994c4294c5d70b15198ac3b7d
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791877726-bb44fd54e71a2c3a33bf7b7492f25e05-0-2224cb8ed909f9eec4fc1032b32e4be6
+https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1791907736-e42562d17ef61800e233149a4cf2366c-0-cdffd5cad2cbc94b6187f504937c139a
