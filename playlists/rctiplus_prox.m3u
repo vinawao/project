@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-10-20 04:01:09
+# Generated: 2026-10-20 11:07:13
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1792479667-8e5b7392a7d791d910c76e06b0b6d519-0-7f8ae7e52b84157731f65b4e6706f741
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/rcti-bkp/index.m3u8?auth_key=1792505231-506968c60aa7a0f6a982e97e83aa5896-0-fbddae3d4364fe43ffaf39fc3f40114a
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1792479668-fc049b505b9f6f462b1bfcf32f84db2b-0-c728f94e09bb4b5d06756f6025c0e4b4
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/mnctv-bkp/index.m3u8?auth_key=1792505232-016ad8e4e0ecb8778ec8ce8c38cda59b-0-054ced9e67deab089c8aaf3079169e50
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi.m3u8?auth_key=1792479668-8a156532321bff12adb7780804ffdae2-0-df31bb7a5ce9b9668688985fe15a0e81
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/gtv-bkp/index.m3u8?auth_key=1792505232-6809adb46b8f0b1e87bded1d710e2e94-0-1ad56a696d03f51d3955880e6fe32901
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/inews/inews-sdi.m3u8?auth_key=1792479668-cfc31fd4df4c55f95578340b52a6a045-0-f79bcc91bda28a57f1a7655d1f632d5e
+https://proxy-r.denstv.workers.dev/https://proxy-b.rctiplus.id/live/mweb/inews-bkp/index.m3u8?auth_key=1792505232-c43eea61e8ee9c00b25cbc2b5cf3bc2e-0-f7ad4b22bf22444ec01aed1499c10f93
