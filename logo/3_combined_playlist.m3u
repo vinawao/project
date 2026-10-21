@@ -1,14 +1,9 @@
 #EXTM3U x-tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml"
-# Generated on 2026-10-21T09:58:42.594535 UTC
+# Generated on 2026-10-21T15:06:02.611845 UTC
 # Combined from 4 playlists
 
 #PLAYLIST: liveeventsfilter
 #EXTGRP: liveeventsfilter
-
-#EXTINF:-1 tvg-chno="5" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Oklahoma City Thunder vs San Antonio Spurs (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/okc.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/sas.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=007AC1&color2=C4CED4&q=65&w=100" group-title="Live Events",[Basketball] Oklahoma City Thunder vs San Antonio Spurs (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-3.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eu-4605069466.duckdns.org/nba3h/mono.ts.m3u8?token=9b346631f3784aa8a2c36cbb35287882
 
 #EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Vasco vs Boca Juniors (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" group-title="Live Events",[Copa Sudamericana] Vasco vs Boca Juniors (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -24,11 +19,6 @@ https://edgestream6.pro/hls/b0h5fNwDKH.m3u8
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/eJmauBDCIf.m3u8
-
-#EXTINF:-1 tvg-chno="84" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning vs Vegas Golden Knights (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/tb.png&logo2=https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/vgk.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&w=64&h=64&scale=crop&cquality=40&location=origin&color1=002868&color2=B4975A&q=65&w=100" group-title="Live Events",[Hockey] Tampa Bay Lightning vs Vegas Golden Knights (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nhl-11.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eu-4605069466.duckdns.org/nhl11h/mono.ts.m3u8?token=9b346631f3784aa8a2c36cbb35287882
 
 #EXTINF:-1 tvg-chno="85" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning vs. Vegas Golden Knights | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[Hockey] Tampa Bay Lightning vs. Vegas Golden Knights | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -84,31 +74,6 @@ https://opalsentinel.s3-accelerate.amazonaws.com/lightning.m3u8
 #EXTVLCOPT:http-referrer=https://streampass.shop/nhl/leafs.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://opalsentinel.s3-accelerate.amazonaws.com/leafs.m3u8
-
-#EXTINF:-1 tvg-chno="180" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Atl San Luis vs Queretaro (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Atl San Luis vs Queretaro (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/RIIIAAAAQ.m3u8
-
-#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Guadalajara Chivas vs Necaxa (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Guadalajara Chivas vs Necaxa (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/RIIIAAA.m3u8
-
-#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Juarez vs Atlante (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Juarez vs Atlante (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/RIIIAAAAQQ.m3u8
-
-#EXTINF:-1 tvg-chno="221" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Delaware Fightin vs Missouri State (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Delaware Fightin vs Missouri State (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/RARARACQQ.m3u8
-
-#EXTINF:-1 tvg-chno="222" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Florida International vs Middle Tennessee St (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Florida International vs Middle Tennessee St (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/RARARACQQQ.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Marshall South vs Alabama (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Marshall South vs Alabama (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -264,26 +229,26 @@ http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/7060/index.m3u8
 #PLAYLIST: rctiplus
 #EXTGRP: rctiplus
 
-# Generated: 2026-10-21 02:28:15
+# Generated: 2026-10-21 10:48:31
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/rcti-bkp/index.m3u8?auth_key=1792560494-21f9b9d76053089731638443b41b8c43-0-f2eef0040dea43c6721c0568d47ead11
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1792590510-33374108d00382bca337f37f90fbd967-0-3041822cdbcde41f253b64c917a71eb3
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1792560494-8391abc3b92a33b51c89177df1a30159-0-c783cf8482e6b64173b0c7f8c491875c
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1792590511-e49d96400a5488be6d26392364b28dfc-0-3193a82900b34173b333faa42658edae
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/gtv-bkp/index.m3u8?auth_key=1792560494-7ce093f6f754ae7d29bcca93a9c7e1cc-0-c72b25fd296a1f4652da379e6e2e2665
+https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1792590511-04205a2e8c8babdad1539fa7f1352c59-0-0741e53bad712d23d70da302a3f9f9da
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1792560495-44efd515ae454270356cd33543a76926-0-36e0b9b5c45279a03db9a72aecf6b180
+https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1792590511-7d35449ce3bde3dfa5eca246d012701b-0-e010bf3c6592a7034d962a34d38d74b2
 
 ============================================================
 
@@ -1232,26 +1197,26 @@ https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-21 03:42:32
+# Updated: 2026-10-21 11:22:27
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792564951-8119e19676f84bea7978bae0620d995f-0-86a36bee3464d2eebdccec56abe27ffc
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792592546-3fa1c1a13782c1e98559f4fa78acf814-0-5d92abc5e8358331f149bc4fa646aa5d
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792564952-b18de6a816190dc86467b998cf47b310-0-969b23b197a9cb9eabbccc662a116c5e
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792592546-3d8392596b7caed07b8af5ab87c6225b-0-7ccabe8ca8d19ba75d92310881e8a3cb
 
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792564952-451f5f345ac0c1d8ce057dd8360452e8-0-1a3776da7fd45135f339c1941ba9c424
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792592547-c1aee55383c5264aef4b3392716d364f-0-71b5dbe218aae490263ef0299e174064
 
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792564952-c518c9ab2c6609dac3a20a05cd5e6f32-0-2cf1cfa7b0c3ec8cebbf884bd8e519ea
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792592547-77b15062e233b6c7479efc9ea4467b6c-0-948d49217f4579625fd89e0e171a82d4
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
