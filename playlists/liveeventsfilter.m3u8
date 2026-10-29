@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="272" tvg-id="Soccer.Dummy.us" tvg-name="[Peru Liga 1 Apertura] AD Tarma vs Moquegua (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live Events",[Peru Liga 1 Apertura] AD Tarma vs Moquegua (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="146" tvg-id="Soccer.Dummy.us" tvg-name="[EFL Cup] Liverpool vs. Chelsea (DAMITV)" tvg-logo="https://damitv.st/img/x/assets/thumb/6c6c1c36b5b9792a1ac33cc6647327d8-thumbnail.jpg" group-title="Live Events",[EFL Cup] Liverpool vs. Chelsea (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=carabao-cup/2026-10-28/liv-che
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JJJJQQQAA.m3u8
-#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[Tanzania Ligi Kuu Bara] Azam vs Mbeya City (FAWA)" tvg-logo="https://www.ligikuu.co.tz/wp-content/uploads/2020/12/Untitled-2.png" group-title="Live Events",[Tanzania Ligi Kuu Bara] Azam vs Mbeya City (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/ZZZZQQQQ.m3u8
-#EXTINF:-1 tvg-chno="329" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Basel (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis ATP] Tennis ATP Basel (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EJJJAA.m3u8
+https://messi.damitv.st/live-hls/channel/carabao-cup/2026-10-28/liv-che/playlist.m3u8?tk=FuLMm-FYnqdAaXGBN_cl6w&e=1793259008
