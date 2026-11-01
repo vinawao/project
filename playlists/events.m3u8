@@ -1,29 +1,385 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="89" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA VidantaWorld Mexico Open (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA VidantaWorld Mexico Open (FAWA)
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Boca Juniors vs River Plate 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Boca Juniors vs River Plate 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] Charleroi vs RAAL La Louviere (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="Live Events",[Belgium Pro League] Charleroi vs RAAL La Louviere (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/fccca.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] Lommel vs Gent (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="Live Events",[Belgium Pro League] Lommel vs Gent (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAA.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Division Profesional] The Strongest vs GV San Jose (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1949.png" group-title="Live Events",[Bolivia Division Profesional] The Strongest vs GV San Jose (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAAA.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Copa] Palmeiras vs Vasco (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/528.png" group-title="Live Events",[Brazil Copa] Palmeiras vs Vasco (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEA.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Londrina vs America MG (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Londrina vs America MG (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAA.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] Eintracht Frankfurt vs Hamburg SV (DAMITV)" tvg-logo="https://damitv.st/img/cards/ger.1/401884752.jpg?v=3nf" group-title="Live Events",[Bundesliga] Eintracht Frankfurt vs Hamburg SV (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-12648ff169
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/bundesliga/2026-11-01/sge-hsv/playlist.m3u8?tk=b-xpWJNhSYmXDZzXaU8BjA&e=1793592010
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[Canada Premier League] Atl Ottawa vs Forge (FAWA)" tvg-logo="https://files.catbox.moe/71a287.png" group-title="Live Events",[Canada Premier League] Atl Ottawa vs Forge (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDE.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[Chile Liga de Primera] Cobresal vs Everton (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="Live Events",[Chile Liga de Primera] Cobresal vs Everton (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="Soccer.Dummy.us" tvg-name="[Ecuador Liga Pro] Ind del Valle vs LDU Quito (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png" group-title="Live Events",[Ecuador Liga Pro] Ind del Valle vs LDU Quito (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/VXXXAA.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Arizona Cardinals vs Dallas Cowboys (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=a40227&color2=002a5c&q=65&w=100" group-title="Live Events",[Football] Arizona Cardinals vs Dallas Cowboys (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eu-4605069466.duckdns.org/cowboys/mono.ts.m3u8?token=e6cdcf2cef77830ce9b9c7a3a373af9f
+#EXTINF:-1 tvg-chno="138" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlanta Falcons vs Tampa Bay Buccaneers (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=a71930&color2=bd1c36&q=65&w=100" group-title="Live Events",[Football] Atlanta Falcons vs Tampa Bay Buccaneers (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-7.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eu-4605069466.duckdns.org/tampa/mono.ts.m3u8?token=e6cdcf2cef77830ce9b9c7a3a373af9f
+#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Baltimore Ravens vs Buffalo Bills (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=29126f&color2=00338d&q=65&w=100" group-title="Live Events",[Football] Baltimore Ravens vs Buffalo Bills (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://us-xyz.work.gd/bills/mono.ts.m3u8?token=7db8d404f66b8746ea8ff901701841bb
+#EXTINF:-1 tvg-chno="140" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Cleveland Browns vs Pittsburgh Steelers (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=472a08&color2=000000&q=65&w=100" group-title="Live Events",[Football] Cleveland Browns vs Pittsburgh Steelers (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-6.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eu-4605069466.duckdns.org/steelers/mono.ts.m3u8?token=e6cdcf2cef77830ce9b9c7a3a373af9f
+#EXTINF:-1 tvg-chno="141" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Indianapolis Colts vs Jacksonville Jaguars (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003b75&color2=007487&q=65&w=100" group-title="Live Events",[Football] Indianapolis Colts vs Jacksonville Jaguars (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-8.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://us-xyz.work.gd/jags/mono.ts.m3u8?token=7db8d404f66b8746ea8ff901701841bb
+#EXTINF:-1 tvg-chno="142" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Las Vegas Raiders vs New York Jets (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=000000&color2=115740&q=65&w=100" group-title="Live Events",[Football] Las Vegas Raiders vs New York Jets (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-5.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eu-4605069466.duckdns.org/jets/mono.ts.m3u8?token=e6cdcf2cef77830ce9b9c7a3a373af9f
+#EXTINF:-1 tvg-chno="143" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Minnesota Vikings vs Detroit Lions (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=4f2683&color2=0076b6&q=65&w=100" group-title="Live Events",[Football] Minnesota Vikings vs Detroit Lions (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-4.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.kozow.com/lions/mono.ts.m3u8?token=e88e245e7e5a344abe61675877a0cc8d
+#EXTINF:-1 tvg-chno="144" tvg-id="Soccer.Dummy.us" tvg-name="[Football] NFL RedZone (XYZ)" tvg-logo="https://yt3.ggpht.com/xe-SPeQ6KdZqwheBU1EWpGzB9HwQ3fb838_ZE8520iv5mSqrPQND-pDMfefpFRSlvLT9u09FgnY=w366-h206-p-ns-nd-rw" group-title="Live Events",[Football] NFL RedZone (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-rdz.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://us-xyz.work.gd/REDZONE/mono.ts.m3u8?token=7db8d404f66b8746ea8ff901701841bb
+#EXTINF:-1 tvg-chno="146" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Tennessee Titans vs Cincinnati Bengals (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/cin.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=4495d2&color2=fb4f14&q=65&w=100" group-title="Live Events",[Football] Tennessee Titans vs Cincinnati Bengals (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.kozow.com/bengals/mono.ts.m3u8?token=e88e245e7e5a344abe61675877a0cc8d
+#EXTINF:-1 tvg-chno="147" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Mexico GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - Mexico GP (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58842?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58842/load-playlist-multi
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[German 3 liga] Alemannia Aachen vs Preussen Munster (FAWA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/3liga.png/revision/latest" group-title="Live Events",[German 3 liga] Alemannia Aachen vs Preussen Munster (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/VXXXA.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA VidantaWorld Mexico Open (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA VidantaWorld Mexico Open (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="328" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder at Houston Rockets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Oklahoma City Thunder at Houston Rockets (SPRTSPASS)
+#EXTINF:-1 tvg-chno="160" tvg-id="Soccer.Dummy.us" tvg-name="[Greece Super League] Panathinaikos vs AEK Athens (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/98.png" group-title="Live Events",[Greece Super League] Panathinaikos vs AEK Athens (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAX.m3u8
+#EXTINF:-1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="[Israel Ligat ha'Al] Maccabi Petah Tikva vs H Beer Sheva (FAWA)" tvg-logo="https://assets.footylogos.com/previews/israeli-premier-league/israeli-premier-league-logo-footylogos-1200.webp" group-title="Live Events",[Israel Ligat ha'Al] Maccabi Petah Tikva vs H Beer Sheva (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Juventus vs Napoli (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Serie A] Juventus vs Napoli (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAAAAA.m3u8
+#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie B] Palermo vs Vicenza (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="Live Events",[Italy Serie B] Palermo vs Vicenza (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/VXXX.m3u8
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Elche vs Valencia (DAMITV)" tvg-logo="https://damitv.st/img/cards/esp.1/401882823.jpg?v=3nf" group-title="Live Events",[LaLiga] Elche vs Valencia (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-6e77dccfe6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/laliga/2026-11-01/elc-val/playlist.m3u8?tk=DrIaF5fwUV_DZ0ZWAiWdGw&e=1793595608
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Elche vs Valencia (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Elche vs Valencia (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59053?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59053/load-playlist-multi
+#EXTINF:-1 tvg-chno="325" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Marseille vs Toulouse (FAWA)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1 France] Marseille vs Toulouse (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Paris FC vs AS Monaco (DAMITV)" tvg-logo="https://damitv.st/img/cards/fra.1/401876415.jpg?v=blu1nf" group-title="Live Events",[Ligue 1] Paris FC vs AS Monaco (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-448781dcb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/ligue1/2026-11-01/par-mon/playlist.m3u8?tk=wvVLw2hCkqBrfKfOQN1liw&e=1793592009
+#EXTINF:-1 tvg-chno="359" tvg-id="Soccer.Dummy.us" tvg-name="[Morocco Botola Pro] Berkane vs Raja Casablanca (FAWA)" tvg-logo="https://assets.footylogos.com/previews/botola-pro-1/botola-pro-1-logo-footylogos-320.webp" group-title="Live Events",[Morocco Botola Pro] Berkane vs Raja Casablanca (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="365" tvg-id="Live.Event.us" tvg-name="[NCAA Women's Division I] Notre Dame Fighting Irish vs Villanova Wildcats (iSTRMEAST)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA Women's Division I] Notre Dame Fighting Irish vs Villanova Wildcats (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59056?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59056/load-playlist
+#EXTINF:-1 tvg-chno="366" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Arizona Cardinals at Dallas Cowboys (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Arizona Cardinals at Dallas Cowboys (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://streamseast.dad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://forgeandfern.s3.us-east-1.amazonaws.com/thunder.m3u8
-#EXTINF:-1 tvg-chno="332" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Sacramento Kings at Memphis Grizzlies (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Sacramento Kings at Memphis Grizzlies (SPRTSPASS)
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/cowboys.m3u8
+#EXTINF:-1 tvg-chno="367" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Arizona Cardinals vs Dallas Cowboys (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Arizona Cardinals vs Dallas Cowboys (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eea9.870f0cd2i5c3b601d.14049.5d33bc93/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="369" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Arizona Cardinals vs Dallas Cowboys | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Arizona Cardinals vs Dallas Cowboys | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401873024/index.m3u8?st=0LmgDDoBw_bnCTaUruTxvA&e=1793566834
+#EXTINF:-1 tvg-chno="370" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Atlanta Falcons at Tampa Bay Buccaneers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Atlanta Falcons at Tampa Bay Buccaneers (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://streamseast.dad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://forgeandfern.s3.us-east-1.amazonaws.com/grizzlies.m3u8
-#EXTINF:-1 tvg-chno="378" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Colorado Avalanche vs Calgary Flames (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Colorado Avalanche vs Calgary Flames (FAWA)
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/falcons.m3u8
+#EXTINF:-1 tvg-chno="371" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Atlanta Falcons vs Tampa Bay Buccaneers (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Atlanta Falcons vs Tampa Bay Buccaneers (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eea7.1ff064c2i5c3b601d.1405f.99dfa95a/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="373" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Atlanta Falcons vs Tampa Bay Buccaneers | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Atlanta Falcons vs Tampa Bay Buccaneers | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401873025/index.m3u8?st=FlfoJI2Cgi3EDuCWLDx4Ug&e=1793566840
+#EXTINF:-1 tvg-chno="374" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens at Buffalo Bills (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Baltimore Ravens at Buffalo Bills (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/ravens.m3u8
+#EXTINF:-1 tvg-chno="375" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Buffalo Bills (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Baltimore Ravens vs Buffalo Bills (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eea8.b025e5c9i5c3b601d.14042.43824249/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="377" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Buffalo Bills | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Baltimore Ravens vs Buffalo Bills | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401873026/index.m3u8?st=aoZGRx_EaoogUXamM_xu6g&e=1793566831
+#EXTINF:-1 tvg-chno="380" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buffalo Bills vs Baltimore Ravens (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Buffalo Bills vs Baltimore Ravens (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59032?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59032/load-playlist
+#EXTINF:-1 tvg-chno="387" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals vs Tennessee Titans (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cincinnati Bengals vs Tennessee Titans (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59039?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59039/load-playlist
+#EXTINF:-1 tvg-chno="388" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cleveland Browns at Pittsburgh Steelers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cleveland Browns at Pittsburgh Steelers (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/steelers.m3u8
+#EXTINF:-1 tvg-chno="389" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cleveland Browns vs Pittsburgh Steelers (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cleveland Browns vs Pittsburgh Steelers (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eea9.44ce87aci5c3b601d.1405b.d7c61fb8/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="391" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cleveland Browns vs Pittsburgh Steelers | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cleveland Browns vs Pittsburgh Steelers | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401873027/index.m3u8?st=-GCCX6dEFDVpIIfaeQAG8g&e=1793566839
+#EXTINF:-1 tvg-chno="394" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Dallas Cowboys vs Arizona Cardinals (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Dallas Cowboys vs Arizona Cardinals (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59043?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59043/load-playlist
+#EXTINF:-1 tvg-chno="398" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Detroit Lions vs Minnesota Vikings (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Detroit Lions vs Minnesota Vikings (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59036?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59036/load-playlist
+#EXTINF:-1 tvg-chno="402" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Indianapolis Colts at Jacksonville Jaguars (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Indianapolis Colts at Jacksonville Jaguars (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/jaguars.m3u8
+#EXTINF:-1 tvg-chno="403" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Indianapolis Colts vs Jacksonville Jaguars (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Indianapolis Colts vs Jacksonville Jaguars (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eeaa.0ca911eei5c3b601d.14052.9dbc25ba/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Indianapolis Colts vs Jacksonville Jaguars | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Indianapolis Colts vs Jacksonville Jaguars | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873028
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401873028/index.m3u8?st=q561FXkwY3qPvK5E7xBP8w&e=1793566842
+#EXTINF:-1 tvg-chno="406" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jacksonville Jaguars vs Indianapolis Colts (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Jacksonville Jaguars vs Indianapolis Colts (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59040?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59040/load-playlist
+#EXTINF:-1 tvg-chno="407" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Las Vegas Raiders at New York Jets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Las Vegas Raiders at New York Jets (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/warriors.m3u8
+#EXTINF:-1 tvg-chno="408" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Las Vegas Raiders vs New York Jets (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Las Vegas Raiders vs New York Jets (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eea8.db8673d7i5c3b601d.14056.2d1d7e4f/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Las Vegas Raiders vs New York Jets | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Las Vegas Raiders vs New York Jets | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873029
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401873029/index.m3u8?st=iRgIxhHz5l16YQfJfsb-TQ&e=1793566838
+#EXTINF:-1 tvg-chno="414" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Minnesota Vikings at Detroit Lions (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Minnesota Vikings at Detroit Lions (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/vikings.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Minnesota Vikings vs Detroit Lions (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Minnesota Vikings vs Detroit Lions (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eea8.d6122033i5c3b601d.1404e.6c633f65/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="417" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Minnesota Vikings vs Detroit Lions | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Minnesota Vikings vs Detroit Lions | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873030
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401873030/index.m3u8?st=dqvSyk7IiBT3XDtCZ4M1vA&e=1793566836
+#EXTINF:-1 tvg-chno="419" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Redzone (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[NFL] NFL Redzone (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59029?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59029/load-playlist
+#EXTINF:-1 tvg-chno="420" tvg-id="NFL.Dummy.us" tvg-name="[NFL] New York Jets vs Las Vegas Raiders (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] New York Jets vs Las Vegas Raiders (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59034?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59034/load-playlist
+#EXTINF:-1 tvg-chno="422" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Pittsburgh Steelers vs Cleveland Browns (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Pittsburgh Steelers vs Cleveland Browns (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59047?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59047/load-playlist
+#EXTINF:-1 tvg-chno="428" tvg-id="Football.Dummy.us" tvg-name="[NFL] TBD vs NFL RedZone | English (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[NFL] TBD vs NFL RedZone | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tvredzone20261101
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tvredzone20261101/index.m3u8?st=GiI6xc45ErNga5ym82l79Q&e=1793563247
+#EXTINF:-1 tvg-chno="429" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Tampa Bay Buccaneers vs Atlanta Falcons (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Tampa Bay Buccaneers vs Atlanta Falcons (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59044?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59044/load-playlist
+#EXTINF:-1 tvg-chno="430" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Tennessee Titans at Cincinnati Bengals (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Tennessee Titans at Cincinnati Bengals (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://mossandmatrix.s3.eu-central-1.amazonaws.com/bengals.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Tennessee Titans vs Cincinnati Bengals (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Tennessee Titans vs Cincinnati Bengals (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-9b5feb01.4587.website/6ae7eeaa.0051ff41i5c3b601d.14046.4c026c54/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="433" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Tennessee Titans vs Cincinnati Bengals | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Tennessee Titans vs Cincinnati Bengals | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873031
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live3/tv401873031/index.m3u8?st=64jpZMVyfWX-V-cDwR3UGA&e=1793566833
+#EXTINF:-1 tvg-chno="439" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Carolina Hurricanes vs Winnipeg Jets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Carolina Hurricanes vs Winnipeg Jets (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/81c23f42-30d9-4db1-82f1-e31d0a4e38d4/master.m3u8
-#EXTINF:-1 tvg-chno="379" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Dallas Stars vs Columbus Blue Jackets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Dallas Stars vs Columbus Blue Jackets (FAWA)
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/05d2718d-f393-47ac-968c-1480cfcafbd8/master.m3u8
+#EXTINF:-1 tvg-chno="440" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Carolina Hurricanes vs Winnipeg Jets (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Carolina Hurricanes vs Winnipeg Jets (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59054?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59054/load-playlist
+#EXTINF:-1 tvg-chno="448" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Winnipeg Jets vs Carolina Hurricanes (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Winnipeg Jets vs Carolina Hurricanes (MP66)
+#EXTVLCOPT:http-referrer=https://nhl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-59639d19.4587.website/6ae7eeab.de9c7d14i5c3b601d.163fe.16180ed5/free.live.sportsnet/master.m3u8
+#EXTINF:-1 tvg-chno="451" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Winnipeg Jets vs Carolina Hurricanes | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Winnipeg Jets vs Carolina Hurricanes | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401892624
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.xyz/live3/tv401892624/index.m3u8?st=y9OfIyB0pF4QTT8Zd7K_YQ&e=1793566844
+#EXTINF:-1 tvg-chno="455" tvg-id="Racing.Dummy.us" tvg-name="[Nascar] Nascar Cup Series Xfinity 500 (FAWA)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NASCAR-Logo.png" group-title="Live Events",[Nascar] Nascar Cup Series Xfinity 500 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/88c6e09f-bd95-4caf-9a07-e6c22de02cfc/master.m3u8
-#EXTINF:-1 tvg-chno="380" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Montreal Canadiens vs Pittsburgh Penguins (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Montreal Canadiens vs Pittsburgh Penguins (FAWA)
+http://193.47.62.41/hls/DDD3.m3u8
+#EXTINF:-1 tvg-chno="456" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Buffalo Bills vs Baltimore Ravens (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873026.jpg?v=dm3nf" group-title="Live Events",[National Football League] Buffalo Bills vs Baltimore Ravens (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/bal-buf/playlist.m3u8?tk=iYCuIbMbderDndq1Jo33ZA&e=1793599207
+#EXTINF:-1 tvg-chno="457" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Cincinnati Bengals vs Tennessee Titans (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873031.jpg?v=dm3nf" group-title="Live Events",[National Football League] Cincinnati Bengals vs Tennessee Titans (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873031
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ten-cin/playlist.m3u8?tk=Jg0dIWU7ntKRa26pvH_Msg&e=1793599208
+#EXTINF:-1 tvg-chno="458" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Dallas Cowboys vs Arizona Cardinals (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873024.jpg?v=dm3nf" group-title="Live Events",[National Football League] Dallas Cowboys vs Arizona Cardinals (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ari-dal/playlist.m3u8?tk=uHOENXH2emmpp3WxLUfrCw&e=1793599209
+#EXTINF:-1 tvg-chno="459" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Detroit Lions vs Minnesota Vikings (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873030.jpg?v=dm3nf" group-title="Live Events",[National Football League] Detroit Lions vs Minnesota Vikings (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873030
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/min-det/playlist.m3u8?tk=uHOENXH2emmpp3WxLUfrCw&e=1793599209
+#EXTINF:-1 tvg-chno="460" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Jacksonville Jaguars vs Indianapolis Colts (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873028.jpg?v=dm3nf" group-title="Live Events",[National Football League] Jacksonville Jaguars vs Indianapolis Colts (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873028
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ind-jax/playlist.m3u8?tk=zGAfohvZ9q1ONWee_zLz4Q&e=1793599211
+#EXTINF:-1 tvg-chno="461" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] New York Jets vs Las Vegas Raiders (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873029.jpg?v=dm3nf" group-title="Live Events",[National Football League] New York Jets vs Las Vegas Raiders (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873029
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/lv-nyj/playlist.m3u8?tk=mmZUwaFEfj6qNrzVSjCEBQ&e=1793599210
+#EXTINF:-1 tvg-chno="462" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Pittsburgh Steelers vs Cleveland Browns (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873027.jpg?v=dm3nf" group-title="Live Events",[National Football League] Pittsburgh Steelers vs Cleveland Browns (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/cle-pit/playlist.m3u8?tk=mmZUwaFEfj6qNrzVSjCEBQ&e=1793599210
+#EXTINF:-1 tvg-chno="463" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Tampa Bay Buccaneers vs Atlanta Falcons (DAMITV)" tvg-logo="https://damitv.st/img/cards/nfl/401873025.jpg?v=dm3nf" group-title="Live Events",[National Football League] Tampa Bay Buccaneers vs Atlanta Falcons (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401873025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/atl-tb/playlist.m3u8?tk=zGAfohvZ9q1ONWee_zLz4Q&e=1793599211
+#EXTINF:-1 tvg-chno="464" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Carolina Hurricanes vs Winnipeg Jets (DAMITV)" tvg-logo="https://damitv.st/img/cards/nhl/401892624.jpg?v=spl2nf" group-title="Live Events",[National Hockey League] Carolina Hurricanes vs Winnipeg Jets (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401892624
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nhl/2026-11-01/wpg-car/playlist.m3u8?tk=zGAfohvZ9q1ONWee_zLz4Q&e=1793599211
+#EXTINF:-1 tvg-chno="468" tvg-id="Soccer.Dummy.us" tvg-name="[Norway Eliteserien] Valerenga vs Tromso (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/13.png" group-title="Live Events",[Norway Eliteserien] Valerenga vs Tromso (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f368a4f2-4915-40e9-bdad-e356778b170a/master.m3u8
-#EXTINF:-1 tvg-chno="381" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Vancouver Canucks vs Toronto Maple Leafs (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Vancouver Canucks vs Toronto Maple Leafs (FAWA)
+http://193.47.62.41/hls/fcccaa.m3u8
+#EXTINF:-1 tvg-chno="473" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] Cerro Porteno vs Olimpia Asuncion (FAWA)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live Events",[Paraguay Copa] Cerro Porteno vs Olimpia Asuncion (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/679d2fc3-490a-4162-849f-0c2fc50fef06/master.m3u8
+http://193.47.62.41/hls/DNNN.m3u8
+#EXTINF:-1 tvg-chno="474" tvg-id="Soccer.Dummy.us" tvg-name="[Peru Liga 1 Apertura] Cusco vs Sport Boys (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live Events",[Peru Liga 1 Apertura] Cusco vs Sport Boys (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="475" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Academico Viseu vs Rio Ave (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Portugal Primeira Liga] Academico Viseu vs Rio Ave (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="477" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Maritimo vs Santa Clara (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Portugal Primeira Liga] Maritimo vs Santa Clara (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="481" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Liverpool vs Arsenal (DAMITV)" tvg-logo="https://damitv.st/img/cards/eng.1/401879246.jpg?v=6nf" group-title="Live Events",[Premier League] Liverpool vs Arsenal (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-c699218a70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/pl/2026-11-01/liv-ars/playlist.m3u8?tk=wvVLw2hCkqBrfKfOQN1liw&e=1793592009
+#EXTINF:-1 tvg-chno="529" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Superliga] Dinamo Bucuresti vs UTA Arad (FAWA)" tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/189.png" group-title="Live Events",[Romania Superliga] Dinamo Bucuresti vs UTA Arad (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/VXXXAAA.m3u8
+#EXTINF:-1 tvg-chno="579" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Lecce vs Genoa (DAMITV)" tvg-logo="https://damitv.st/img/cards/ita.1/401874968.jpg?v=light1nf" group-title="Live Events",[Serie A] Lecce vs Genoa (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-96622f2a41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/seriea/2026-11-01/lec-gen/playlist.m3u8?tk=gIlrS1JlP1afIqtkco-HJw&e=1793595607
+#EXTINF:-1 tvg-chno="593" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Real Sociedad (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Athletic Bilbao vs Real Sociedad (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="594" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Elche vs Valencia 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Elche vs Valencia 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAA.m3u8
+#EXTINF:-1 tvg-chno="596" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Liga F Women] Sevilla FC W vs Real Madrid W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish Liga F Women] Sevilla FC W vs Real Madrid W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAAQQQQQQq.m3u8
+#EXTINF:-1 tvg-chno="597" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Burgos CF vs Castellon (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Spanish Segunda Liga] Burgos CF vs Castellon (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/TMMMAAAA.m3u8
+#EXTINF:-1 tvg-chno="599" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Tenerife vs Andorra (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Spanish Segunda Liga] Tenerife vs Andorra (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DNNNA.m3u8
+#EXTINF:-1 tvg-chno="616" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Liga AUF] Danubio vs Nacional (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live Events",[Uruguay Liga AUF] Danubio vs Nacional (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DEDEDEAAAA.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-id="Soccer.Dummy.us" tvg-name="[Women U17 World Cup] China U17 W vs Brazil U17 W (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Women U17 World Cup] China U17 W vs Brazil U17 W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GBGBGB.m3u8
+#EXTINF:-1 tvg-chno="618" tvg-id="Soccer.Dummy.us" tvg-name="[Women U17 World Cup] Nigeria U17 W vs Venezuela U17 W (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Women U17 World Cup] Nigeria U17 W vs Venezuela U17 W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/GBGBGBA.m3u8

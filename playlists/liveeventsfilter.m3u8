@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="328" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder at Houston Rockets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Oklahoma City Thunder at Houston Rockets (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streamseast.dad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://forgeandfern.s3.us-east-1.amazonaws.com/thunder.m3u8
-#EXTINF:-1 tvg-chno="332" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Sacramento Kings at Memphis Grizzlies (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Sacramento Kings at Memphis Grizzlies (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streamseast.dad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://forgeandfern.s3.us-east-1.amazonaws.com/grizzlies.m3u8
-#EXTINF:-1 tvg-chno="378" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Colorado Avalanche vs Calgary Flames (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Colorado Avalanche vs Calgary Flames (FAWA)
+#EXTINF:-1 tvg-chno="180" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf HotelPlanner Tour Grand Final (FAWA)" tvg-logo="https://files.catbox.moe/0u2n4x.png" group-title="Live Events",[Golf] Golf HotelPlanner Tour Grand Final (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/81c23f42-30d9-4db1-82f1-e31d0a4e38d4/master.m3u8
-#EXTINF:-1 tvg-chno="379" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Dallas Stars vs Columbus Blue Jackets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Dallas Stars vs Columbus Blue Jackets (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="264" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Racing Santander vs Real Madrid (DAMITV)" tvg-logo="https://damitv.st/img/cards/esp.1/401882819.jpg?v=3nf" group-title="Live Events",[LaLiga] Racing Santander vs Real Madrid (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-481339b215
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/88c6e09f-bd95-4caf-9a07-e6c22de02cfc/master.m3u8
-#EXTINF:-1 tvg-chno="380" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Montreal Canadiens vs Pittsburgh Penguins (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Montreal Canadiens vs Pittsburgh Penguins (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://messi.damitv.st/live-hls/channel/laliga/2026-11-01/rac-rma/playlist.m3u8?tk=_y_SCjUYsvHukLDXi4_noQ&e=1793588405
+#EXTINF:-1 tvg-chno="646" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Racing Santander vs Real Madrid (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/racing-santander.png?q=65&w=100&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png?q=65&w=100&=https://cdn.livesoccertv.com/tt/images/competitions/2-spanish-laliga.png?q=75&w=50&color1=00458C&color2=FEBE10&q=65&w=100" group-title="Live Events",[Soccer] Racing Santander vs Real Madrid (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/laliga-1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f368a4f2-4915-40e9-bdad-e356778b170a/master.m3u8
-#EXTINF:-1 tvg-chno="381" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Vancouver Canucks vs Toronto Maple Leafs (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Vancouver Canucks vs Toronto Maple Leafs (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/679d2fc3-490a-4162-849f-0c2fc50fef06/master.m3u8
+https://hls.kozow.com/abc/mono.ts.m3u8?token=e88e245e7e5a344abe61675877a0cc8d
