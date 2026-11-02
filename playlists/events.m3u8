@@ -1,21 +1,165 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="268" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] LA Clippers at Golden State Warriors (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] LA Clippers at Golden State Warriors (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streamseast.dad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://flintandforge.s3.eu-central-1.amazonaws.com/warriors.m3u8
-#EXTINF:-1 tvg-chno="284" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors at Los Angeles Lakers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors at Los Angeles Lakers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://streamseast.dad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://flintandforge.s3.eu-central-1.amazonaws.com/lakers.m3u8
-#EXTINF:-1 tvg-chno="335" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Anaheim Ducks vs Ottawa Senators (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Anaheim Ducks vs Ottawa Senators (FAWA)
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Defensa y Justicia vs Independiente (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Defensa y Justicia vs Independiente (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d2fe599d-59fc-48f8-bf03-e99b0efad61f/master.m3u8
-#EXTINF:-1 tvg-chno="336" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New York Rangers vs Edmonton Oilers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] New York Rangers vs Edmonton Oilers (FAWA)
+http://193.47.62.44/hls/WAWAWAQQAAA.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Platense vs Central Cordoba (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Platense vs Central Cordoba (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c449ba8b-2870-4095-a9ad-3385fc60a75e/master.m3u8
-#EXTINF:-1 tvg-chno="348" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Los Angeles Lakers vs Toronto Raptors (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909906.jpg?v=ghst2nf" group-title="Live Events",[National Basketball Association] Los Angeles Lakers vs Toronto Raptors (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909906
+http://193.47.62.44/hls/WAWAWAQQAAAA.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] Athletic Club vs Ceara (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="Live Events",[Brazil Serie B] Athletic Club vs Ceara (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-01/tor-lal/playlist.m3u8?tk=50lA8gvX69B5rm6ECyiuzg&e=1793626207
+http://193.47.62.44/hls/WAWAWAQQ.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.Dummy.us" tvg-name="[Chile Liga de Primera] Limache vs Audax Italiano (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="Live Events",[Chile Liga de Primera] Limache vs Audax Italiano (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/WAWAWAQ.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Aguilas vs Fortaleza (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live Events",[Colombia Primera A] Aguilas vs Fortaleza (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGG.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eerste Divisie] Heracles vs Top Oss (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Live Events",[Dutch Eerste Divisie] Heracles vs Top Oss (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGGA.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eerste Divisie] Jong Ajax vs Vitesse (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Live Events",[Dutch Eerste Divisie] Jong Ajax vs Vitesse (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGGAA.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eerste Divisie] Jong PSV vs NAC Breda (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Live Events",[Dutch Eerste Divisie] Jong PSV vs NAC Breda (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGGAAA.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eerste Divisie] Jong Utrecht vs FC Dordrecht (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Live Events",[Dutch Eerste Divisie] Jong Utrecht vs FC Dordrecht (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGGAAAA.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.Dummy.us" tvg-name="[Ecuador Liga Pro] Orense vs Tecnico U (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png" group-title="Live Events",[Ecuador Liga Pro] Orense vs Tecnico U (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/WAWAWA.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Newcastle United vs Everton 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[English Premier League] Newcastle United vs Everton 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/1e67a839-e903-4ba4-963a-426b4bf36c00.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="Live.Event.us" tvg-name="[FRA 2] AS Nancy Lorraine vs Red Star FC 93 | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[FRA 2] AS Nancy Lorraine vs Red Star FC 93 | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876703
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401876703/master.m3u8?st=bamEeQqgxWoSeCF-kkBzzA&e=1793664019
+#EXTINF:-1 tvg-chno="59" tvg-id="Live.Event.us" tvg-name="[FRA 2] Sochaux vs Stade de Reims | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[FRA 2] Sochaux vs Stade de Reims | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876702
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401876702/master.m3u8?st=id6cXmHajJi1hcSt8q2QCA&e=1793664020
+#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[France Ligue 2] Red Star vs Nancy (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/96.png" group-title="Live Events",[France Ligue 2] Red Star vs Nancy (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/FRFRFRA.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Atalanta vs Parma (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Serie A] Atalanta vs Parma (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/FRFRFRAAA.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Atalanta vs Parma 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Serie A] Atalanta vs Parma 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/6747d1c1-711e-4cbf-9b5d-6e6cd8fed0c2.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.Dummy.us" tvg-name="[La Liga] Osasuna vs Deportivo | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[La Liga] Osasuna vs Deportivo | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401882824
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401882824/master.m3u8?st=sbraERN6XFHq0qhcRraw8w&e=1793664022
+#EXTINF:-1 tvg-chno="92" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Deportivo de A Coruña vs Osasuna (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Deportivo de A Coruña vs Osasuna (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59120?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59120/load-playlist-multi
+#EXTINF:-1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Lorient vs Brest (FAWA)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1 France] Lorient vs Brest (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/FRFRFR.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Lorient vs Brest 2 (FAWA)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1 France] Lorient vs Brest 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/4ec4f2d3-f0a5-48c8-8667-9e89ea039d53.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Brest vs Lorient | English (STRMGATE)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Brest vs Lorient | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876419
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401876419/master.m3u8?st=XwQB7j9yuveOvKdUAbR8ZA&e=1793664018
+#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Lorient vs Brest (DAMITV)" tvg-logo="https://damitv.st/img/cards/fra.1/401876419.jpg?v=blu1nf" group-title="Live Events",[Ligue 1] Lorient vs Brest (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-8850309660
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/ligue1/2026-11-02/lor-bre/playlist.m3u8?tk=47t8kkRqRQz52pURmpMKDw&e=1793691009
+#EXTINF:-1 tvg-chno="206" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Women's Division I] North Carolina Tar Heels vs Oklahoma Sooners (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Women's Division I] North Carolina Tar Heels vs Oklahoma Sooners (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59118?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59118/load-playlist
+#EXTINF:-1 tvg-chno="231" tvg-id="Soccer.Dummy.us" tvg-name="[Peru Liga 1 Apertura] Sporting Cristal vs FC Cajamarca (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live Events",[Peru Liga 1 Apertura] Sporting Cristal vs FC Cajamarca (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/1JJJAAQA.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Division 1] LKS Lodz vs Polonia Warszawa (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/poland/1500x1500/1-liga.c3871b6c.png" group-title="Live Events",[Poland Division 1] LKS Lodz vs Polonia Warszawa (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGGAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Division 1] S Rzeszow vs Puszcza (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/poland/1500x1500/1-liga.c3871b6c.png" group-title="Live Events",[Poland Division 1] S Rzeszow vs Puszcza (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RGGGAAAAQQA.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Ekstraklasa] Rakow vs Pogon Szczecin (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/poland/700x700/ekstraklasa.007755e8.png" group-title="Live Events",[Poland Ekstraklasa] Rakow vs Pogon Szczecin (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/2JJJAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Benfica vs Alverca (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Portugal Primeira Liga] Benfica vs Alverca (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KPPPAA.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Benfica vs Alverca 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Portugal Primeira Liga] Benfica vs Alverca 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/df1141ec-b5c8-431b-9c3a-6625e3f7f3bf.m3u8
+#EXTINF:-1 tvg-chno="237" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Gil Vicente vs Vitoria Guimaraes (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Live Events",[Portugal Primeira Liga] Gil Vicente vs Vitoria Guimaraes (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KPPPAAA.m3u8
+#EXTINF:-1 tvg-chno="241" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Everton vs Newcastle United | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[Premier League] Everton vs Newcastle United | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401878762
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401878762/master.m3u8?st=7B5dqlL5ogrfOiq9pq2HTA&e=1793664021
+#EXTINF:-1 tvg-chno="242" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Newcastle United vs Everton (DAMITV)" tvg-logo="https://damitv.st/img/cards/eng.1/401878762.jpg?v=6nf" group-title="Live Events",[Premier League] Newcastle United vs Everton (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-70e214d64c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/pl/2026-11-02/new-eve/playlist.m3u8?tk=47t8kkRqRQz52pURmpMKDw&e=1793691009
+#EXTINF:-1 tvg-chno="243" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Newcastle United vs Everton (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[Premier League] Newcastle United vs Everton (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59121?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59121/load-playlist-multi
+#EXTINF:-1 tvg-chno="290" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Superliga] U Cluj vs FCSB (FAWA)" tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/189.png" group-title="Live Events",[Romania Superliga] U Cluj vs FCSB (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/1JJJ.m3u8
+#EXTINF:-1 tvg-chno="295" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Atalanta vs Parma (DAMITV)" tvg-logo="https://damitv.st/img/cards/ita.1/401874971.jpg?v=light1nf" group-title="Live Events",[Serie A] Atalanta vs Parma (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-601c1e7d07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/seriea/2026-11-02/ata-par/playlist.m3u8?tk=rkJugFN1qvOkCliTEvqLZA&e=1793691008
+#EXTINF:-1 tvg-chno="296" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Atalanta vs Parma (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Atalanta vs Parma (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59119?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59119/load-playlist-multi
+#EXTINF:-1 tvg-chno="310" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Parma vs Atalanta | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Parma vs Atalanta | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874971
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401874971/master.m3u8?st=MEOvXOI7-upwbzskv57aXg&e=1793664017
+#EXTINF:-1 tvg-chno="327" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Deportivo la Coruna vs Osasuna (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Deportivo la Coruna vs Osasuna (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KPPP.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Deportivo la Coruna vs Osasuna 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Deportivo la Coruna vs Osasuna 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/cb582842-1f7c-4853-ba50-68c3805d6e85.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Liga F Women] Costa Adeje Tenerife W vs Athletic Bilbao W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish Liga F Women] Costa Adeje Tenerife W vs Athletic Bilbao W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KPPPA.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Mallorca vs Cadiz CF (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Spanish Segunda Liga] Mallorca vs Cadiz CF (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/YFFFAAAA.m3u8
