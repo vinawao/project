@@ -1,41 +1,377 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="70" tvg-id="Golf.Dummy.us" tvg-name="[Golf LPGA] Golf LPGA Toto Japan Classic (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf LPGA] Golf LPGA Toto Japan Classic (FAWA)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Aldosivi vs River Plate (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Aldosivi vs River Plate (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/UUUU.m3u8
-#EXTINF:-1 tvg-chno="217" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Buffalo Sabres vs Ottawa Senators (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Buffalo Sabres vs Ottawa Senators (FAWA)
+http://193.47.62.55/hls/EMMMAA.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Anadolu Efes vs Paris (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",[Basketball Euroleague] Anadolu Efes vs Paris (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/28df0116-44a4-4226-ae9f-9e902ffb5436/master.m3u8
-#EXTINF:-1 tvg-chno="218" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Florida Panthers vs Chicago Blackhawks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Florida Panthers vs Chicago Blackhawks (FAWA)
+http://193.47.62.55/hls/EMMM.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Baskonia (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",[Basketball Euroleague] Fenerbahce vs Baskonia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e605c24e-bdb8-4039-b8da-b3f6713cb42e/master.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Los Angeles Kings vs San Jose Sharks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Los Angeles Kings vs San Jose Sharks (FAWA)
+http://193.47.62.55/hls/EMMMA.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Hapoel Tel Aviv vs Barcelona (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",[Basketball Euroleague] Hapoel Tel Aviv vs Barcelona (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1815c607-a61f-446b-8084-0a0408e903f9/master.m3u8
-#EXTINF:-1 tvg-chno="220" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Seattle Kraken vs Calgary Flames (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Seattle Kraken vs Calgary Flames (FAWA)
+http://193.47.62.55/hls/EMMMAAAQ.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Lyon-Villeurbanne vs Bayern Munchen (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",[Basketball Euroleague] Lyon-Villeurbanne vs Bayern Munchen (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/921c0f98-fa7f-4b90-81cf-261ea8302108/master.m3u8
-#EXTINF:-1 tvg-chno="239" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Denver Nuggets vs Toronto Raptors (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909931.jpg?v=ghst2nf" group-title="Live Events",[National Basketball Association] Denver Nuggets vs Toronto Raptors (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909931
+http://193.47.62.55/hls/EMMMAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olimpia Milano vs Valencia (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",[Basketball Euroleague] Olimpia Milano vs Valencia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-04/tor-den/playlist.m3u8?tk=AjHfodA6sgqU3z5ytsVGPg&e=1793885407
-#EXTINF:-1 tvg-chno="242" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] LA Clippers vs Miami Heat (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909935.jpg?v=ghst2nf" group-title="Live Events",[National Basketball Association] LA Clippers vs Miami Heat (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909935
+http://193.47.62.55/hls/EMMMAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Conference League] AGF vs Braga (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915831.jpg?v=6nf" group-title="Live Events",[Conference League] AGF vs Braga (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-50296f1dc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-04/mia-lac/playlist.m3u8?tk=f_9PxiAYz8areHPKKv2CTw&e=1793890806
-#EXTINF:-1 tvg-chno="246" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Sacramento Kings vs Los Angeles Lakers (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909934.jpg?v=ghst2nf" group-title="Live Events",[National Basketball Association] Sacramento Kings vs Los Angeles Lakers (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909934
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/agf-scb/playlist.m3u8?tk=pGLZSDZihzKTAx-84RSqQQ&e=1793944810
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Conference League] AS Monaco vs FC Nordsjælland (DAMITV)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/6x6o1b1787937395.jpg" group-title="Live Events",[Conference League] AS Monaco vs FC Nordsjælland (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-afb61571d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-04/lal-sac/playlist.m3u8?tk=CKwsDT3R6r7FXGgSq82wEQ&e=1793889009
-#EXTINF:-1 tvg-chno="248" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] San Antonio Spurs vs Dallas Mavericks (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909933.jpg?v=ghst2nf" group-title="Live Events",[National Basketball Association] San Antonio Spurs vs Dallas Mavericks (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909933
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/mon-fcn/playlist.m3u8?tk=jFzZjVWl9xKw43v03Rvh7w&e=1793950210
+#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Conference League] Atalanta vs Kairat Almaty (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915830.jpg?v=6nf" group-title="Live Events",[Conference League] Atalanta vs Kairat Almaty (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-93cb8da05d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-04/dal-sa/playlist.m3u8?tk=7g-jBBeefmwAHIcmfdBhjQ&e=1793887207
-#EXTINF:-1 tvg-chno="252" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Seattle Kraken vs Calgary Flames (DAMITV)" tvg-logo="https://damitv.st/img/cards/nhl/401892647.jpg?v=spl2nf" group-title="Live Events",[National Hockey League] Seattle Kraken vs Calgary Flames (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401892647
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/ata-kai/playlist.m3u8?tk=pGLZSDZihzKTAx-84RSqQQ&e=1793944810
+#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Conference League] CSU Craiova vs Egnatia (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915817.jpg?v=6nf" group-title="Live Events",[Conference League] CSU Craiova vs Egnatia (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-86f63945d4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nhl/2026-11-04/cgy-sea/playlist.m3u8?tk=CKwsDT3R6r7FXGgSq82wEQ&e=1793889009
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/ucra-egn/playlist.m3u8?tk=jFzZjVWl9xKw43v03Rvh7w&e=1793950210
+#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Conference League] F.C. København vs Iberia 1999 (DAMITV)" tvg-logo="https://damitv.st/img/cards/own/mm-own-e109b70c18.jpg?v=2" group-title="Live Events",[Conference League] F.C. København vs Iberia 1999 (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-e109b70c18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/kbh-ibe/playlist.m3u8?tk=VqQUlcvlNPviWU50V2kVdw&e=1793950211
+#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Conference League] FC Lugano vs Kauno Zalgiris (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915823.jpg?v=6nf" group-title="Live Events",[Conference League] FC Lugano vs Kauno Zalgiris (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-d2ed8e70dd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/lug-zal/playlist.m3u8?tk=VqQUlcvlNPviWU50V2kVdw&e=1793950211
+#EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Conference League] FC Midtjylland vs Ajax Amsterdam (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915829.jpg?v=6nf" group-title="Live Events",[Conference League] FC Midtjylland vs Ajax Amsterdam (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-f9429bc475
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/mid-aja/playlist.m3u8?tk=pGLZSDZihzKTAx-84RSqQQ&e=1793944810
+#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Conference League] FC Thun vs Heart of Midlothian (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915828.jpg?v=6nf" group-title="Live Events",[Conference League] FC Thun vs Heart of Midlothian (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-bc0d4e7d6e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/thun-hom/playlist.m3u8?tk=BsHnTwMydfEp5raUefPGbg&e=1793944811
+#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Conference League] FC Twente vs Pafos (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915822.jpg?v=6nf" group-title="Live Events",[Conference League] FC Twente vs Pafos (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-7ea4325e44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/twe-paf/playlist.m3u8?tk=VqQUlcvlNPviWU50V2kVdw&e=1793950211
+#EXTINF:-1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Conference League] Getafe vs Brighton & Hove Albion (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915821.jpg?v=6nf" group-title="Live Events",[Conference League] Getafe vs Brighton & Hove Albion (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-cafe1ef11f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/get-bha/playlist.m3u8?tk=VqQUlcvlNPviWU50V2kVdw&e=1793950211
+#EXTINF:-1 tvg-chno="26" tvg-id="Live.Event.us" tvg-name="[Conference League] KuPS Kuopio vs KAA Gent (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915826.jpg?v=6nf" group-title="Live Events",[Conference League] KuPS Kuopio vs KAA Gent (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-c8b47f31e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/kups-gent/playlist.m3u8?tk=BsHnTwMydfEp5raUefPGbg&e=1793944811
+#EXTINF:-1 tvg-chno="27" tvg-id="Live.Event.us" tvg-name="[Conference League] Lincoln Red Imps vs Hajduk Split (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915742.jpg?v=6nf" group-title="Live Events",[Conference League] Lincoln Red Imps vs Hajduk Split (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-fbc88351ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/lri-haj/playlist.m3u8?tk=BsHnTwMydfEp5raUefPGbg&e=1793944811
+#EXTINF:-1 tvg-chno="28" tvg-id="Live.Event.us" tvg-name="[Conference League] Mjällby AIF vs Borac Banja Luka (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915741.jpg?v=6nf" group-title="Live Events",[Conference League] Mjällby AIF vs Borac Banja Luka (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-e4b142db04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/mja-bbl/playlist.m3u8?tk=BsHnTwMydfEp5raUefPGbg&e=1793944811
+#EXTINF:-1 tvg-chno="29" tvg-id="Live.Event.us" tvg-name="[Conference League] Panathinaikos vs CSKA Sofia (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915819.jpg?v=6nf" group-title="Live Events",[Conference League] Panathinaikos vs CSKA Sofia (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-4cccb82996
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/pao-cska/playlist.m3u8?tk=VqQUlcvlNPviWU50V2kVdw&e=1793950211
+#EXTINF:-1 tvg-chno="30" tvg-id="Live.Event.us" tvg-name="[Conference League] Red Star Belgrade vs Inter D'Escaldes (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915827.jpg?v=6nf" group-title="Live Events",[Conference League] Red Star Belgrade vs Inter D'Escaldes (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-22a7cb84c3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/rsb-ide/playlist.m3u8?tk=Jdb_nb5l1k0vCIst9JDR8g&e=1793944812
+#EXTINF:-1 tvg-chno="31" tvg-id="Live.Event.us" tvg-name="[Conference League] Riga FC vs Jablonec (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915818.jpg?v=6nf" group-title="Live Events",[Conference League] Riga FC vs Jablonec (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-440e9f0c5f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/rig-jabl/playlist.m3u8?tk=VqQUlcvlNPviWU50V2kVdw&e=1793950211
+#EXTINF:-1 tvg-chno="32" tvg-id="Live.Event.us" tvg-name="[Conference League] Sint-Truidense vs SK Brann (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915820.jpg?v=6nf" group-title="Live Events",[Conference League] Sint-Truidense vs SK Brann (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-d2d43d7f13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/stvv-skbr/playlist.m3u8?tk=qARZzOtqEcvRbG81a5wDlw&e=1793950212
+#EXTINF:-1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[Conference League] Trabzonspor vs SC Freiburg (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa.conf/401915825.jpg?v=6nf" group-title="Live Events",[Conference League] Trabzonspor vs SC Freiburg (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-ccb0c0cbea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uecl/2026-11-05/trab-scf/playlist.m3u8?tk=Jdb_nb5l1k0vCIst9JDR8g&e=1793944812
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="[Cyprus Cup] Omonia 29th May vs Polemidion (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Northern_Cyprus_Football_Cup_logo.png" group-title="Live Events",[Cyprus Cup] Omonia 29th May vs Polemidion (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/EMMMAAA.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Cyprus Futsal] Apoel vs Omonia (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Cyprus Futsal] Apoel vs Omonia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/ffff.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] AC Milan vs Ferencvaros (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915534.jpg?v=8nf" group-title="Live Events",[Europa League] AC Milan vs Ferencvaros (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-2719705225
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/mil-fer/playlist.m3u8?tk=kcIS7RlAPJT8UaaaNdtRRA&e=1793944808
+#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] AZ Alkmaar vs Juventus (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915529.jpg?v=8nf" group-title="Live Events",[Europa League] AZ Alkmaar vs Juventus (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-5b550aa447
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/az-juv/playlist.m3u8?tk=x4zFLWsD26J1eAEwnKxs8w&e=1793950208
+#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Anderlecht vs RB Salzburg (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915538.jpg?v=8nf" group-title="Live Events",[Europa League] Anderlecht vs RB Salzburg (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-bf75544679
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/and-slz/playlist.m3u8?tk=kcIS7RlAPJT8UaaaNdtRRA&e=1793944808
+#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Bayer Leverkusen vs Marseille (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915533.jpg?v=8nf" group-title="Live Events",[Europa League] Bayer Leverkusen vs Marseille (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-85608c49f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/b04-olm/playlist.m3u8?tk=x4zFLWsD26J1eAEwnKxs8w&e=1793950208
+#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Benfica vs Lech Poznan (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915525.jpg?v=8nf" group-title="Live Events",[Europa League] Benfica vs Lech Poznan (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-d1cbf27192
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/slb-lech/playlist.m3u8?tk=x4zFLWsD26J1eAEwnKxs8w&e=1793950208
+#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Celta Vigo vs Union St.-Gilloise (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915531.jpg?v=8nf" group-title="Live Events",[Europa League] Celta Vigo vs Union St.-Gilloise (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-3ab7bc39f6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/cel-usg/playlist.m3u8?tk=EpzOKc7TDT-pV4eDO-hszA&e=1793950209
+#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Celtic vs Besiktas (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915522.jpg?v=8nf" group-title="Live Events",[Europa League] Celtic vs Besiktas (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-04f388d311
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/cel-bes/playlist.m3u8?tk=EpzOKc7TDT-pV4eDO-hszA&e=1793950209
+#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Crystal Palace vs TSG Hoffenheim (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915526.jpg?v=8nf" group-title="Live Events",[Europa League] Crystal Palace vs TSG Hoffenheim (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-aaf93cfe25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/cry-tsg/playlist.m3u8?tk=kcIS7RlAPJT8UaaaNdtRRA&e=1793944808
+#EXTINF:-1 tvg-chno="68" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Hapoel Be'er vs OFI Crete (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915532.jpg?v=8nf" group-title="Live Events",[Europa League] Hapoel Be'er vs OFI Crete (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-66903c818b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/hbe-ofi/playlist.m3u8?tk=EpzOKc7TDT-pV4eDO-hszA&e=1793950209
+#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Levski Sofia vs Jagiellonia Bialystok (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915536.jpg?v=8nf" group-title="Live Events",[Europa League] Levski Sofia vs Jagiellonia Bialystok (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-edcf082e66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/lev-jag/playlist.m3u8?tk=QQdbC4zafLd4BNywpuNTVw&e=1793944809
+#EXTINF:-1 tvg-chno="71" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Lillestrom vs Viktoria Plzen (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915527.jpg?v=8nf" group-title="Live Events",[Europa League] Lillestrom vs Viktoria Plzen (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-5a616719b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/lsk-plz/playlist.m3u8?tk=QQdbC4zafLd4BNywpuNTVw&e=1793944809
+#EXTINF:-1 tvg-chno="73" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] NEC Nijmegen vs Omonia Nicosia (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915535.jpg?v=8nf" group-title="Live Events",[Europa League] NEC Nijmegen vs Omonia Nicosia (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-07b81bf95f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/nec-omon/playlist.m3u8?tk=pGLZSDZihzKTAx-84RSqQQ&e=1793944810
+#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Real Sociedad vs Lyon (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915537.jpg?v=8nf" group-title="Live Events",[Europa League] Real Sociedad vs Lyon (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-a032e898b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/rso-lyon/playlist.m3u8?tk=pGLZSDZihzKTAx-84RSqQQ&e=1793944810
+#EXTINF:-1 tvg-chno="78" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] SK Sturm Graz vs NK Celje (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915524.jpg?v=8nf" group-title="Live Events",[Europa League] SK Sturm Graz vs NK Celje (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-4a4ed1983c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/stg-nkc/playlist.m3u8?tk=EpzOKc7TDT-pV4eDO-hszA&e=1793950209
+#EXTINF:-1 tvg-chno="79" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Sparta Prague vs AFC Bournemouth (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915528.jpg?v=8nf" group-title="Live Events",[Europa League] Sparta Prague vs AFC Bournemouth (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-b67e38ac33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/spp-bou/playlist.m3u8?tk=pGLZSDZihzKTAx-84RSqQQ&e=1793944810
+#EXTINF:-1 tvg-chno="81" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Sunderland vs Dinamo Zagreb (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915523.jpg?v=8nf" group-title="Live Events",[Europa League] Sunderland vs Dinamo Zagreb (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-ce84abd6d4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/sun-dzg/playlist.m3u8?tk=jFzZjVWl9xKw43v03Rvh7w&e=1793950210
+#EXTINF:-1 tvg-chno="83" tvg-id="Soccer.Dummy.us" tvg-name="[Europa League] Torreense vs Ararat-Armenia (DAMITV)" tvg-logo="https://damitv.st/img/cards/uefa.europa/401915530.jpg?v=8nf" group-title="Live Events",[Europa League] Torreense vs Ararat-Armenia (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=mm-own-4cb1bf82a0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uel/2026-11-05/tor-ara/playlist.m3u8?tk=jFzZjVWl9xKw43v03Rvh7w&e=1793950210
+#EXTINF:-1 tvg-chno="87" tvg-id="Rugby.Dummy.us" tvg-name="[France Rugby Pro D2] Agen vs Biarritz Olympique (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[France Rugby Pro D2] Agen vs Biarritz Olympique (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/EMMMAAAQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf World Wide Technology Championship (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf World Wide Technology Championship (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/oooo.m3u8
+#EXTINF:-1 tvg-chno="165" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis Masters Paris 1 (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis ATP] Tennis Masters Paris 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/T777AA.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Aarhus vs Braga 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Aarhus vs Braga 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUU.m3u8
+#EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Atalanta vs FC Kairat Almaty (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Atalanta vs FC Kairat Almaty (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59302?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59302/load-playlist-multi
+#EXTINF:-1 tvg-chno="176" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Atalanta vs Kairat Almaty 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Atalanta vs Kairat Almaty 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUUA.m3u8
+#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Crvena zvezda vs Inter Escaldes 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Crvena zvezda vs Inter Escaldes 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUUAA.m3u8
+#EXTINF:-1 tvg-chno="185" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Crvena zvezda vs Inter Escaldes 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Crvena zvezda vs Inter Escaldes 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/d4386f9d-6d30-4f7c-a22d-f6e3f2f47dd3.m3u8
+#EXTINF:-1 tvg-chno="190" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] FC Midtjylland vs AFC Ajax (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] FC Midtjylland vs AFC Ajax (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59306?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59306/load-playlist-multi
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] KuPS vs Gent 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] KuPS vs Gent 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUUAaA.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Lincoln Red Imps vs Hajduk Split 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Lincoln Red Imps vs Hajduk Split 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUUAaaA.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Lincoln Red Imps vs Hajduk Split 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Lincoln Red Imps vs Hajduk Split 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/dc12bbfc-d112-45ee-82a9-dc1daab594ca.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Midtjylland vs Ajax 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Midtjylland vs Ajax 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUUAaaaA.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Mjallby vs Borac Banja Luka 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Mjallby vs Borac Banja Luka 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KUUUAaaaaA.m3u8
+#EXTINF:-1 tvg-chno="237" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Thun vs Hearts 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Thun vs Hearts 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KVVV.m3u8
+#EXTINF:-1 tvg-chno="239" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Thun vs Hearts 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Thun vs Hearts 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/b794e217-7bea-41d5-ae5c-8e5c77c12cf1.m3u8
+#EXTINF:-1 tvg-chno="241" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Trabzonspor vs Freiburg 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Trabzonspor vs Freiburg 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KVVVA.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] Ajax Amsterdam vs FC Midtjylland | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] Ajax Amsterdam vs FC Midtjylland | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915829
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915829/master.m3u8?st=XFS8mMQI57YxXG1yHCzqCw&e=1793912417
+#EXTINF:-1 tvg-chno="288" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] Braga vs AGF | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] Braga vs AGF | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915831
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915831/master.m3u8?st=gR_7TgFArII57ZiemCOBvA&e=1793912415
+#EXTINF:-1 tvg-chno="293" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] Hajduk Split vs Lincoln Red Imps | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] Hajduk Split vs Lincoln Red Imps | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915742
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915742/master.m3u8?st=ULnTosLTa-H2hyVVe18hIQ&e=1793912419
+#EXTINF:-1 tvg-chno="294" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] Heart of Midlothian vs FC Thun | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] Heart of Midlothian vs FC Thun | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915828
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915828/master.m3u8?st=2xYzUTdU7HY3MnHAWOAGag&e=1793912417
+#EXTINF:-1 tvg-chno="296" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] Inter D'Escaldes vs Red Star Belgrade | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] Inter D'Escaldes vs Red Star Belgrade | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915827
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915827/master.m3u8?st=LyiRa_wXd4cWEL-G5EUcOw&e=1793912420
+#EXTINF:-1 tvg-chno="298" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] KAA Gent vs KuPS Kuopio | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] KAA Gent vs KuPS Kuopio | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915826
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915826/master.m3u8?st=xDAHYg-UF05-GcSBB82J5w&e=1793912418
+#EXTINF:-1 tvg-chno="299" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] Kairat Almaty vs Atalanta | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] Kairat Almaty vs Atalanta | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915830
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915830/master.m3u8?st=AjeC7LP_tanTnj-hHyjMFA&e=1793912416
+#EXTINF:-1 tvg-chno="302" tvg-id="Live.Event.us" tvg-name="[UEFA EUROPA CONF] SC Freiburg vs Trabzonspor | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[UEFA EUROPA CONF] SC Freiburg vs Trabzonspor | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401915825/master.m3u8?st=eHQcq_AcCZf7AF44_ardjw&e=1793912421
+#EXTINF:-1 tvg-chno="304" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] AC Milan vs Ferencvaros 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] AC Milan vs Ferencvaros 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KVVVAA.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] AC Milan vs Ferencváros TC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] AC Milan vs Ferencváros TC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59304?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59304/load-playlist
+#EXTINF:-1 tvg-chno="307" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] AC Sparta Praha vs Bournemouth (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] AC Sparta Praha vs Bournemouth (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59305?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59305/load-playlist
+#EXTINF:-1 tvg-chno="308" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] AFC Bournemouth vs Sparta Prague | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] AFC Bournemouth vs Sparta Prague | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915528
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915528/master.m3u8?st=5YqtorwL-tsFjzJ2PF6zIQ&e=1793912414
+#EXTINF:-1 tvg-chno="323" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Anderlecht vs Salzburg 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Anderlecht vs Salzburg 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/KVVVAAA.m3u8
+#EXTINF:-1 tvg-chno="382" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Crystal Palace vs Hoffenheim 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Crystal Palace vs Hoffenheim 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RLLL.m3u8
+#EXTINF:-1 tvg-chno="384" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Crystal Palace vs Hoffenheim 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Crystal Palace vs Hoffenheim 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/63991f4c-9f14-4936-9010-8ad2ede82d10.m3u8
+#EXTINF:-1 tvg-chno="391" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Crystal Palace vs TSG Hoffenheim (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Crystal Palace vs TSG Hoffenheim (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/59303?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/59303/load-playlist-multi
+#EXTINF:-1 tvg-chno="393" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Ferencvaros vs AC Milan | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Ferencvaros vs AC Milan | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915534
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915534/master.m3u8?st=KsJ_kSgsTsO5L-rSm0Ov6A&e=1793912409
+#EXTINF:-1 tvg-chno="398" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Jagiellonia Bialystok vs Levski Sofia | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Jagiellonia Bialystok vs Levski Sofia | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915536
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915536/master.m3u8?st=q5Ho10zZcZIH0A_oilTI6Q&e=1793912412
+#EXTINF:-1 tvg-chno="399" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Juventus vs AZ Alkmaar | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Juventus vs AZ Alkmaar | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915529
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915529/master.m3u8?st=7TzhWaXi4dmkWzrE6UhLXQ&e=1793917809
+#EXTINF:-1 tvg-chno="400" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Lech Poznan vs Benfica | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Lech Poznan vs Benfica | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915525
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915525/master.m3u8?st=tm4F2mnaJh9r8BgqfZPTOQ&e=1793917811
+#EXTINF:-1 tvg-chno="401" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Levski Sofia vs Jagiellonia 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Levski Sofia vs Jagiellonia 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RLLLA.m3u8
+#EXTINF:-1 tvg-chno="406" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Lillestrom vs Plzen 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Lillestrom vs Plzen 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/RLLLAA.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Lyon vs Real Sociedad | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Lyon vs Real Sociedad | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915537
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401915537/master.m3u8?st=JtTrtPDHW1aP8zzvJ4z9XA&e=1793912414
+#EXTINF:-1 tvg-chno="412" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Marseille vs Bayer Leverkusen | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Marseille vs Bayer Leverkusen | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915533
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401915533/master.m3u8?st=N6xYjrPXYPZhLCL010t27g&e=1793917810
+#EXTINF:-1 tvg-chno="426" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] NEC Nijmegen vs Omonia 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] NEC Nijmegen vs Omonia 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/RLLLAAQ.m3u8
+#EXTINF:-1 tvg-chno="436" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Omonia Nicosia vs NEC Nijmegen | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Omonia Nicosia vs NEC Nijmegen | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401915535/master.m3u8?st=4kNJziPtpxb-ZuAxbcwhwQ&e=1793912413
+#EXTINF:-1 tvg-chno="437" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] RB Salzburg vs Anderlecht | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] RB Salzburg vs Anderlecht | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915538
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915538/master.m3u8?st=IDgg7v8w3ESNjF-ws2k6wQ&e=1793912410
+#EXTINF:-1 tvg-chno="438" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Real Sociedad vs Lyon 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Real Sociedad vs Lyon 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/RLLLAAQQ.m3u8
+#EXTINF:-1 tvg-chno="439" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Real Sociedad vs Lyon 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Real Sociedad vs Lyon 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/2e9731f5-b797-4c02-9177-c8cf26c15cd2.m3u8
+#EXTINF:-1 tvg-chno="452" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Sparta Prague vs Bournemouth 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Sparta Prague vs Bournemouth 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/RLLLAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="453" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Sparta Prague vs Bournemouth 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Sparta Prague vs Bournemouth 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/b9c7ed20-328f-4c84-9d41-c208deebd2f5.m3u8
+#EXTINF:-1 tvg-chno="474" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] TSG Hoffenheim vs Crystal Palace | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] TSG Hoffenheim vs Crystal Palace | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915526
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://gate4.st/live/tv401915526/master.m3u8?st=MQg4ATu5Ynza110XdSfY4w&e=1793912411
+#EXTINF:-1 tvg-chno="479" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] UEFA Europa-Conference League Simulcast (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] UEFA Europa-Conference League Simulcast (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/RLLLAAQQQA.m3u8
+#EXTINF:-1 tvg-chno="481" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Viktoria Plzen vs Lillestrom | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",[UEFA Europa League] Viktoria Plzen vs Lillestrom | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401915527
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401915527/master.m3u8?st=LK8ckNfUk4add3P1fjfuCg&e=1793912412
