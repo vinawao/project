@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-11-06 13:26:09
+# Generated: 2026-11-06 22:30:29
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793982368-d3540c24b71da89c1624176626e6c3f0-0-70fa5249f6fe0661ebcf0b005994feed
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1794015028-bc370538a6ef6dae8c785141db95c2ff-0-a2bee084bfb6c2a04745df04a8bc0da9
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793982368-55e5bbeccb7e017e76e3b0aab6af78a7-0-f7664c609d6ac2699d5fd2ee78fad668
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1794015028-ab85c7a4d9dc28b85119bb4846b04bda-0-4739613c69ffdb50de55c30de12e3f00
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://nontonlagi.rctiplus.id/abvia/ligabintang/manifest720.m3u8
+https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1794015029-14e35dfed4e43ad6f3293cca257cf764-0-f17f171d15aebe2f3b82de7caba191df
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1793982369-561b97ae19f7efc491c465bdbcb79e77-0-62b2c71453a6c4e1147adfaa82d3d79f
+https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1794015029-7fd5df6573c25a221fb782f903bd4cf2-0-a9b0e4060ede1bbf0422bb4d1203ffa3
