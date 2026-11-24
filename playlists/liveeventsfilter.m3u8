@@ -1,1 +1,85 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="2" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 1 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Cincinnati Bengals at Washington Commanders 1 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-2946cb3fee85f3a5e6e7.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="3" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 2 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Cincinnati Bengals at Washington Commanders 2 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-baa7ef5989ccba5b5560.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="5" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 4 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Cincinnati Bengals at Washington Commanders 4 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-58fd51e14cc55d54086a.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="8" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] LA Clippers vs. Houston Rockets 1 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] LA Clippers vs. Houston Rockets 1 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-564a986b417818479ec5.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="134" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers at Chicago Bulls (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Cleveland Cavaliers at Chicago Bulls (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cobblecloud.s3.eu-west-2.amazonaws.com/cavaliers.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] LA Clippers at Houston Rockets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] LA Clippers at Houston Rockets (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cobblecloud.s3.eu-west-2.amazonaws.com/rockets.m3u8
+#EXTINF:-1 tvg-chno="173" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Phoenix Suns at New Orleans Pelicans (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Phoenix Suns at New Orleans Pelicans (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cobblecloud.s3.eu-west-2.amazonaws.com/suns.m3u8
+#EXTINF:-1 tvg-chno="183" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs at Sacramento Kings (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] San Antonio Spurs at Sacramento Kings (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cobblecloud.s3.eu-west-2.amazonaws.com/76ers.m3u8
+#EXTINF:-1 tvg-chno="192" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Utah Jazz at Los Angeles Lakers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Utah Jazz at Los Angeles Lakers (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cobblecloud.s3.eu-west-2.amazonaws.com/lakers.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals at Washington Commanders (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cincinnati Bengals at Washington Commanders (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cobblecloud.s3.eu-west-2.amazonaws.com/bengals.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Montreal Canadiens vs Los Angeles Kings (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Montreal Canadiens vs Los Angeles Kings (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9e8a4765-e4b2-4643-a0fc-f253476a63d9/master.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New Jersey Devils vs Columbus Blue Jackets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] New Jersey Devils vs Columbus Blue Jackets (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b230fcdc-a765-4613-b89f-de47e4c89e2c/master.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New York Islanders vs Toronto Maple Leafs (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] New York Islanders vs Toronto Maple Leafs (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dee0b6a6-3d0b-4565-be30-504d61cfebb0/master.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Ottawa Senators vs Calgary Flames (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Ottawa Senators vs Calgary Flames (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a2508d2d-e401-4501-ae31-b4086b752503/master.m3u8
+#EXTINF:-1 tvg-chno="224" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] San Jose Sharks vs Minnesota Wild (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] San Jose Sharks vs Minnesota Wild (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/83679e4b-8ff9-4a83-aaaa-b57cf5b48593/master.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Seattle Kraken vs Anaheim Ducks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Seattle Kraken vs Anaheim Ducks (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/77ea0ea6-06c2-4164-8c84-b172e8d19706/master.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Winnipeg Jets vs Utah Mammoth (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Winnipeg Jets vs Utah Mammoth (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbe26d2c-514f-49d5-b14e-286c03dec913/master.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Liga AUF] Albion vs Danubio (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live Events",[Uruguay Liga AUF] Albion vs Danubio (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/D333.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="Basketball.Dummy.us" tvg-name="[basketball] Sacramento Kings vs. San Antonio Spurs 1 (SPRTSBITE)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[basketball] Sacramento Kings vs. San Antonio Spurs 1 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-b8ce783de85b1d358ce5.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="294" tvg-id="Basketball.Dummy.us" tvg-name="[basketball] Sacramento Kings vs. San Antonio Spurs 2 (SPRTSBITE)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[basketball] Sacramento Kings vs. San Antonio Spurs 2 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-d0892d1f02373ef55004.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="295" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[hockey] Minnesota Wild vs. San Jose Sharks 1 (SPRTSBITE)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" group-title="Live Events",[hockey] Minnesota Wild vs. San Jose Sharks 1 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-1eb0e3f03724c880ccb8.m3u8?cdn=1
