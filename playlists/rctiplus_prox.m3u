@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-11-25 07:37:00
+# Generated: 2026-11-25 21:18:48
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795603019-d1d03334dac40daa1fe3b08590872199-0-0dd281a6f6d92411ba3900f0925b08ae
+https://proxy-r.denstv.workers.dev/https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795652327-f3c04ac1ea7106ee87e86b6fa617adca-0-239d2d70ef2eb86c9618e66f57d4ae91
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795603019-f7823c7f51ecce61b127e865eb9966c1-0-396e321838f49c844e1b77ca498e0ed3
+https://proxy-r.denstv.workers.dev/https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795652327-c6a75c137742f981322a4774f2c01f73-0-ce0737da257e70e1c056cd96029b9557
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795603019-92b79266bfb5613c7a2cab83e6508d84-0-55c240a4cf2823f04f148263edb1c9db
+https://proxy-r.denstv.workers.dev/https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795652328-4c019d594f2b5acaa2427f018f388d52-0-de4fde82c6f88ca6739835a222e8b7f3
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy-r.denstv.workers.dev/https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795603020-6692ebd1895c51d4f00ea4149a2dbad9-0-e60066204762a83beacefef71ce5ca1c
+https://proxy-r.denstv.workers.dev/https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795652328-2e3640f12a1d8c6175cf3464d2e46cd9-0-878925f240ea427f5cbd926f191e433a
