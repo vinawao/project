@@ -1,21 +1,26 @@
 
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-24 22:03:48
+# Updated: 2026-11-25 01:43:54
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795549290-3dec4bc84dd4af3ddf04bf7c3808e5b2-0-290f31d95c54a59dda3c08b665f806b0
+https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795581833-6c212d3aecd87b2748d1a2a9ecb7fc7b-0-4e9b2b6c61705342c8b968a16a8c6dd5
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795549290-d86f5407d9c68ea604495ade46daad1e-0-a525b343c14d8f1da4c252cd8b835e44
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795581833-ce649e3b0a81bf02dfa2932993a59310-0-3df5ef561ce78bd0d06a0366c893f762
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795581833-e05d19d237650d1d6ff919a128bf4afa-0-bbe0d192e850b80d5a55698d47f89541
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTIPlus" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795549290-6a3ffdae763576ce1f5e26958f584b6f-0-24713070483988e39db18ae85c38b462
+https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795581833-85d9fb4a99504dd3fb83ce4eedcabc67-0-f6216e61f30e0f71c7b2bc7b2d72a2eb
 
 # === END RCTI+ SECTION ===
