@@ -1,69 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="4" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball World Cup] Qatar vs South Korea (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[Basketball World Cup] Qatar vs South Korea (FAWA)
+#EXTINF:-1 tvg-chno="1" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Kansas City Chiefs at Buffalo Bills 1 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Kansas City Chiefs at Buffalo Bills 1 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-df2cb79ff76faae7bf2c.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="2" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Kansas City Chiefs at Buffalo Bills 2 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Kansas City Chiefs at Buffalo Bills 2 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-f0214e2c6ab608101d94.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="3" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Kansas City Chiefs at Buffalo Bills 3 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Kansas City Chiefs at Buffalo Bills 3 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-de2cc97e73265279504c.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="4" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Kansas City Chiefs at Buffalo Bills 4 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Kansas City Chiefs at Buffalo Bills 4 (SPRTSBITE)
+#EXTVLCOPT:http-referrer=https://sportsbite.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sportsbite.org/selfhost/cdn/s-183ac3d5db89abcac392.m3u8?cdn=1
+#EXTINF:-1 tvg-chno="8" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball World Cup] Argentina vs Bahamas (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[Basketball World Cup] Argentina vs Bahamas (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/GTGTGT.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Kairat Almaty vs. Mjällby AIF 1 (SPRTSBITE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Kairat Almaty vs. Mjällby AIF 1 (SPRTSBITE)
-#EXTVLCOPT:http-referrer=https://sportsbite.org
+http://193.47.62.41/hls/viiiAaQ.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie A] Sao Paulo vs Remo (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live Events",[Brazil Serie A] Sao Paulo vs Remo (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportsbite.org/selfhost/cdn/s-0ec8b633b3a51b8f7ed3.m3u8?cdn=1
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Kairat Almaty vs. Mjällby AIF 2 (SPRTSBITE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live Events",[Football] Kairat Almaty vs. Mjällby AIF 2 (SPRTSBITE)
-#EXTVLCOPT:http-referrer=https://sportsbite.org
+http://193.47.62.41/hls/viiiA.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[CFB] Texas Tech vs TCU (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[CFB] Texas Tech vs TCU (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61119?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportsbite.org/selfhost/cdn/s-80413e4c0c1af6a20309.m3u8?cdn=1
-#EXTINF:-1 tvg-chno="38" tvg-id="Golf.Dummy.us" tvg-name="[Golf LPGA] Golf LPGA Andalucia Costa del Sol (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf LPGA] Golf LPGA Andalucia Costa del Sol (FAWA)
+https://chatgpt.hereisman.net/playlist/61119/load-playlist
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.Dummy.us" tvg-name="[Cricket] New Zealand vs India (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" group-title="Live Events",[Cricket] New Zealand vs India (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/viii.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[FIBA World Cup Qualification, Americas] Argentina vs Bahamas (iSTRMEAST)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[FIBA World Cup Qualification, Americas] Argentina vs Bahamas (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61092?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61092/load-playlist
+#EXTINF:-1 tvg-chno="35" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf BMW Australian PGA Championship (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf BMW Australian PGA Championship (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/DEDEDEDEAA.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Club Leon vs Cruz Azul (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Club Leon vs Cruz Azul (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/vavavava.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+http://193.47.62.41/hls/viiiAaQQqQ.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Texas Tech vs TCU (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Texas Tech vs TCU (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/vavavavaq.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.Dummy.us" tvg-name="[Kenya Premier League] Gor Mahia vs Mombasa United (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Kenyan_Premier_League_logo.png" group-title="Live Events",[Kenya Premier League] Gor Mahia vs Mombasa United (FAWA)
+http://193.47.62.41/hls/viiiAa.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men] LSU vs South. Methodist (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Men] LSU vs South. Methodist (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61113?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61113/load-playlist
+#EXTINF:-1 tvg-chno="65" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men] Pittsburgh vs DePaul (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Men] Pittsburgh vs DePaul (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61112?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61112/load-playlist
+#EXTINF:-1 tvg-chno="66" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men] TCU vs Creighton (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Men] TCU vs Creighton (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61111?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61111/load-playlist
+#EXTINF:-1 tvg-chno="70" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Dallas Cowboys vs Philadelphia Eagles 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Dallas Cowboys vs Philadelphia Eagles 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/GTGTGTAAA.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men] Cincinnati vs Georgia Bulldogs (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA Men] Cincinnati vs Georgia Bulldogs (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61068?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/61068/load-playlist
-#EXTINF:-1 tvg-chno="122" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Liga 2] Gloria Bistrita vs CSM Slatina (FAWA)" tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/9113.png" group-title="Live Events",[Romania Liga 2] Gloria Bistrita vs CSM Slatina (FAWA)
+http://193.47.62.50/hls/I555A.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Detroit Lions vs Chicago Bears 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Detroit Lions vs Chicago Bears 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/QTTTAAAQ.m3u8
-#EXTINF:-1 tvg-chno="123" tvg-id="Soccer.Dummy.us" tvg-name="[Russia Cup] Dynamo Moscow vs Fakel Voronezh (FAWA)" tvg-logo="https://i.namu.wiki/i/2iKkh5JNZ5kvezj1A84Qwd7q2FntN7ayCr4DmWSTNx7zv-NcQj9vaJ6xbtTx--nPpioPNU02J38z-kaIL5SjeQ.webp" group-title="Live Events",[Russia Cup] Dynamo Moscow vs Fakel Voronezh (FAWA)
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c4409968-32d7-4250-9f26-e2c9c306ace5/master.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buffalo Bills vs Kansas City Chiefs (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Buffalo Bills vs Kansas City Chiefs (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61114?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61114/load-playlist
+#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chicago Bears at Detroit Lions (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Chicago Bears at Detroit Lions (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://zincrelay.s3.eu-west-3.amazonaws.com/btsport.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Dallas Cowboys vs Philadelphia Eagles (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Dallas Cowboys vs Philadelphia Eagles (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/61096?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61096/load-playlist
+#EXTINF:-1 tvg-chno="111" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Kansas City Chiefs at Buffalo Bills (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Kansas City Chiefs at Buffalo Bills (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://foxfiber.s3.eu-north-1.amazonaws.com/sportsnet.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Kansas City Chiefs vs Buffalo Bills (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Kansas City Chiefs vs Buffalo Bills (MP66)
+#EXTVLCOPT:http-referrer=https://nfl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://node-7a1d2f4c.mlb9.com/6b094d9f.552c3cd8i5c3b601d.19d43.1479496f/free.live.nfl/master.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Kansas City Chiefs vs Buffalo Bills | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Kansas City Chiefs vs Buffalo Bills | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873082
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge.candyshop.st/live3/tv401873082/index.m3u8?st=QetaHepzJuln6wcQmYfJiA&e=1795752007
+#EXTINF:-1 tvg-chno="114" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[NFL] NFL Network (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54923?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/54923/load-playlist
+#EXTINF:-1 tvg-chno="115" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles at Dallas Cowboys (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Philadelphia Eagles at Dallas Cowboys (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://foxfiber.s3.eu-north-1.amazonaws.com/btsport.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles vs Dallas Cowboys | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Philadelphia Eagles vs Dallas Cowboys | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873080
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edge.candyshop.st/live3/tv401873080/index.m3u8?st=WpYInLs47-Ip3-KZXQf7og&e=1795748406
+#EXTINF:-1 tvg-chno="237" tvg-id="Live.Event.us" tvg-name="[Uruguay Cup] Montevideo City vs Nacional (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Uruguay Cup] Montevideo City vs Nacional (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/GTGTGTAAAA.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Premier League] Abha vs Al Shabab (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="Live Events",[Saudi Premier League] Abha vs Al Shabab (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QYYYQQ.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Kairat Almaty vs Mjallby 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Kairat Almaty vs Mjallby 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QYYYQQQ.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Kairat Almaty vs Mjallby 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",[UEFA Conference League] Kairat Almaty vs Mjallby 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/73e628ab-44f6-40dd-be0b-91f5b7be2299.m3u8
-#EXTINF:-1 tvg-chno="362" tvg-id="Live.Event.us" tvg-name="[World Cup U17] China U17 vs Fiji U17 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[World Cup U17] China U17 vs Fiji U17 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QYYY.m3u8
-#EXTINF:-1 tvg-chno="363" tvg-id="Live.Event.us" tvg-name="[World Cup U17] Croatia U17 vs Cuba U17 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[World Cup U17] Croatia U17 vs Cuba U17 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/GTGTGTA.m3u8
-#EXTINF:-1 tvg-chno="365" tvg-id="Live.Event.us" tvg-name="[World Cup U17] Morocco U17 vs Spain U17 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[World Cup U17] Morocco U17 vs Spain U17 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QYYYQ.m3u8
-#EXTINF:-1 tvg-chno="367" tvg-id="Live.Event.us" tvg-name="[World Cup U17] Tajikistan U17 vs Senegal U17 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[World Cup U17] Tajikistan U17 vs Senegal U17 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/GTGTGTAA.m3u8
+http://193.47.62.41/hls/viiiAaQQq.m3u8
